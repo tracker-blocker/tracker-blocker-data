@@ -1,7 +1,9 @@
-[
-    {
-        "domain": "something.com",
-        "owner": "Something Inc.",
-        "rule": "something\\.com"
+{
+    "something.com": {
+        "owner": {
+            "name": "something inc."
+        },
+        "hardblock": true,
+        "rules": ["regex1", "regex2"]
     }
-]
+}

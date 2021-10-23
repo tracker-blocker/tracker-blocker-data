@@ -7,21 +7,48 @@ TRACKER_RADER_PATH = os.getenv('TRACKER_RADER_PATH', 'tracker-rader')
 
 NONBLOCKING_CATEGORIES = set(["CDN", "Online Payment", "SSO"])
 HARDBLOCK_CATEGORIES = set(['Malware', 'Obscure Ownership', 'Unknown High Risk Behavior'])
+ADS_ONLY_CATEGORIES = set(["Ad Motivated Tracking", "Advertising","Analytics","Audience Measurement", "Action Pixels", "Third-Party Analytics Marketing"])
 
-def parse_content(content):
-    data = json.loads(base64.b64decode(content))
-    print(data['domain'])
+COUNT = [0]
 
+def add_blocks(results, data, constrained):
+    domain = data['domain']
+    owner = data['owner']
+    resources = data['resources']
 
-def filter_data(data):
-    pass
+    obj = {}
+    if not results.get(domain):
+        obj['owner'] = {}
+        obj['rules'] = []
+        obj['hardblock'] = False
+        results[domain] = obj
+
+    if not results[domain]['owner'] and owner:
+        results[domain]['owner'] = owner
+
+    for r in data['resources']:
+        if constrained:
+            if r['fingerprinting'] >= 1 or r['cookies'] > 0:
+                results[domain]['rules'].append(r['rule'])
+                COUNT[0] += 1
+        else:
+            results[domain]['rules'].append(r['rule'])
+            print('Hardblocked', data['domain'])
+            COUNT[0] += 1
+
+    if not constrained:
+        results[domain]['hardblock'] = True
+
+    if not results[domain]['rules']:
+        del results[domain]
 
 
 def main():
     filesnames = glob.glob(f"{TRACKER_RADER_PATH}/domains/*/*.json")
 
     count = 0
-    results = []
+    # results = []
+    results = dict({})
     for filename in filesnames:
         with open(filename) as file:
             data = json.load(file)
@@ -30,8 +57,8 @@ def main():
                 HARDBLOCK_CATEGORIES.intersection(data['categories'])
             ]
             if any(block_conditions):
-                results.append(data['domain'])
-                count += 1
+                # results.append(data['domain'])
+                add_blocks(results, data, False)
                 continue
 
             skip_conditions = [
@@ -42,19 +69,13 @@ def main():
                 # print(data['domain'])
                 continue
 
-            for r in data['resources']:
-                if r['fingerprinting'] >= 1:
-                    results.append(data['domain'])
-                    break
+            add_blocks(results, data, True)
 
-            count += 1
-            # results.append(data['domain'])
+    with open('block.json', 'w') as f:
+        result_json = json.dumps(results, indent=2, sort_keys=True)
+        f.write(result_json)
 
-    with open('block.txt', 'w') as f:
-        for domain in results:
-            f.write(domain+'\n')
-
-    print('Stats:', len(filesnames), count)
+    print('Stats:', len(results.keys()), COUNT[0])
     print('done.')
 
 if __name__ == "__main__":

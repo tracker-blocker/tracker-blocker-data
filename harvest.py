@@ -20,7 +20,7 @@ def add_blocks(results, data, constrained):
     obj = {}
     if not results.get(domain):
         obj['owner'] = {}
-        obj['rules'] = []
+        obj['rules'] = set([])
         obj['hardblock'] = False
         results[domain] = obj
 
@@ -30,10 +30,10 @@ def add_blocks(results, data, constrained):
     for r in data['resources']:
         if constrained:
             if r['fingerprinting'] >= 1 or r['cookies'] > 0:
-                results[domain]['rules'].append(r['rule'])
+                results[domain]['rules'].add(r['rule'])
                 COUNT[0] += 1
         else:
-            results[domain]['rules'].append(r['rule'])
+            results[domain]['rules'].add(r['rule'])
             # print('Hardblocked', data['domain'])
             COUNT[0] += 1
 
@@ -44,13 +44,18 @@ def add_blocks(results, data, constrained):
         del results[domain]
 
 
-def shorten_hardblock_rules(results):
+def shorten_rules(results):
+    '''
+    Shortens hardblock rules and remove duplicates
+    '''
     for domain, value in results.items():
         if not value['owner']:
             value['hardblock'] = True
 
         if value['hardblock']:
-            results[domain]['rules'] = ["\\.".join(domain.split("."))]
+            results[domain]['rules'] = set(["\\.".join(domain.split("."))])
+
+        results[domain]['rules'] = list(results[domain]['rules'])
 
 
 def main():
@@ -84,7 +89,7 @@ def main():
 
             add_blocks(results, data, True)
 
-    shorten_hardblock_rules(results)
+    shorten_rules(results)
     with open('block.json', 'w') as f:
         result_json = json.dumps(results, indent=2, sort_keys=True)
         f.write(result_json)

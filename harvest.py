@@ -7,7 +7,7 @@ TRACKER_RADER_PATH = os.getenv('TRACKER_RADER_PATH', 'tracker-rader')
 
 NONBLOCKING_CATEGORIES = set(["CDN", "Online Payment", "SSO"])
 HARDBLOCK_CATEGORIES = set(['Malware', 'Obscure Ownership', 'Unknown High Risk Behavior'])
-ADS_ONLY_CATEGORIES = set(["Ad Motivated Tracking", "Advertising","Analytics","Audience Measurement", "Action Pixels", "Third-Party Analytics Marketing"])
+ADS_ONLY_CATEGORIES = set(["Ad Motivated Tracking","Ad Fraud","Advertising","Analytics","Audience Measurement", "Action Pixels", "Third-Party Analytics Marketing", "Session Replay"])
 
 COUNT = [0]
 
@@ -33,7 +33,7 @@ def add_blocks(results, data, constrained):
                 COUNT[0] += 1
         else:
             results[domain]['rules'].append(r['rule'])
-            print('Hardblocked', data['domain'])
+            # print('Hardblocked', data['domain'])
             COUNT[0] += 1
 
     if not constrained:
@@ -45,6 +45,9 @@ def add_blocks(results, data, constrained):
 
 def shorten_hardblock_rules(results):
     for domain, value in results.items():
+        if not value['owner']:
+            value['hardblock'] = True
+
         if value['hardblock']:
             results[domain]['rules'] = ["\\.".join(domain.split("."))]
 
@@ -52,16 +55,13 @@ def shorten_hardblock_rules(results):
 def main():
     filesnames = glob.glob(f"{TRACKER_RADER_PATH}/domains/*/*.json")
 
-    count = 0
-    # results = []
     results = dict({})
     for filename in filesnames:
         with open(filename) as file:
             data = json.load(file)
 
             block_conditions = [
-                HARDBLOCK_CATEGORIES.intersection(data['categories']),
-                data['categories'] and not set(data['categories']).difference(ADS_ONLY_CATEGORIES)
+                HARDBLOCK_CATEGORIES.intersection(data['categories'])
             ]
             if any(block_conditions):
                 # results.append(data['domain'])
@@ -73,7 +73,10 @@ def main():
                 data['prevalence'] < 0.01,
             ]
             if any(skip_conditions):
-                # print(data['domain'])
+                continue
+
+            if data['categories'] and not set(data['categories']).difference(ADS_ONLY_CATEGORIES):
+                add_blocks(results, data, False)
                 continue
 
             add_blocks(results, data, True)

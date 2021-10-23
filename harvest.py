@@ -43,6 +43,12 @@ def add_blocks(results, data, constrained):
         del results[domain]
 
 
+def shorten_hardblock_rules(results):
+    for domain, value in results.items():
+        if value['hardblock']:
+            results[domain]['rules'] = ["\\.".join(domain.split("."))]
+
+
 def main():
     filesnames = glob.glob(f"{TRACKER_RADER_PATH}/domains/*/*.json")
 
@@ -54,7 +60,8 @@ def main():
             data = json.load(file)
 
             block_conditions = [
-                HARDBLOCK_CATEGORIES.intersection(data['categories'])
+                HARDBLOCK_CATEGORIES.intersection(data['categories']),
+                data['categories'] and not set(data['categories']).difference(ADS_ONLY_CATEGORIES)
             ]
             if any(block_conditions):
                 # results.append(data['domain'])
@@ -71,6 +78,7 @@ def main():
 
             add_blocks(results, data, True)
 
+    shorten_hardblock_rules(results)
     with open('block.json', 'w') as f:
         result_json = json.dumps(results, indent=2, sort_keys=True)
         f.write(result_json)

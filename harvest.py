@@ -1,6 +1,7 @@
 import os
 import json
 import glob
+import time
 
 
 TRACKER_RADER_PATH = os.getenv('TRACKER_RADER_PATH', 'tracker-rader')
@@ -53,6 +54,8 @@ def shorten_hardblock_rules(results):
 
 
 def main():
+    start = time.time()
+
     filesnames = glob.glob(f"{TRACKER_RADER_PATH}/domains/*/*.json")
 
     results = dict({})
@@ -86,7 +89,14 @@ def main():
         result_json = json.dumps(results, indent=2, sort_keys=True)
         f.write(result_json)
 
-    print('Stats:', len(results.keys()), COUNT[0])
+    end = time.time()
+
+    count = 0
+    for _,value in results.items():
+        count += len(value['rules'])
+    # print('Stats:', len(results.keys()), COUNT[0], count)
+    print(f"Stats:\n domains={len(results.keys())}, found={COUNT[0]} filtered={count}")
+    print(f"Time Elapsed: {end - start}")
     print('done.')
 
 if __name__ == "__main__":

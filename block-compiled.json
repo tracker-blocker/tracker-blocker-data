@@ -1,0 +1,3942 @@
+{
+  "1rx.io": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "RhythmOne",
+      "name": "RhythmOne",
+      "privacyPolicy": "https://www.rhythmone.com/privacy-policy",
+      "url": "http://rhythmone.com"
+    },
+    "rules": [
+      "1rx\\.io"
+    ]
+  },
+  "2mdn.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Google",
+      "name": "Google LLC",
+      "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+      "url": "http://google.com"
+    },
+    "rules": [
+      "2mdn\\.net"
+    ]
+  },
+  "2o7.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Adobe",
+      "name": "Adobe Inc.",
+      "privacyPolicy": "https://www.adobe.com/privacy/marketing-cloud.html",
+      "url": "http://adobe.com"
+    },
+    "rules": [
+      "2o7\\.net"
+    ]
+  },
+  "33across.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "33Across",
+      "name": "33Across, Inc.",
+      "privacyPolicy": "https://33across.com/privacy-policy/",
+      "url": "http://33across.com"
+    },
+    "rules": [
+      "33across\\.com"
+    ]
+  },
+  "360yield.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Improve Digital",
+      "name": "Improve Digital BV",
+      "privacyPolicy": "https://www.improvedigital.com/platform-privacy-policy/",
+      "url": "http://improvedigital.com"
+    },
+    "rules": [
+      "360yield\\.com"
+    ]
+  },
+  "3lift.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "TripleLift",
+      "name": "TripleLift",
+      "privacyPolicy": "https://triplelift.com/privacy/",
+      "url": "http://triplelift.com"
+    },
+    "rules": [
+      "3lift\\.com"
+    ]
+  },
+  "4dex.io": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Adagio",
+      "name": "Adagio"
+    },
+    "rules": [
+      "4dex\\.io\\/data",
+      "4dex\\.io\\/sync",
+      "4dex\\.io\\/setuid",
+      "4dex\\.io\\/prebid",
+      "4dex\\.io\\/localstore\\.js"
+    ]
+  },
+  "a-mo.net": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "a-mo\\.net"
+    ]
+  },
+  "a2z.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Amazon.com",
+      "name": "Amazon Technologies, Inc.",
+      "privacyPolicy": "https://www.amazon.com/gp/help/customer/display.html?nodeId=468496",
+      "url": "http://amazon.com"
+    },
+    "rules": [
+      "a2z\\.com\\/resource\\/00000179-3cdd-d40f-a779-bedf7f820000\\/styleguide\\/All\\.min\\.9c51cd9361da4ce21bc94fc5283f2498\\.gz\\.js"
+    ]
+  },
+  "abtasty.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Liwio",
+      "name": "Liwio",
+      "privacyPolicy": "https://www.abtasty.com/terms-of-use/",
+      "url": "http://abtasty.com"
+    },
+    "rules": [
+      "abtasty\\.com"
+    ]
+  },
+  "acuityplatform.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "AcuityAds",
+      "name": "AcuityAds",
+      "privacyPolicy": "https://acuityscheduling.com/privacy.php",
+      "url": "http://acuityscheduling.com"
+    },
+    "rules": [
+      "acuityplatform\\.com"
+    ]
+  },
+  "ad-m.asia": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "FreeBit",
+      "name": "FreeBit Co, Ltd."
+    },
+    "rules": [
+      "ad-m\\.asia"
+    ]
+  },
+  "ad.gt": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "ad\\.gt"
+    ]
+  },
+  "ad4m.at": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "advanced STORE",
+      "name": "advanced STORE GmbH"
+    },
+    "rules": [
+      "ad4m\\.at"
+    ]
+  },
+  "addthis.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Oracle",
+      "name": "Oracle Corporation",
+      "privacyPolicy": "https://www.oracle.com/legal/privacy/privacy-policy.html",
+      "url": "http://oracle.com"
+    },
+    "rules": [
+      "addthis\\.com\\/dc\\/0\\.c2b324c3e879644bb1df\\.js",
+      "addthis\\.com\\/red\\/usync",
+      "addthis\\.com\\/t\\.gif",
+      "addthis\\.com\\/static",
+      "addthis\\.com\\/e",
+      "addthis\\.com\\/js",
+      "addthis\\.com\\/live\\/red_lojson"
+    ]
+  },
+  "addtoany.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "AddToAny",
+      "name": "AddToAny",
+      "privacyPolicy": "https://www.addtoany.com/privacy",
+      "url": "http://addtoany.com"
+    },
+    "rules": [
+      "addtoany\\.com\\/menu\\/page\\.js"
+    ]
+  },
+  "adentifi.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "AdTheorent",
+      "name": "AdTheorent Inc",
+      "privacyPolicy": "https://www.adtheorent.com/privacy-policy",
+      "url": "http://adtheorent.com"
+    },
+    "rules": [
+      "adentifi\\.com"
+    ]
+  },
+  "adform.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Adform",
+      "name": "Adform A/S",
+      "privacyPolicy": "https://site.adform.com/privacy-center/overview/",
+      "url": "http://adform.com"
+    },
+    "rules": [
+      "adform\\.net"
+    ]
+  },
+  "adgrx.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "AdGear",
+      "name": "AdGear Technologies Inc.",
+      "privacyPolicy": "https://adgear.com/en/privacy/",
+      "url": "http://adgear.com"
+    },
+    "rules": [
+      "adgrx\\.com"
+    ]
+  },
+  "adingo.jp": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "fluct",
+      "name": "fluct,Inc."
+    },
+    "rules": [
+      "adingo\\.jp"
+    ]
+  },
+  "adition.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Virtual Minds",
+      "name": "Virtual Minds AG",
+      "privacyPolicy": "https://www.virtualminds.de/en/",
+      "url": "http://virtualminds.de"
+    },
+    "rules": [
+      "adition\\.com"
+    ]
+  },
+  "adkernel.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Adkernel",
+      "name": "Adkernel, LLC",
+      "privacyPolicy": "https://adkernel.com/privacy-policy/",
+      "url": "http://adkernel.com"
+    },
+    "rules": [
+      "adkernel\\.com"
+    ]
+  },
+  "adlightning.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Ad Lightning",
+      "name": "Ad Lightning, Inc.",
+      "privacyPolicy": "https://www.adlightning.com/privacy",
+      "url": "http://adlightning.com"
+    },
+    "rules": [
+      "adlightning\\.com"
+    ]
+  },
+  "admanmedia.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "ADman Media",
+      "name": "ADman Media"
+    },
+    "rules": [
+      "admanmedia\\.com"
+    ]
+  },
+  "admedo.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Admedo",
+      "name": "Admedo",
+      "privacyPolicy": "https://www.admedo.com/privacy-policy",
+      "url": "http://admedo.com"
+    },
+    "rules": [
+      "admedo\\.com"
+    ]
+  },
+  "admixer.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Admixer",
+      "name": "Admixer Technologies",
+      "privacyPolicy": "https://admixer.net/privacy",
+      "url": "http://admixer.net"
+    },
+    "rules": [
+      "admixer\\.net"
+    ]
+  },
+  "adnami.io": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Adnami",
+      "name": "Adnami ApS"
+    },
+    "rules": [
+      "adnami\\.io\\/macro\\/gen\\/adsm\\.macro\\.rmb\\.js",
+      "adnami\\.io\\/macro\\/spec\\/adsm\\.macro"
+    ]
+  },
+  "adnxs.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "WarnerMedia",
+      "name": "WarnerMedia, LLC"
+    },
+    "rules": [
+      "adnxs\\.com"
+    ]
+  },
+  "adobedtm.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Adobe",
+      "name": "Adobe Inc.",
+      "privacyPolicy": "https://www.adobe.com/privacy/marketing-cloud.html",
+      "url": "http://adobe.com"
+    },
+    "rules": [
+      "adobedtm\\.com"
+    ]
+  },
+  "adotmob.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "A.Mob",
+      "name": "A.Mob SAS",
+      "privacyPolicy": "https://adotmob.com/privacy.html",
+      "url": "http://adotmob.com"
+    },
+    "rules": [
+      "adotmob\\.com"
+    ]
+  },
+  "adroll.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "AdRoll",
+      "name": "AdRoll, Inc.",
+      "privacyPolicy": "https://www.adroll.com/about/privacy",
+      "url": "http://adroll.com"
+    },
+    "rules": [
+      "adroll\\.com"
+    ]
+  },
+  "ads-twitter.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Twitter",
+      "name": "Twitter, Inc.",
+      "privacyPolicy": "https://twitter.com/en/privacy",
+      "url": "http://twitter.com"
+    },
+    "rules": [
+      "ads-twitter\\.com"
+    ]
+  },
+  "adsafeprotected.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Integral Ad Science",
+      "name": "Integral Ad Science, Inc.",
+      "privacyPolicy": "https://integralads.com/privacy-policy/",
+      "url": "http://integralads.com"
+    },
+    "rules": [
+      "adsafeprotected\\.com"
+    ]
+  },
+  "adsrvr.org": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "The Trade Desk",
+      "name": "The Trade Desk Inc",
+      "privacyPolicy": "https://www.thetradedesk.com/general/privacy-policy",
+      "url": "http://thetradedesk.com"
+    },
+    "rules": [
+      "adsrvr\\.org"
+    ]
+  },
+  "adstanding.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "AdStanding",
+      "name": "AdStanding",
+      "privacyPolicy": "https://standingroomonly.tv/privacy-policy/",
+      "url": "http://standingroomonly.tv"
+    },
+    "rules": [
+      "adstanding\\.com"
+    ]
+  },
+  "adsymptotic.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Microsoft",
+      "name": "Microsoft Corporation",
+      "privacyPolicy": "https://privacy.microsoft.com/en-us/privacystatement",
+      "url": "http://microsoft.com"
+    },
+    "rules": [
+      "adsymptotic\\.com"
+    ]
+  },
+  "adthrive.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "AdThrive",
+      "name": "AdThrive, LLC",
+      "privacyPolicy": "https://www.adthrive.com/privacy/",
+      "url": "http://adthrive.com"
+    },
+    "rules": [
+      "adthrive\\.com"
+    ]
+  },
+  "advangelists.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Mobiquity",
+      "name": "Mobiquity Inc."
+    },
+    "rules": [
+      "advangelists\\.com\\/v1\\/audiences\\/insights",
+      "advangelists\\.com\\/xp\\/evt",
+      "advangelists\\.com\\/xp\\/get",
+      "advangelists\\.com\\/xp\\/user-sync"
+    ]
+  },
+  "advertising.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Verizon Media",
+      "name": "Verizon Media",
+      "privacyPolicy": "https://www.verizon.com/about/privacy/privacy-policy-summary",
+      "url": "http://verizon.com"
+    },
+    "rules": [
+      "advertising\\.com"
+    ]
+  },
+  "affec.tv": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Affectv",
+      "name": "Affectv"
+    },
+    "rules": [
+      "affec\\.tv"
+    ]
+  },
+  "agkn.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Neustar",
+      "name": "Neustar, Inc.",
+      "privacyPolicy": "https://www.home.neustar/privacy",
+      "url": "http://home.neustar"
+    },
+    "rules": [
+      "agkn\\.com"
+    ]
+  },
+  "alexametrics.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Amazon.com",
+      "name": "Amazon Technologies, Inc.",
+      "privacyPolicy": "https://www.amazon.com/gp/help/customer/display.html?nodeId=468496",
+      "url": "http://amazon.com"
+    },
+    "rules": [
+      "alexametrics\\.com"
+    ]
+  },
+  "amazon-adsystem.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Amazon.com",
+      "name": "Amazon Technologies, Inc.",
+      "privacyPolicy": "https://www.amazon.com/gp/help/customer/display.html?nodeId=468496",
+      "url": "http://amazon.com"
+    },
+    "rules": [
+      "amazon-adsystem\\.com"
+    ]
+  },
+  "appier.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Appier",
+      "name": "Appier",
+      "privacyPolicy": "https://www.appier.com/retargeting-privacy-policy-2/",
+      "url": "http://appier.com"
+    },
+    "rules": [
+      "appier\\.net"
+    ]
+  },
+  "apxlv.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Cogo Labs",
+      "name": "Cogo Labs"
+    },
+    "rules": [
+      "apxlv\\.com"
+    ]
+  },
+  "atdmt.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Facebook",
+      "name": "Facebook, Inc.",
+      "privacyPolicy": "https://www.facebook.com/privacy/explanation",
+      "url": "http://facebook.com"
+    },
+    "rules": [
+      "atdmt\\.com"
+    ]
+  },
+  "aticdn.net": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "AT Internet",
+      "name": "AT Internet",
+      "privacyPolicy": "https://www.atinternet.com/en/company/data-protection/data-collection-on-at-internets-sites/",
+      "url": "http://atinternet.com"
+    },
+    "rules": [
+      "aticdn\\.net"
+    ]
+  },
+  "audrte.com": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "audrte\\.com"
+    ]
+  },
+  "aufp.io": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "aufp\\.io"
+    ]
+  },
+  "avct.cloud": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Avocet Systems",
+      "name": "Avocet Systems Ltd.",
+      "privacyPolicy": "https://avocet.io/privacy-portal",
+      "url": "http://avocet.io"
+    },
+    "rules": [
+      "avct\\.cloud\\/prebid",
+      "avct\\.cloud\\/s",
+      "avct\\.cloud\\/getuid"
+    ]
+  },
+  "avis-verifies.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Net Reviews",
+      "name": "Net Reviews SAS"
+    },
+    "rules": [
+      "avis-verifies\\.com\\/avis-clients\\/widget\\/5\\/6\\/b\\/56b55c88-020b-7e84-9179-83cca5cdab18\\/iframe_site\\/horizontal\\/56b55c88-020b-7e84-9179-83cca5cdab18index\\.php",
+      "avis-verifies\\.com\\/fr\\/widget4",
+      "avis-verifies\\.com\\/fr\\/cache"
+    ]
+  },
+  "avocet.io": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Avocet Systems",
+      "name": "Avocet Systems Ltd.",
+      "privacyPolicy": "https://avocet.io/privacy-portal",
+      "url": "http://avocet.io"
+    },
+    "rules": [
+      "avocet\\.io"
+    ]
+  },
+  "axept.io": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "axept\\.io"
+    ]
+  },
+  "bannernow.com": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "bannernow\\.com"
+    ]
+  },
+  "betweendigital.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "SSP Network",
+      "name": "SSP Network Ltd"
+    },
+    "rules": [
+      "betweendigital\\.com"
+    ]
+  },
+  "bfmio.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Beachfront Media",
+      "name": "Beachfront Media LLC",
+      "privacyPolicy": "http://beachfront.com/privacy-policy/",
+      "url": "http://beachfront.com"
+    },
+    "rules": [
+      "bfmio\\.com"
+    ]
+  },
+  "bidr.io": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Beeswax",
+      "name": "Beeswax",
+      "privacyPolicy": "https://www.beeswax.com/privacy.html",
+      "url": "http://beeswax.com"
+    },
+    "rules": [
+      "bidr\\.io"
+    ]
+  },
+  "bidswitch.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "IPONWEB",
+      "name": "IPONWEB GmbH",
+      "privacyPolicy": "https://www.iponweb.com/privacy-policy/",
+      "url": "http://iponweb.com"
+    },
+    "rules": [
+      "bidswitch\\.net"
+    ]
+  },
+  "bidtheatre.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "BidTheatre",
+      "name": "BidTheatre AB"
+    },
+    "rules": [
+      "bidtheatre\\.com\\/js\\/asx_analytics\\.min\\.js",
+      "bidtheatre\\.com\\/usersync",
+      "bidtheatre\\.com\\/tremormatch",
+      "bidtheatre\\.com\\/adformmatch",
+      "bidtheatre\\.com\\/adxcookie",
+      "bidtheatre\\.com\\/checkpoint",
+      "bidtheatre\\.com\\/pubmaticmatch"
+    ]
+  },
+  "bing.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Microsoft",
+      "name": "Microsoft Corporation",
+      "privacyPolicy": "https://privacy.microsoft.com/en-us/privacystatement",
+      "url": "http://microsoft.com"
+    },
+    "rules": [
+      "bing\\.com\\/widget\\/metrics\\.js",
+      "bing\\.com\\/api\\/beta\\/v7\\/ads\\/native\\/search",
+      "bing\\.com\\/orgid\\/idtoken\\/conditional",
+      "bing\\.com\\/cst\\/cst\\.js",
+      "bing\\.com\\/maps\\/instrumentation",
+      "bing\\.com\\/bat\\.js",
+      "bing\\.com\\/api\\/maps\\/mapcontrol",
+      "bing\\.com\\/rewardsapp\\/reportActivity",
+      "bing\\.com\\/secure\\/Passport\\.aspx",
+      "bing\\.com\\/action\\/0",
+      "bing\\.com\\/rewardsapp\\/ncheader",
+      "bing\\.com\\/ipv6test\\/test",
+      "bing\\.com\\/search",
+      "bing\\.com\\/api\\/v1\\/mediation\\/tracking",
+      "bing\\.com\\/maps\\/sdk\\/mapcontrol",
+      "bing\\.com\\/maps\\/sdkrelease\\/mapcontrol",
+      "bing\\.com\\/images\\/sbi",
+      "bing\\.com\\/c\\.gif",
+      "bing\\.com\\/p\\/action",
+      "bing\\.com\\/rp",
+      "bing\\.com\\/vs\\/ec"
+    ]
+  },
+  "bkrtx.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Oracle",
+      "name": "Oracle Corporation",
+      "privacyPolicy": "https://www.oracle.com/legal/privacy/privacy-policy.html",
+      "url": "http://oracle.com"
+    },
+    "rules": [
+      "bkrtx\\.com"
+    ]
+  },
+  "blismedia.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Blis",
+      "name": "Blis Global Ltd"
+    },
+    "rules": [
+      "blismedia\\.com"
+    ]
+  },
+  "bluekai.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Oracle",
+      "name": "Oracle Corporation",
+      "privacyPolicy": "https://www.oracle.com/legal/privacy/privacy-policy.html",
+      "url": "http://oracle.com"
+    },
+    "rules": [
+      "bluekai\\.com"
+    ]
+  },
+  "bnmla.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "engageBDR",
+      "name": "engageBDR"
+    },
+    "rules": [
+      "bnmla\\.com\\/usersync",
+      "bnmla\\.com\\/view\\.js"
+    ]
+  },
+  "bounceexchange.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Bounce Exchange",
+      "name": "Bounce Exchange",
+      "privacyPolicy": "https://www.bouncex.com/privacy/",
+      "url": "http://bouncex.com"
+    },
+    "rules": [
+      "bounceexchange\\.com"
+    ]
+  },
+  "brand-display.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Knorex",
+      "name": "Knorex Pte. Ltd."
+    },
+    "rules": [
+      "brand-display\\.com"
+    ]
+  },
+  "brealtime.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "EMX Digital",
+      "name": "EMX Digital, LLC"
+    },
+    "rules": [
+      "brealtime\\.com"
+    ]
+  },
+  "btloader.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Blockthrough",
+      "name": "Blockthrough Inc."
+    },
+    "rules": [
+      "btloader\\.com\\/tag"
+    ]
+  },
+  "bttrack.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Bidtellect",
+      "name": "Bidtellect, Inc",
+      "privacyPolicy": "https://bidtellect.com/privacy-policy/",
+      "url": "http://bidtellect.com"
+    },
+    "rules": [
+      "bttrack\\.com"
+    ]
+  },
+  "casalemedia.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Index Exchange",
+      "name": "Index Exchange, Inc.",
+      "privacyPolicy": "http://casalemedia.com/",
+      "url": "http://casalemedia.com"
+    },
+    "rules": [
+      "casalemedia\\.com"
+    ]
+  },
+  "cdntrf.com": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "cdntrf\\.com"
+    ]
+  },
+  "cdnwidget.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "CDNWIDGET.COM",
+      "name": "CDNWIDGET.COM"
+    },
+    "rules": [
+      "cdnwidget\\.com"
+    ]
+  },
+  "chartbeat.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Chartbeat",
+      "name": "Chartbeat",
+      "privacyPolicy": "https://chartbeat.com/privacy/",
+      "url": "http://chartbeat.com"
+    },
+    "rules": [
+      "chartbeat\\.com"
+    ]
+  },
+  "chartbeat.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Chartbeat",
+      "name": "Chartbeat",
+      "privacyPolicy": "https://chartbeat.com/privacy/",
+      "url": "http://chartbeat.com"
+    },
+    "rules": [
+      "chartbeat\\.net"
+    ]
+  },
+  "chocolateplatform.com": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "chocolateplatform\\.com"
+    ]
+  },
+  "civiccomputing.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Civic Computing",
+      "name": "Civic Computing Limited"
+    },
+    "rules": [
+      "civiccomputing\\.com\\/8",
+      "civiccomputing\\.com\\/9"
+    ]
+  },
+  "clarity.ms": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "clarity\\.ms"
+    ]
+  },
+  "cleverpush.com": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "cleverpush\\.com"
+    ]
+  },
+  "clickagy.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Clickagy",
+      "name": "Clickagy",
+      "privacyPolicy": "https://www.clickagy.com/privacy/",
+      "url": "http://clickagy.com"
+    },
+    "rules": [
+      "clickagy\\.com"
+    ]
+  },
+  "clientgear.com": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "clientgear\\.com"
+    ]
+  },
+  "cloudflareinsights.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Cloudflare",
+      "name": "Cloudflare, Inc.",
+      "privacyPolicy": "https://www.cloudflare.com/privacypolicy/",
+      "url": "http://cloudflare.com"
+    },
+    "rules": [
+      "cloudflareinsights\\.com\\/beacon\\.min\\.js"
+    ]
+  },
+  "cognitivlabs.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Cognitiv",
+      "name": "Cognitiv Corp."
+    },
+    "rules": [
+      "cognitivlabs\\.com\\/pixel\\.gif",
+      "cognitivlabs\\.com\\/ix\\.gif",
+      "cognitivlabs\\.com\\/pixel",
+      "cognitivlabs\\.com\\/container\\/conv\\/v2",
+      "cognitivlabs\\.com\\/adx\\.gif",
+      "cognitivlabs\\.com\\/pixel\\/conv\\/v2",
+      "cognitivlabs\\.com\\/bidSwitch\\.gif"
+    ]
+  },
+  "cogocast.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Cogo Labs",
+      "name": "Cogo Labs"
+    },
+    "rules": [
+      "cogocast\\.net"
+    ]
+  },
+  "company-target.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Demandbase",
+      "name": "Demandbase, Inc.",
+      "privacyPolicy": "http://www.demandbase.com/privacy-policy/",
+      "url": "http://demandbase.com"
+    },
+    "rules": [
+      "company-target\\.com"
+    ]
+  },
+  "consensu.org": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "IAB Europe",
+      "name": "IAB Europe"
+    },
+    "rules": [
+      "consensu\\.org"
+    ]
+  },
+  "consentframework.com": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "consentframework\\.com"
+    ]
+  },
+  "consentmanager.net": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "consentmanager\\.net"
+    ]
+  },
+  "contentabc.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "MindGeek",
+      "name": "MindGeek"
+    },
+    "rules": [
+      "contentabc\\.com"
+    ]
+  },
+  "contextweb.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Pulsepoint",
+      "name": "Pulsepoint, Inc.",
+      "privacyPolicy": "https://www.pulsepoint.com/privacy-policy-platform",
+      "url": "http://pulsepoint.com"
+    },
+    "rules": [
+      "contextweb\\.com"
+    ]
+  },
+  "cookiebot.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Cybot",
+      "name": "Cybot ApS",
+      "privacyPolicy": "https://www.cybot.com/privacy-policy/",
+      "url": "http://cybot.com"
+    },
+    "rules": [
+      "cookiebot\\.com"
+    ]
+  },
+  "cookieinformation.com": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "cookieinformation\\.com"
+    ]
+  },
+  "cookielaw.org": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "OneTrust",
+      "name": "OneTrust LLC",
+      "privacyPolicy": "https://www.onetrust.com/privacy-notice",
+      "url": "http://onetrust.com"
+    },
+    "rules": [
+      "cookielaw\\.org"
+    ]
+  },
+  "cpmstar.com": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "cpmstar\\.com"
+    ]
+  },
+  "cpx.to": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Captify",
+      "name": "Captify Technologies Ltd.",
+      "privacyPolicy": "https://www.captify.co.uk/privacy-policy-opt/",
+      "url": "http://captify.co.uk"
+    },
+    "rules": [
+      "cpx\\.to"
+    ]
+  },
+  "creative-serving.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Platform161",
+      "name": "Platform161",
+      "privacyPolicy": "https://platform161.com/cookie-and-privacy-policy/",
+      "url": "http://platform161.com"
+    },
+    "rules": [
+      "creative-serving\\.com"
+    ]
+  },
+  "creativecdn.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "RTB House",
+      "name": "RTB House S.A.",
+      "privacyPolicy": "https://www.rtbhouse.com/privacy/",
+      "url": "http://rtbhouse.com"
+    },
+    "rules": [
+      "creativecdn\\.com"
+    ]
+  },
+  "criteo.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Criteo",
+      "name": "Criteo SA",
+      "privacyPolicy": "https://www.criteo.com/privacy/",
+      "url": "http://criteo.com"
+    },
+    "rules": [
+      "criteo\\.com"
+    ]
+  },
+  "criteo.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Criteo",
+      "name": "Criteo SA",
+      "privacyPolicy": "https://www.criteo.com/privacy/",
+      "url": "http://criteo.com"
+    },
+    "rules": [
+      "criteo\\.net"
+    ]
+  },
+  "crwdcntrl.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Lotame Solutions",
+      "name": "Lotame Solutions, Inc.",
+      "privacyPolicy": "https://www.lotame.com/about-lotame/privacy/lotame-corporate-websites-privacy-policy/",
+      "url": "http://lotame.com"
+    },
+    "rules": [
+      "crwdcntrl\\.net"
+    ]
+  },
+  "ctnsnet.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Crimtan Holdings",
+      "name": "Crimtan Holdings Ltd",
+      "privacyPolicy": "https://crimtan.com/privacy/",
+      "url": "http://crimtan.com"
+    },
+    "rules": [
+      "ctnsnet\\.com"
+    ]
+  },
+  "cxense.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Piano Software",
+      "name": "Piano Software",
+      "privacyPolicy": "https://piano.io/privacy-policy/",
+      "url": "http://piano.io"
+    },
+    "rules": [
+      "cxense\\.com"
+    ]
+  },
+  "de17a.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Delta Projects",
+      "name": "Delta Projects AB"
+    },
+    "rules": [
+      "de17a\\.com"
+    ]
+  },
+  "deepintent.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "DeepIntent",
+      "name": "DeepIntent Inc",
+      "privacyPolicy": "https://www.deepintent.com/privacypolicy",
+      "url": "http://deepintent.com"
+    },
+    "rules": [
+      "deepintent\\.com"
+    ]
+  },
+  "demdex.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Adobe",
+      "name": "Adobe Inc.",
+      "privacyPolicy": "https://www.adobe.com/privacy/marketing-cloud.html",
+      "url": "http://adobe.com"
+    },
+    "rules": [
+      "demdex\\.net"
+    ]
+  },
+  "disqus.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Disqus",
+      "name": "Disqus, Inc.",
+      "privacyPolicy": "https://help.disqus.com/terms-and-policies/disqus-privacy-policy",
+      "url": "http://disqus.com"
+    },
+    "rules": [
+      "disqus\\.com\\/api\\/sync\\.gif",
+      "disqus\\.com\\/ads-iframe\\/google\\/",
+      "disqus\\.com\\/api\\/ping",
+      "disqus\\.com\\/count\\.js",
+      "disqus\\.com\\/api\\/domains",
+      "disqus\\.com\\/embed\\.js",
+      "disqus\\.com\\/recommendations\\.js"
+    ]
+  },
+  "districtm.io": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "District M",
+      "name": "District M Inc.",
+      "privacyPolicy": "https://districtm.net/en/page/platforms-data-and-privacy-policy/",
+      "url": "http://districtm.net"
+    },
+    "rules": [
+      "districtm\\.io"
+    ]
+  },
+  "dmcdn.net": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Dailymotion",
+      "name": "Dailymotion SA"
+    },
+    "rules": [
+      "dmcdn\\.net\\/pxl\\/cpe\\/app\\.min\\.js",
+      "dmcdn\\.net\\/js\\/cpe\\/cpeEvent\\.min\\.js",
+      "dmcdn\\.net\\/all\\.js",
+      "dmcdn\\.net\\/playerv5"
+    ]
+  },
+  "dotmetrics.net": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Dotmetrics",
+      "name": "Dotmetrics"
+    },
+    "rules": [
+      "dotmetrics\\.net\\/door\\.js",
+      "dotmetrics\\.net\\/SiteEvent\\.dotmetrics",
+      "dotmetrics\\.net\\/Scripts\\/script\\.js",
+      "dotmetrics\\.net\\/hit\\.gif"
+    ]
+  },
+  "dotomi.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Conversant",
+      "name": "Conversant LLC",
+      "privacyPolicy": "https://www.conversantmedia.com/legal/privacy",
+      "url": "http://conversantmedia.com"
+    },
+    "rules": [
+      "dotomi\\.com"
+    ]
+  },
+  "doubleclick.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Google",
+      "name": "Google LLC",
+      "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+      "url": "http://google.com"
+    },
+    "rules": [
+      "doubleclick\\.net"
+    ]
+  },
+  "doubleverify.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "DoubleVerify",
+      "name": "DoubleVerify",
+      "privacyPolicy": "https://www.doubleverify.com/privacy/",
+      "url": "http://doubleverify.com"
+    },
+    "rules": [
+      "doubleverify\\.com"
+    ]
+  },
+  "dtscdn.com": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "dtscdn\\.com"
+    ]
+  },
+  "dtscout.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "DTS",
+      "name": "DTS Technology",
+      "privacyPolicy": "http://www.dtscout.com/techpolicy.html",
+      "url": "http://dtscout.com"
+    },
+    "rules": [
+      "dtscout\\.com"
+    ]
+  },
+  "durationmedia.net": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "durationmedia\\.net"
+    ]
+  },
+  "dwin1.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Awin",
+      "name": "Awin AG",
+      "privacyPolicy": "https://www.awin.com/gb/legal/privacy-policy",
+      "url": "http://awin.com"
+    },
+    "rules": [
+      "dwin1\\.com"
+    ]
+  },
+  "dyntrk.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "DynAdmic",
+      "name": "DynAdmic"
+    },
+    "rules": [
+      "dyntrk\\.com"
+    ]
+  },
+  "edgekey.net": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Akamai",
+      "name": "Akamai Technologies",
+      "privacyPolicy": "https://www.akamai.com/us/en/privacy-policies/",
+      "url": "http://akamai.com"
+    },
+    "rules": [
+      "edgekey\\.net"
+    ]
+  },
+  "emxdgt.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Engine USA",
+      "name": "Engine USA LLC",
+      "privacyPolicy": "https://emxdigital.com/privacy/",
+      "url": "http://emxdigital.com"
+    },
+    "rules": [
+      "emxdgt\\.com"
+    ]
+  },
+  "episerver.net": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "EPiServer",
+      "name": "EPiServer AB"
+    },
+    "rules": [
+      "episerver\\.net\\/13\\.4\\.4\\.1\\/epi-util\\/find\\.js",
+      "episerver\\.net\\/ia\\.js"
+    ]
+  },
+  "eqads.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "EQ Works",
+      "name": "EQ Works"
+    },
+    "rules": [
+      "eqads\\.com\\/um\\/cs",
+      "eqads\\.com\\/pt",
+      "eqads\\.com\\/ptrack"
+    ]
+  },
+  "erne.co": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "AdPilot",
+      "name": "AdPilot"
+    },
+    "rules": [
+      "erne\\.co"
+    ]
+  },
+  "etracker.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "etracker",
+      "name": "etracker GmbH",
+      "privacyPolicy": "https://www.gametracker.com/about/privacy.php",
+      "url": "http://gametracker.com"
+    },
+    "rules": [
+      "etracker\\.com\\/t\\.js",
+      "etracker\\.com\\/code\\/e\\.js"
+    ]
+  },
+  "etracker.de": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "etracker",
+      "name": "etracker GmbH",
+      "privacyPolicy": "https://www.gametracker.com/about/privacy.php",
+      "url": "http://gametracker.com"
+    },
+    "rules": [
+      "etracker\\.de\\/dc\\/js\\/jquery-1\\.8\\.3\\.min\\.js"
+    ]
+  },
+  "everesttech.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Adobe",
+      "name": "Adobe Inc.",
+      "privacyPolicy": "https://www.adobe.com/privacy/marketing-cloud.html",
+      "url": "http://adobe.com"
+    },
+    "rules": [
+      "everesttech\\.net"
+    ]
+  },
+  "exactag.com": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "exactag\\.com"
+    ]
+  },
+  "exelator.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "The Nielsen Company",
+      "name": "The Nielsen Company",
+      "privacyPolicy": "http://www.nielsen.com/us/en/privacy-statement/digital-measurement.html",
+      "url": "http://nielsen.com"
+    },
+    "rules": [
+      "exelator\\.com"
+    ]
+  },
+  "exoclick.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "ExoClick",
+      "name": "ExoClick, S.L.",
+      "privacyPolicy": "https://www.exoclick.com/privacy/",
+      "url": "http://exoclick.com"
+    },
+    "rules": [
+      "exoclick\\.com"
+    ]
+  },
+  "exosrv.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "ExoClick",
+      "name": "ExoClick, S.L.",
+      "privacyPolicy": "https://www.exoclick.com/privacy/",
+      "url": "http://exoclick.com"
+    },
+    "rules": [
+      "exosrv\\.com"
+    ]
+  },
+  "extend.tv": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "ZypMedia",
+      "name": "ZypMedia, Inc."
+    },
+    "rules": [
+      "extend\\.tv\\/r\\.gif",
+      "extend\\.tv\\/freewheel",
+      "extend\\.tv\\/telaria",
+      "extend\\.tv\\/conv\\/"
+    ]
+  },
+  "eyeota.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "eyeota",
+      "name": "eyeota Limited",
+      "privacyPolicy": "https://www.eyeota.com/privacy-policy",
+      "url": "http://eyeota.com"
+    },
+    "rules": [
+      "eyeota\\.net"
+    ]
+  },
+  "ezodn.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Ezoic",
+      "name": "Ezoic Inc.",
+      "privacyPolicy": "https://www.ezoic.com/privacy-policy/",
+      "url": "http://ezoic.com"
+    },
+    "rules": [
+      "ezodn\\.com"
+    ]
+  },
+  "ezoic.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Ezoic",
+      "name": "Ezoic Inc.",
+      "privacyPolicy": "https://www.ezoic.com/privacy-policy/",
+      "url": "http://ezoic.com"
+    },
+    "rules": [
+      "ezoic\\.net"
+    ]
+  },
+  "facebook.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Facebook",
+      "name": "Facebook, Inc.",
+      "privacyPolicy": "https://www.facebook.com/privacy/explanation",
+      "url": "http://facebook.com"
+    },
+    "rules": [
+      "facebook\\.com\\/v2\\.8\\/plugins\\/save\\.php",
+      "facebook\\.com\\/tr",
+      "facebook\\.com\\/v10\\.0\\/plugins\\/send_to_messenger\\.php",
+      "facebook\\.com\\/v2\\.6\\/plugins\\/post\\.php",
+      "facebook\\.com\\/plugins\\/send_to_messenger\\.php",
+      "facebook\\.com\\/plugins\\/video\\.php",
+      "facebook\\.com\\/v3\\.3\\/plugins\\/like_box\\.php",
+      "facebook\\.com\\/v6\\.0\\/plugins\\/customerchat\\.php",
+      "facebook\\.com\\/v3\\.0\\/plugins\\/like_box\\.php",
+      "facebook\\.com\\/plugins\\/like\\.php",
+      "facebook\\.com\\/v7\\.0\\/plugins\\/send_to_messenger\\.php",
+      "facebook\\.com\\/v5\\.0\\/plugins\\/video\\.php",
+      "facebook\\.com\\/v7\\.0\\/plugins\\/like_box\\.php",
+      "facebook\\.com\\/v2\\.2\\/plugins\\/like_box\\.php",
+      "facebook\\.com\\/v2\\.3\\/plugins\\/video\\.php",
+      "facebook\\.com\\/tr\\/",
+      "facebook\\.com\\/v12\\.0\\/plugins\\/like_box\\.php",
+      "facebook\\.com\\/v2\\.5\\/plugins\\/share_button\\.php",
+      "facebook\\.com\\/v2\\.5\\/plugins\\/like_box\\.php",
+      "facebook\\.com\\/v2\\.9\\/plugins\\/customerchat\\.php",
+      "facebook\\.com\\/login\\/",
+      "facebook\\.com\\/v2\\.10\\/plugins\\/like_box\\.php",
+      "facebook\\.com\\/v10\\.0\\/plugins\\/messengermessageus\\.php",
+      "facebook\\.com\\/en_US\\/fbevents\\.js",
+      "facebook\\.com\\/v2\\.6\\/plugins\\/like_box\\.php",
+      "facebook\\.com\\/v5\\.0\\/plugins\\/post\\.php",
+      "facebook\\.com\\/v10\\.0\\/plugins\\/like_box\\.php",
+      "facebook\\.com\\/v6\\.0\\/plugins\\/like_box\\.php",
+      "facebook\\.com\\/v11\\.0\\/plugins\\/customerchat\\.php",
+      "facebook\\.com\\/v10\\.0\\/plugins\\/customerchat\\.php",
+      "facebook\\.com\\/v3\\.2\\/plugins\\/customerchat\\.php",
+      "facebook\\.com\\/v2\\.12\\/plugins\\/like_box\\.php",
+      "facebook\\.com\\/es_LA\\/sdk\\.js",
+      "facebook\\.com\\/v2\\.12\\/plugins\\/customerchat\\.php",
+      "facebook\\.com\\/v12\\.0\\/plugins\\/page\\.php",
+      "facebook\\.com\\/v11\\.0\\/plugins\\/page\\.php",
+      "facebook\\.com\\/v3\\.2\\/plugins\\/like_box\\.php",
+      "facebook\\.com\\/v2\\.8\\/plugins\\/like_box\\.php",
+      "facebook\\.com\\/v10\\.0\\/plugins\\/page\\.php",
+      "facebook\\.com\\/de_DE\\/sdk\\.js",
+      "facebook\\.com\\/v3\\.3\\/plugins\\/customerchat\\.php",
+      "facebook\\.com\\/v2\\.5\\/plugins\\/save\\.php",
+      "facebook\\.com\\/v7\\.0\\/plugins\\/customerchat\\.php",
+      "facebook\\.com\\/v3\\.1\\/plugins\\/like_box\\.php",
+      "facebook\\.com\\/en_US\\/sdk\\.js",
+      "facebook\\.com\\/v3\\.3\\/plugins\\/messenger_checkbox\\.php",
+      "facebook\\.com\\/v8\\.0\\/plugins\\/customerchat\\.php",
+      "facebook\\.com\\/rsrc\\.php"
+    ]
+  },
+  "facebook.net": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Facebook",
+      "name": "Facebook, Inc.",
+      "privacyPolicy": "https://www.facebook.com/privacy/explanation",
+      "url": "http://facebook.com"
+    },
+    "rules": [
+      "facebook\\.net\\/es_LA\\/all\\.js",
+      "facebook\\.net\\/pt_PT\\/all\\.js",
+      "facebook\\.net\\/en_IN\\/sdk\\.js",
+      "facebook\\.net\\/sv_SE\\/sdk\\.js",
+      "facebook\\.net\\/sw_KE\\/sdk\\.js",
+      "facebook\\.net\\/eu_ES\\/sdk\\.js",
+      "facebook\\.net\\/ko_KR\\/sdk\\.js",
+      "facebook\\.net\\/fr_fr\\/sdk\\.js",
+      "facebook\\.net\\/nl_NL\\/all\\.js",
+      "facebook\\.net\\/he_IL\\/all\\.js",
+      "facebook\\.net\\/he_IL\\/sdk\\.js",
+      "facebook\\.net\\/es_LA\\/sdk\\/xfbml\\.customerchat\\.js",
+      "facebook\\.net\\/fr_FR\\/sdk\\.js",
+      "facebook\\.net\\/en_US\\/sdk\\.js",
+      "facebook\\.net\\/en_CA\\/sdk\\.js",
+      "facebook\\.net\\/sv_SE\\/all\\.js",
+      "facebook\\.net\\/sk_SK\\/all\\.js",
+      "facebook\\.net\\/es_ES\\/all\\.js",
+      "facebook\\.net\\/en_US\\/sdk\\/xfbml\\.save\\.js",
+      "facebook\\.net\\/de_DE\\/fbevents\\.js",
+      "facebook\\.net\\/pt_BR\\/all\\.js",
+      "facebook\\.net\\/de_DE\\/all\\.js",
+      "facebook\\.net\\/zh_TW\\/fbevents\\.js",
+      "facebook\\.net\\/da_DK\\/sdk\\.js",
+      "facebook\\.net\\/fi_FI\\/sdk\\.js",
+      "facebook\\.net\\/nl_NL\\/sdk\\.js",
+      "facebook\\.net\\/sl_SI\\/sdk\\.js",
+      "facebook\\.net\\/en_En\\/sdk\\.js",
+      "facebook\\.net\\/nb_NO\\/sdk\\/xfbml\\.customerchat\\.js",
+      "facebook\\.net\\/pt_BR\\/sdk\\.js",
+      "facebook\\.net\\/en_AU\\/sdk\\.js",
+      "facebook\\.net\\/fi_FI\\/all\\.js",
+      "facebook\\.net\\/en_US\\/fbevents\\.js",
+      "facebook\\.net\\/ja_JP\\/fbevents\\.js",
+      "facebook\\.net\\/en_US\\/messenger\\.Extensions\\.js",
+      "facebook\\.net\\/nl_NL\\/fbevents\\.js",
+      "facebook\\.net\\/bs_BA\\/sdk\\.js",
+      "facebook\\.net\\/id_ID\\/all\\.js",
+      "facebook\\.net\\/ro_RO\\/sdk\\.js",
+      "facebook\\.net\\/en_US%20\\/fbevents\\.js",
+      "facebook\\.net\\/de_CH\\/sdk\\.js",
+      "facebook\\.net\\/ar_AR\\/sdk\\.js",
+      "facebook\\.net\\/en_EN\\/sdk\\.js",
+      "facebook\\.net\\/af_ZA\\/sdk\\.js",
+      "facebook\\.net\\/pl_PL\\/sdk\\.js",
+      "facebook\\.net\\/tr_TR\\/sdk\\.js",
+      "facebook\\.net\\/en_NZ\\/fbevents\\.js",
+      "facebook\\.net\\/id_ID\\/sdk\\.js",
+      "facebook\\.net\\/tr_TR\\/all\\.js",
+      "facebook\\.net\\/el_GR\\/sdk\\.js",
+      "facebook\\.net\\/et_EE\\/sdk\\.js",
+      "facebook\\.net\\/ko_KR\\/all\\.js",
+      "facebook\\.net\\/en_US\\/platform\\.Extensions\\.js",
+      "facebook\\.net\\/en_US\\/api\\/auth\\/event\\/init\\/ui\\/xfbml\\.js",
+      "facebook\\.net\\/it_IT\\/sdk\\.js",
+      "facebook\\.net\\/es_MX\\/sdk\\.js",
+      "facebook\\.net\\/ja_JP\\/sdk\\.js",
+      "facebook\\.net\\/vi_VN\\/sdk\\.js",
+      "facebook\\.net\\/es_LA\\/sdk\\.js",
+      "facebook\\.net\\/es_LA\\/fbevents\\.js",
+      "facebook\\.net\\/id-ID\\/sdk\\.js",
+      "facebook\\.net\\/cs_CZ\\/all\\.js",
+      "facebook\\.net\\/en_GB\\/all\\.js",
+      "facebook\\.net\\/bg_BG\\/all\\.js",
+      "facebook\\.net\\/nl_BE\\/sdk\\.js",
+      "facebook\\.net\\/ru_RU\\/all\\.js",
+      "facebook\\.net\\/zh_HK\\/sdk\\.js",
+      "facebook\\.net\\/undefined\\/all\\.js",
+      "facebook\\.net\\/en_GB\\/fbevents\\.js",
+      "facebook\\.net\\/no_NO\\/sdk\\.js",
+      "facebook\\.net\\/en\\/all\\.js",
+      "facebook\\.net\\/es_CL\\/sdk\\.js",
+      "facebook\\.net\\/lv_LV\\/sdk\\.js",
+      "facebook\\.net\\/bg_BG\\/sdk\\.js",
+      "facebook\\.net\\/sk_SK\\/sdk\\.js",
+      "facebook\\.net\\/pt_PT\\/sdk\\.js",
+      "facebook\\.net\\/nn_NO\\/sdk\\.js",
+      "facebook\\.net\\/en_US\\/sdk\\/xfbml\\.customerchat\\.js",
+      "facebook\\.net\\/ms_MY\\/sdk\\.js",
+      "facebook\\.net\\/de_DE\\/sdk\\.js",
+      "facebook\\.net\\/fr_FR\\/all\\.js",
+      "facebook\\.net\\/uk_UA\\/sdk\\.js",
+      "facebook\\.net\\/fr_BE\\/sdk\\.js",
+      "facebook\\.net\\/en_UK\\/all\\.js",
+      "facebook\\.net\\/en\\/sdk\\.js",
+      "facebook\\.net\\/en_EN\\/all\\.js",
+      "facebook\\.net\\/pl_PL\\/all\\.js",
+      "facebook\\.net\\/en_GB\\/sdk\\/xfbml\\.customerchat\\.js",
+      "facebook\\.net\\/ja_JP\\/all\\.js",
+      "facebook\\.net\\/en_SG\\/sdk\\.js",
+      "facebook\\.net\\/nb_NO\\/all\\.js",
+      "facebook\\.net\\/vi_VN\\/all\\.js",
+      "facebook\\.net\\/no_NO\\/all\\.js",
+      "facebook\\.net\\/nn_NO\\/all\\.js",
+      "facebook\\.net\\/ko_KO\\/sdk\\.js",
+      "facebook\\.net\\/undefined\\/sdk\\.js",
+      "facebook\\.net\\/en_us\\/sdk\\.js",
+      "facebook\\.net\\/is_IS\\/sdk\\.js",
+      "facebook\\.net\\/ru_UA\\/all\\.js",
+      "facebook\\.net\\/en-EN\\/all\\.js",
+      "facebook\\.net\\/fr_CA\\/all\\.js",
+      "facebook\\.net\\/ru_RU\\/sdk\\.js",
+      "facebook\\.net\\/zh_TW\\/sdk\\.js",
+      "facebook\\.net\\/ka_GE\\/all\\.js",
+      "facebook\\.net\\/nl\\/sdk\\.js",
+      "facebook\\.net\\/es_ES\\/sdk\\.js",
+      "facebook\\.net\\/en_IE\\/sdk\\.js",
+      "facebook\\.net\\/hu_HU\\/sdk\\.js",
+      "facebook\\.net\\/default\\/all\\.js",
+      "facebook\\.net\\/lt_LT\\/sdk\\.js",
+      "facebook\\.net\\/zh_TW\\/all\\.js",
+      "facebook\\.net\\/ro_RO\\/all\\.js",
+      "facebook\\.net\\/fr_FR\\/sdk\\/xfbml\\.customerchat\\.js",
+      "facebook\\.net\\/en-US\\/sdk\\.js",
+      "facebook\\.net\\/en_UK\\/sdk\\.js",
+      "facebook\\.net\\/en_AU\\/fbevents\\.js",
+      "facebook\\.net\\/nl_NL\\/sdk\\/xfbml\\.customerchat\\.js",
+      "facebook\\.net\\/it_IT\\/fbevents\\.js",
+      "facebook\\.net\\/nb_NO\\/sdk\\.js",
+      "facebook\\.net\\/th_TH\\/sdk\\.js",
+      "facebook\\.net\\/hu_HU\\/all\\.js",
+      "facebook\\.net\\/pl_PL\\/sdk\\/xfbml\\.customerchat\\.js",
+      "facebook\\.net\\/fr_CA\\/sdk\\.js",
+      "facebook\\.net\\/de-DE\\/all\\.js",
+      "facebook\\.net\\/hr_HR\\/sdk\\.js",
+      "facebook\\.net\\/vi_VN\\/sdk\\/xfbml\\.customerchat\\.js",
+      "facebook\\.net\\/en_Inter\\/sdk\\.js",
+      "facebook\\.net\\/en_US\\/all\\.js",
+      "facebook\\.net\\/en\\/sdk\\/xfbml\\.customerchat\\.js",
+      "facebook\\.net\\/lt_LT\\/all\\.js",
+      "facebook\\.net\\/cs_CZ\\/sdk\\.js",
+      "facebook\\.net\\/fr_FR\\/fbevents\\.js",
+      "facebook\\.net\\/zh_CN\\/sdk\\.js",
+      "facebook\\.net\\/nb-NO\\/sdk\\.js",
+      "facebook\\.net\\/de_DE\\/sdk\\/xfbml\\.customerchat\\.js",
+      "facebook\\.net\\/sr_RS\\/sdk\\.js",
+      "facebook\\.net\\/it_IT\\/all\\.js",
+      "facebook\\.net\\/no\\/sdk\\.js",
+      "facebook\\.net\\/ca_ES\\/sdk\\.js",
+      "facebook\\.net\\/ja_JA\\/sdk\\.js",
+      "facebook\\.net\\/en_GB\\/sdk\\.js",
+      "facebook\\.net\\/es_US\\/sdk\\.js",
+      "facebook\\.net\\/signals\\/config"
+    ]
+  },
+  "fastly-insights.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Fastly",
+      "name": "Fastly, Inc.",
+      "privacyPolicy": "https://www.fastly.com/privacy",
+      "url": "http://fastly.com"
+    },
+    "rules": [
+      "fastly-insights\\.com"
+    ]
+  },
+  "fg8dgt.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "FastG8",
+      "name": "FastG8",
+      "privacyPolicy": "http://www.fastg8.com/privacypolicy/",
+      "url": "http://fastg8.com"
+    },
+    "rules": [
+      "fg8dgt\\.com"
+    ]
+  },
+  "fiftyt.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Fifty Technology",
+      "name": "Fifty Technology Limited"
+    },
+    "rules": [
+      "fiftyt\\.com"
+    ]
+  },
+  "fwmrm.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "FreeWheel",
+      "name": "FreeWheel",
+      "privacyPolicy": "http://freewheel.tv/privacy-policy/",
+      "url": "http://freewheel.tv"
+    },
+    "rules": [
+      "fwmrm\\.net"
+    ]
+  },
+  "gemius.pl": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Gemius",
+      "name": "Gemius S.A.",
+      "privacyPolicy": "https://www.gemius.com/privacy-policy.html",
+      "url": "http://gemius.com"
+    },
+    "rules": [
+      "gemius\\.pl"
+    ]
+  },
+  "getrockerbox.com": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "getrockerbox\\.com"
+    ]
+  },
+  "go-mpulse.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Akamai",
+      "name": "Akamai Technologies",
+      "privacyPolicy": "https://www.akamai.com/us/en/privacy-policies/",
+      "url": "http://akamai.com"
+    },
+    "rules": [
+      "go-mpulse\\.net"
+    ]
+  },
+  "google-analytics.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Google",
+      "name": "Google LLC",
+      "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+      "url": "http://google.com"
+    },
+    "rules": [
+      "google-analytics\\.com"
+    ]
+  },
+  "google.ca": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Google",
+      "name": "Google LLC",
+      "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+      "url": "http://google.com"
+    },
+    "rules": [
+      "google\\.ca\\/coop\\/cse\\/brand"
+    ]
+  },
+  "google.co.uk": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Google",
+      "name": "Google LLC",
+      "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+      "url": "http://google.com"
+    },
+    "rules": [
+      "google\\.co\\.uk\\/coop\\/cse\\/brand"
+    ]
+  },
+  "google.com.au": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Google",
+      "name": "Google LLC",
+      "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+      "url": "http://google.com"
+    },
+    "rules": [
+      "google\\.com\\.au\\/coop\\/cse\\/brand"
+    ]
+  },
+  "google.de": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Google",
+      "name": "Google LLC",
+      "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+      "url": "http://google.com"
+    },
+    "rules": [
+      "google\\.de\\/coop\\/cse\\/brand",
+      "google\\.de\\/cse\\/brand"
+    ]
+  },
+  "google.fr": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Google",
+      "name": "Google LLC",
+      "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+      "url": "http://google.com"
+    },
+    "rules": [
+      "google\\.fr\\/cse\\/cse\\.js",
+      "google\\.fr\\/coop\\/cse\\/brand",
+      "google\\.fr\\/cse\\/brand"
+    ]
+  },
+  "google.nl": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Google",
+      "name": "Google LLC",
+      "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+      "url": "http://google.com"
+    },
+    "rules": [
+      "google\\.nl\\/coop\\/cse\\/brand"
+    ]
+  },
+  "google.no": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Google",
+      "name": "Google LLC",
+      "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+      "url": "http://google.com"
+    },
+    "rules": [
+      "google\\.no\\/maps\\/place\\/Trondheim+Torg\\/@63\\.4300569,10\\.3912726,17z\\/data=!3m1!4b1!4m5!3m4!1s0x466d319ae581504b:0xc035eda4f617f1f8!8m2!3d63\\.4300545!4d10\\.3934666"
+    ]
+  },
+  "googleadservices.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Google",
+      "name": "Google LLC",
+      "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+      "url": "http://google.com"
+    },
+    "rules": [
+      "googleadservices\\.com"
+    ]
+  },
+  "googleoptimize.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Google",
+      "name": "Google LLC",
+      "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+      "url": "http://google.com"
+    },
+    "rules": [
+      "googleoptimize\\.com\\/optimize\\.js"
+    ]
+  },
+  "googlesyndication.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Google",
+      "name": "Google LLC",
+      "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+      "url": "http://google.com"
+    },
+    "rules": [
+      "googlesyndication\\.com"
+    ]
+  },
+  "googletagmanager.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Google",
+      "name": "Google LLC",
+      "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+      "url": "http://google.com"
+    },
+    "rules": [
+      "googletagmanager\\.com"
+    ]
+  },
+  "googletagservices.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Google",
+      "name": "Google LLC",
+      "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+      "url": "http://google.com"
+    },
+    "rules": [
+      "googletagservices\\.com"
+    ]
+  },
+  "gumgum.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "GumGum",
+      "name": "GumGum",
+      "privacyPolicy": "https://gumgum.com/privacy-policy",
+      "url": "http://gumgum.com"
+    },
+    "rules": [
+      "gumgum\\.com"
+    ]
+  },
+  "histats.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "wisecode",
+      "name": "wisecode s.r.l.",
+      "privacyPolicy": "https://www.histats.com/?act=102",
+      "url": "http://histats.com"
+    },
+    "rules": [
+      "histats\\.com"
+    ]
+  },
+  "hotjar.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Hotjar",
+      "name": "Hotjar Ltd",
+      "privacyPolicy": "https://www.hotjar.com/legal/policies/privacy",
+      "url": "http://hotjar.com"
+    },
+    "rules": [
+      "hotjar\\.com"
+    ]
+  },
+  "hs-analytics.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "HubSpot",
+      "name": "HubSpot, Inc.",
+      "privacyPolicy": "https://legal.hubspot.com/privacy-policy",
+      "url": "http://hubspot.com"
+    },
+    "rules": [
+      "hs-analytics\\.net"
+    ]
+  },
+  "hs-banner.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "HubSpot",
+      "name": "HubSpot, Inc.",
+      "privacyPolicy": "https://legal.hubspot.com/privacy-policy",
+      "url": "http://hubspot.com"
+    },
+    "rules": [
+      "hs-banner\\.com"
+    ]
+  },
+  "hubspot.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "HubSpot",
+      "name": "HubSpot, Inc.",
+      "privacyPolicy": "https://legal.hubspot.com/privacy-policy",
+      "url": "http://hubspot.com"
+    },
+    "rules": [
+      "hubspot\\.com\\/cartographer\\/v1\\/rhumb",
+      "hubspot\\.com\\/hs-fs\\/hub\\/327485\\/file-2054199286-css\\/font-awesome\\.css",
+      "hubspot\\.com\\/ctas\\/v2\\/public\\/cs\\/cta-json",
+      "hubspot\\.com\\/feedback-web-ui",
+      "hubspot\\.com\\/api-passthrough\\/meetings-public\\/v1\\/book",
+      "hubspot\\.com\\/forms\\/current\\.js",
+      "hubspot\\.com\\/api\\/1\\/store\\/",
+      "hubspot\\.com\\/feedback-web-fetcher",
+      "hubspot\\.com\\/odometer\\/odometer\\.js",
+      "hubspot\\.com\\/__ptq\\.gif",
+      "hubspot\\.com\\/collected-forms\\/v1\\/config\\/json",
+      "hubspot\\.com\\/ctas\\/v2\\/public\\/cs\\/loader-v2\\.js",
+      "hubspot\\.com\\/content-tools-menu\\/api\\/v1\\/tools-menu\\/has-permission",
+      "hubspot\\.com\\/lead-flows-config\\/v1\\/config\\/json",
+      "hubspot\\.com\\/__ptbe\\.gif",
+      "hubspot\\.com\\/livechat-public\\/v1\\/message\\/public",
+      "hubspot\\.com\\/cta\\/default",
+      "hubspot\\.com\\/analytics"
+    ]
+  },
+  "ib-ibi.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "KBM Group",
+      "name": "KBM Group LLC",
+      "privacyPolicy": "https://www.kbmg.com/about-us/privacy/",
+      "url": "http://kbmg.com"
+    },
+    "rules": [
+      "ib-ibi\\.com"
+    ]
+  },
+  "id5-sync.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "ID5",
+      "name": "ID5 Technology Ltd",
+      "privacyPolicy": "https://www.id5.io/privacy-policy",
+      "url": "http://id5.io"
+    },
+    "rules": [
+      "id5-sync\\.com"
+    ]
+  },
+  "igodigital.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Salesforce.com",
+      "name": "Salesforce.com, Inc.",
+      "privacyPolicy": "https://www.salesforce.com/company/privacy/",
+      "url": "http://salesforce.com"
+    },
+    "rules": [
+      "igodigital\\.com"
+    ]
+  },
+  "im-apps.net": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "im-apps\\.net"
+    ]
+  },
+  "impact-ad.jp": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Digital Advertising Consortium",
+      "name": "Digital Advertising Consortium Inc."
+    },
+    "rules": [
+      "impact-ad\\.jp"
+    ]
+  },
+  "impactradius-event.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Impact",
+      "name": "Impact"
+    },
+    "rules": [
+      "impactradius-event\\.com"
+    ]
+  },
+  "imrworldwide.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "The Nielsen Company",
+      "name": "The Nielsen Company",
+      "privacyPolicy": "http://www.nielsen.com/us/en/privacy-statement/digital-measurement.html",
+      "url": "http://nielsen.com"
+    },
+    "rules": [
+      "imrworldwide\\.com"
+    ]
+  },
+  "indexww.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Index Exchange",
+      "name": "Index Exchange, Inc.",
+      "privacyPolicy": "http://casalemedia.com/",
+      "url": "http://casalemedia.com"
+    },
+    "rules": [
+      "indexww\\.com"
+    ]
+  },
+  "innovid.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Innovid Media",
+      "name": "Innovid Media",
+      "privacyPolicy": "https://www.innovid.com/privacy-policy/",
+      "url": "http://innovid.com"
+    },
+    "rules": [
+      "innovid\\.com"
+    ]
+  },
+  "intentiq.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Intent IQ",
+      "name": "Intent IQ, LLC",
+      "privacyPolicy": "https://www.intentiq.com/technology-privacy-policy",
+      "url": "http://intentiq.com"
+    },
+    "rules": [
+      "intentiq\\.com"
+    ]
+  },
+  "ioam.de": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "INFOnline",
+      "name": "INFOnline GmbH",
+      "privacyPolicy": "https://www.infonline.de/en/privacy-policy/",
+      "url": "http://infonline.de"
+    },
+    "rules": [
+      "ioam\\.de"
+    ]
+  },
+  "iocnt.net": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "INFOnline",
+      "name": "INFOnline GmbH",
+      "privacyPolicy": "https://www.infonline.de/en/privacy-policy/",
+      "url": "http://infonline.de"
+    },
+    "rules": [
+      "iocnt\\.net\\/sensor\\.modern\\.ncl\\.min\\.js",
+      "iocnt\\.net\\/tx\\.io",
+      "iocnt\\.net\\/iam\\.js"
+    ]
+  },
+  "ipredictive.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Adelphic",
+      "name": "Adelphic, Inc.",
+      "privacyPolicy": "https://my.ipredictive.com/optout/",
+      "url": "http://ipredictive.com"
+    },
+    "rules": [
+      "ipredictive\\.com"
+    ]
+  },
+  "ispot.tv": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "iSpot.tv",
+      "name": "iSpot.tv",
+      "privacyPolicy": "https://www.ispot.tv/agreements",
+      "url": "http://ispot.tv"
+    },
+    "rules": [
+      "ispot\\.tv"
+    ]
+  },
+  "juicyads.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "JuicyAds",
+      "name": "JuicyAds",
+      "privacyPolicy": "http://juicyads.com/privacy",
+      "url": "http://juicyads.com"
+    },
+    "rules": [
+      "juicyads\\.com"
+    ]
+  },
+  "justpremium.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "JustPremium",
+      "name": "JustPremium",
+      "privacyPolicy": "https://justpremium.com/terms-conditions/",
+      "url": "http://justpremium.com"
+    },
+    "rules": [
+      "justpremium\\.com"
+    ]
+  },
+  "kargo.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Kargo",
+      "name": "Kargo Global, Inc."
+    },
+    "rules": [
+      "kargo\\.com"
+    ]
+  },
+  "klaviyo.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Klaviyo",
+      "name": "Klaviyo",
+      "privacyPolicy": "https://www.klaviyo.com/privacy",
+      "url": "http://klaviyo.com"
+    },
+    "rules": [
+      "klaviyo\\.com"
+    ]
+  },
+  "krxd.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Salesforce.com",
+      "name": "Salesforce.com, Inc.",
+      "privacyPolicy": "https://www.salesforce.com/company/privacy/",
+      "url": "http://salesforce.com"
+    },
+    "rules": [
+      "krxd\\.net"
+    ]
+  },
+  "ladsp.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "So-net Media Networks",
+      "name": "So-net Media Networks Corporation."
+    },
+    "rules": [
+      "ladsp\\.com"
+    ]
+  },
+  "liadm.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "LiveIntent",
+      "name": "LiveIntent Inc.",
+      "privacyPolicy": "https://liveintent.com/privacy-policy/",
+      "url": "http://liveintent.com"
+    },
+    "rules": [
+      "liadm\\.com"
+    ]
+  },
+  "lijit.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Sovrn Holdings",
+      "name": "Sovrn Holdings",
+      "privacyPolicy": "https://www.sovrn.com/sovrn-legal-policies/",
+      "url": "http://sovrn.com"
+    },
+    "rules": [
+      "lijit\\.com"
+    ]
+  },
+  "linkedin.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Microsoft",
+      "name": "Microsoft Corporation",
+      "privacyPolicy": "https://privacy.microsoft.com/en-us/privacystatement",
+      "url": "http://microsoft.com"
+    },
+    "rules": [
+      "linkedin\\.com\\/countserv\\/count\\/share",
+      "linkedin\\.com\\/px\\/li_sync",
+      "linkedin\\.com\\/setuid",
+      "linkedin\\.com\\/collect",
+      "linkedin\\.com\\/video\\/embed\\/live\\/urn:li:ugcPost:6777973583273709568",
+      "linkedin\\.com\\/pages-extensions\\/FollowCompany",
+      "linkedin\\.com\\/embed\\/feed\\/update\\/urn:li:share:6848659492872175616",
+      "linkedin\\.com\\/in\\.js",
+      "linkedin\\.com\\/xdoor\\/scripts\\/in\\.js",
+      "linkedin\\.com\\/pages-extensions\\/FollowCompany\\.js",
+      "linkedin\\.com\\/collect\\/"
+    ]
+  },
+  "linksynergy.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Rakuten",
+      "name": "Rakuten, Inc.",
+      "privacyPolicy": "https://rakutenmarketing.com/legal-notices/services-privacy-policy",
+      "url": "http://rakutenmarketing.com"
+    },
+    "rules": [
+      "linksynergy\\.com"
+    ]
+  },
+  "livechatinc.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "LiveChat",
+      "name": "LiveChat Inc",
+      "privacyPolicy": "https://www.livechatinc.com/legal/privacy-policy/",
+      "url": "http://livechatinc.com"
+    },
+    "rules": [
+      "livechatinc\\.com\\/customer\\/token",
+      "livechatinc\\.com\\/widget\\/static\\/js\\/0\\.62bfa686\\.chunk\\.js",
+      "livechatinc\\.com\\/tracking\\.js",
+      "livechatinc\\.com\\/widget\\/static\\/js\\/3\\.feadd832\\.chunk\\.js",
+      "livechatinc\\.com\\/widget\\/static\\/js\\/iframe\\.cbad4294\\.chunk\\.js"
+    ]
+  },
+  "loopme.me": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "LoopMe",
+      "name": "LoopMe Ltd",
+      "privacyPolicy": "https://loopme.com/privacy-policy/",
+      "url": "http://loopme.com"
+    },
+    "rules": [
+      "loopme\\.me"
+    ]
+  },
+  "lp4.io": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "lp4\\.io"
+    ]
+  },
+  "marketo.net": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Adobe",
+      "name": "Adobe Inc.",
+      "privacyPolicy": "https://www.adobe.com/privacy/marketing-cloud.html",
+      "url": "http://adobe.com"
+    },
+    "rules": [
+      "marketo\\.net"
+    ]
+  },
+  "mathtag.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "MediaMath",
+      "name": "MediaMath, Inc.",
+      "privacyPolicy": "http://www.mediamath.com/privacy-policy/",
+      "url": "http://mediamath.com"
+    },
+    "rules": [
+      "mathtag\\.com"
+    ]
+  },
+  "media.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Media.net Advertising",
+      "name": "Media.net Advertising FZ-LLC",
+      "privacyPolicy": "https://www.media.net/en/privacy-policy",
+      "url": "http://media.net"
+    },
+    "rules": [
+      "media\\.net"
+    ]
+  },
+  "mediarithmics.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "mediarithmics",
+      "name": "mediarithmics SAS"
+    },
+    "rules": [
+      "mediarithmics\\.com\\/v1\\/getids",
+      "mediarithmics\\.com\\/input",
+      "mediarithmics\\.com\\/tag\\/1\\/tag\\.min\\.js",
+      "mediarithmics\\.com\\/tag\\/2\\/tag\\.min\\.js"
+    ]
+  },
+  "mediavine.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Mediavine",
+      "name": "Mediavine, Inc.",
+      "privacyPolicy": "https://www.mediavine.com/privacy-policy/",
+      "url": "http://mediavine.com"
+    },
+    "rules": [
+      "mediavine\\.com"
+    ]
+  },
+  "medietall.no": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "medietall\\.no"
+    ]
+  },
+  "mfadsrvr.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "IPONWEB",
+      "name": "IPONWEB GmbH",
+      "privacyPolicy": "https://www.iponweb.com/privacy-policy/",
+      "url": "http://iponweb.com"
+    },
+    "rules": [
+      "mfadsrvr\\.com"
+    ]
+  },
+  "mktoresp.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Adobe",
+      "name": "Adobe Inc.",
+      "privacyPolicy": "https://www.adobe.com/privacy/marketing-cloud.html",
+      "url": "http://adobe.com"
+    },
+    "rules": [
+      "mktoresp\\.com\\/webevents\\/visitWebPage"
+    ]
+  },
+  "ml314.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Bombora",
+      "name": "Bombora Inc.",
+      "privacyPolicy": "https://bombora.com/privacy/",
+      "url": "http://bombora.com"
+    },
+    "rules": [
+      "ml314\\.com"
+    ]
+  },
+  "moatads.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Oracle",
+      "name": "Oracle Corporation",
+      "privacyPolicy": "https://www.oracle.com/legal/privacy/privacy-policy.html",
+      "url": "http://oracle.com"
+    },
+    "rules": [
+      "moatads\\.com"
+    ]
+  },
+  "mobileadtrading.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Somo Audience",
+      "name": "Somo Audience Corp",
+      "privacyPolicy": "https://somoaudience.com/legal/",
+      "url": "http://somoaudience.com"
+    },
+    "rules": [
+      "mobileadtrading\\.com"
+    ]
+  },
+  "monsido.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Monsido",
+      "name": "Monsido Inc."
+    },
+    "rules": [
+      "monsido\\.com\\/v1\\/heatmaps\\.js",
+      "monsido\\.com\\/v2\\/monsido-script\\.js",
+      "monsido\\.com\\/v1\\/page-correct\\.js",
+      "monsido\\.com\\/tool\\/javascripts\\/monsido\\.js"
+    ]
+  },
+  "mookie1.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Xaxis",
+      "name": "Xaxis"
+    },
+    "rules": [
+      "mookie1\\.com"
+    ]
+  },
+  "mxptint.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Valassis Digital",
+      "name": "Valassis Digital",
+      "privacyPolicy": "https://www.valassisdigital.com/legal/privacy-policy/",
+      "url": "http://valassisdigital.com"
+    },
+    "rules": [
+      "mxptint\\.net"
+    ]
+  },
+  "narrative.io": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "narrative\\.io"
+    ]
+  },
+  "newrelic.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "New Relic",
+      "name": "New Relic",
+      "privacyPolicy": "https://newrelic.com/privacy",
+      "url": "http://newrelic.com"
+    },
+    "rules": [
+      "newrelic\\.com"
+    ]
+  },
+  "nr-data.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "New Relic",
+      "name": "New Relic",
+      "privacyPolicy": "https://newrelic.com/privacy",
+      "url": "http://newrelic.com"
+    },
+    "rules": [
+      "nr-data\\.net"
+    ]
+  },
+  "nrich.ai": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "nrich\\.ai"
+    ]
+  },
+  "ntv.io": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Nativo",
+      "name": "Nativo, Inc",
+      "privacyPolicy": "https://www.nativo.com/privacy-policy",
+      "url": "http://nativo.com"
+    },
+    "rules": [
+      "ntv\\.io"
+    ]
+  },
+  "omappapi.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Retyp",
+      "name": "Retyp LLC",
+      "privacyPolicy": "https://optinmonster.com/privacy/",
+      "url": "http://optinmonster.com"
+    },
+    "rules": [
+      "omappapi\\.com"
+    ]
+  },
+  "omnitagjs.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Adyoulike",
+      "name": "Adyoulike",
+      "privacyPolicy": "https://www.adyoulike.com/privacy_policy.php",
+      "url": "http://adyoulike.com"
+    },
+    "rules": [
+      "omnitagjs\\.com"
+    ]
+  },
+  "omtrdc.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Adobe",
+      "name": "Adobe Inc.",
+      "privacyPolicy": "https://www.adobe.com/privacy/marketing-cloud.html",
+      "url": "http://adobe.com"
+    },
+    "rules": [
+      "omtrdc\\.net"
+    ]
+  },
+  "onaudience.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "OnAudience",
+      "name": "OnAudience Ltd."
+    },
+    "rules": [
+      "onaudience\\.com\\/"
+    ]
+  },
+  "onesignal.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "OneSignal",
+      "name": "OneSignal",
+      "privacyPolicy": "https://onesignal.com/privacy_policy",
+      "url": "http://onesignal.com"
+    },
+    "rules": [
+      "onesignal\\.com\\/sdks\\/OneSignalSDK\\.js",
+      "onesignal\\.com\\/sdks\\/OneSignalPageSDKES6\\.js"
+    ]
+  },
+  "onetag-sys.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "OneTag",
+      "name": "OneTag Limited"
+    },
+    "rules": [
+      "onetag-sys\\.com"
+    ]
+  },
+  "onetrust.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "OneTrust",
+      "name": "OneTrust LLC",
+      "privacyPolicy": "https://www.onetrust.com/privacy-notice",
+      "url": "http://onetrust.com"
+    },
+    "rules": [
+      "onetrust\\.com\\/consent\\/4573a855-536f-40b7-a72a-feb94e671da3\\.js",
+      "onetrust\\.com\\/scripttemplates",
+      "onetrust\\.com\\/dsarwebform\\/6"
+    ]
+  },
+  "opecloud.com": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "opecloud\\.com"
+    ]
+  },
+  "openx.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "OpenX",
+      "name": "OpenX Technologies Inc",
+      "privacyPolicy": "https://www.openx.com/legal/privacy-policy/",
+      "url": "http://openx.com"
+    },
+    "rules": [
+      "openx\\.net"
+    ]
+  },
+  "opera.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Opera Software",
+      "name": "Opera Software AS",
+      "privacyPolicy": "http://www.opera.com/privacy",
+      "url": "http://opera.com"
+    },
+    "rules": [
+      "opera\\.com\\/pub\\/sync",
+      "opera\\.com\\/sync",
+      "opera\\.com\\/ortb\\/v2\\/pub3054952966336",
+      "opera\\.com\\/ortb\\/v2\\/pub5634556642048",
+      "opera\\.com\\/ortb\\/v2\\/pub5644548548544"
+    ]
+  },
+  "outbrain.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Outbrain",
+      "name": "Outbrain",
+      "privacyPolicy": "https://www.outbrain.com/legal/privacy",
+      "url": "http://outbrain.com"
+    },
+    "rules": [
+      "outbrain\\.com"
+    ]
+  },
+  "owneriq.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Inmar",
+      "name": "Inmar, Inc."
+    },
+    "rules": [
+      "owneriq\\.net"
+    ]
+  },
+  "parsely.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Parsely",
+      "name": "Parsely, Inc.",
+      "privacyPolicy": "https://www.parse.ly/privacy-policy/",
+      "url": "http://parse.ly"
+    },
+    "rules": [
+      "parsely\\.com"
+    ]
+  },
+  "pbstck.com": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "pbstck\\.com"
+    ]
+  },
+  "permutive.app": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "permutive\\.app"
+    ]
+  },
+  "permutive.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Permutive",
+      "name": "Permutive, Inc.",
+      "privacyPolicy": "https://permutive.com/privacy/",
+      "url": "http://permutive.com"
+    },
+    "rules": [
+      "permutive\\.com"
+    ]
+  },
+  "pingdom.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Pingdom",
+      "name": "Pingdom AB",
+      "privacyPolicy": "https://www.pingdom.com/legal/cookie-policy/",
+      "url": "http://pingdom.com"
+    },
+    "rules": [
+      "pingdom\\.net"
+    ]
+  },
+  "pippio.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "LiveRamp",
+      "name": "LiveRamp",
+      "privacyPolicy": "https://liveramp.com/privacy/",
+      "url": "http://liveramp.com"
+    },
+    "rules": [
+      "pippio\\.com"
+    ]
+  },
+  "playground.xyz": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "PLAYGROUND XYZ",
+      "name": "PLAYGROUND XYZ",
+      "privacyPolicy": "https://playground.xyz/privacy/",
+      "url": "http://playground.xyz"
+    },
+    "rules": [
+      "playground\\.xyz"
+    ]
+  },
+  "postrelease.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Nativo",
+      "name": "Nativo, Inc",
+      "privacyPolicy": "https://www.nativo.com/privacy-policy",
+      "url": "http://nativo.com"
+    },
+    "rules": [
+      "postrelease\\.com"
+    ]
+  },
+  "privacy-center.org": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "privacy-center\\.org"
+    ]
+  },
+  "privacy-mgmt.com": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "privacy-mgmt\\.com"
+    ]
+  },
+  "privacymanager.io": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "privacymanager\\.io"
+    ]
+  },
+  "prmutv.co": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "prmutv\\.co"
+    ]
+  },
+  "pro-market.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Datonics",
+      "name": "Datonics LLC",
+      "privacyPolicy": "https://www.datonics.com/privacy/",
+      "url": "http://datonics.com"
+    },
+    "rules": [
+      "pro-market\\.net"
+    ]
+  },
+  "pswec.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Proclivity Media",
+      "name": "Proclivity Media, Inc.",
+      "privacyPolicy": "https://www.proclivitysystems.com/",
+      "url": "http://proclivitysystems.com"
+    },
+    "rules": [
+      "pswec\\.com"
+    ]
+  },
+  "pubmatic.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "PubMatic",
+      "name": "PubMatic, Inc.",
+      "privacyPolicy": "https://pubmatic.com/legal/privacy-policy/",
+      "url": "http://pubmatic.com"
+    },
+    "rules": [
+      "pubmatic\\.com"
+    ]
+  },
+  "qualtrics.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Qualtrics",
+      "name": "Qualtrics, LLC",
+      "privacyPolicy": "https://www.qualtrics.com/privacy-statement/",
+      "url": "http://qualtrics.com"
+    },
+    "rules": [
+      "qualtrics\\.com\\/jfe",
+      "qualtrics\\.com\\/dxjsmodule"
+    ]
+  },
+  "quantserve.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Quantcast",
+      "name": "Quantcast Corporation",
+      "privacyPolicy": "http://www.quantcast.com/privacy",
+      "url": "http://quantcast.com"
+    },
+    "rules": [
+      "quantserve\\.com"
+    ]
+  },
+  "quora.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Quora",
+      "name": "Quora",
+      "privacyPolicy": "https://www.quora.com/about/privacy",
+      "url": "http://quora.com"
+    },
+    "rules": [
+      "quora\\.com\\/qevents\\.js"
+    ]
+  },
+  "r-ad.ne.jp": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "r-ad\\.ne\\.jp"
+    ]
+  },
+  "realsrv.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "ExoClick",
+      "name": "ExoClick, S.L.",
+      "privacyPolicy": "https://www.exoclick.com/privacy/",
+      "url": "http://exoclick.com"
+    },
+    "rules": [
+      "realsrv\\.com"
+    ]
+  },
+  "realvu.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "RealVu",
+      "name": "RealVu Inc"
+    },
+    "rules": [
+      "realvu\\.net"
+    ]
+  },
+  "reddit.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Reddit",
+      "name": "Reddit Inc.",
+      "privacyPolicy": "https://www.redditinc.com/policies/privacy-policy",
+      "url": "http://redditinc.com"
+    },
+    "rules": [
+      "reddit\\.com\\/api\\/info\\.json",
+      "reddit\\.com\\/button_info\\.json",
+      "reddit\\.com\\/static",
+      "reddit\\.com\\/r"
+    ]
+  },
+  "redditstatic.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Reddit",
+      "name": "Reddit Inc.",
+      "privacyPolicy": "https://www.redditinc.com/policies/privacy-policy",
+      "url": "http://redditinc.com"
+    },
+    "rules": [
+      "redditstatic\\.com"
+    ]
+  },
+  "resetdigital.co": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Reset Digital",
+      "name": "Reset Digital LLC"
+    },
+    "rules": [
+      "resetdigital\\.co"
+    ]
+  },
+  "rezync.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Zeta Global",
+      "name": "Zeta Global",
+      "privacyPolicy": "https://zetaglobal.com/privacy-policy/",
+      "url": "http://zetaglobal.com"
+    },
+    "rules": [
+      "rezync\\.com"
+    ]
+  },
+  "rfihub.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Zeta Global",
+      "name": "Zeta Global",
+      "privacyPolicy": "https://zetaglobal.com/privacy-policy/",
+      "url": "http://zetaglobal.com"
+    },
+    "rules": [
+      "rfihub\\.com"
+    ]
+  },
+  "richaudience.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Rich Audience",
+      "name": "Rich Audience Technologies"
+    },
+    "rules": [
+      "richaudience\\.com"
+    ]
+  },
+  "rkdms.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Merkle",
+      "name": "Merkle Inc",
+      "privacyPolicy": "https://www.merkleinc.com/privacy",
+      "url": "http://merkleinc.com"
+    },
+    "rules": [
+      "rkdms\\.com"
+    ]
+  },
+  "rlcdn.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "LiveRamp",
+      "name": "LiveRamp",
+      "privacyPolicy": "https://liveramp.com/privacy/",
+      "url": "http://liveramp.com"
+    },
+    "rules": [
+      "rlcdn\\.com"
+    ]
+  },
+  "rubiconproject.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "The Rubicon Project",
+      "name": "The Rubicon Project, Inc.",
+      "privacyPolicy": "http://rubiconproject.com/rubicon-project-yield-optimization-privacy-policy/",
+      "url": "http://rubiconproject.com"
+    },
+    "rules": [
+      "rubiconproject\\.com"
+    ]
+  },
+  "rundsp.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "RUN",
+      "name": "RUN",
+      "privacyPolicy": "http://www.runads.com/privacy-policy",
+      "url": "http://runads.com"
+    },
+    "rules": [
+      "rundsp\\.com"
+    ]
+  },
+  "s-onetag.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Sovrn Holdings",
+      "name": "Sovrn Holdings",
+      "privacyPolicy": "https://www.sovrn.com/sovrn-legal-policies/",
+      "url": "http://sovrn.com"
+    },
+    "rules": [
+      "s-onetag\\.com"
+    ]
+  },
+  "s3xified.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "AdMedia",
+      "name": "AdMedia"
+    },
+    "rules": [
+      "s3xified\\.com"
+    ]
+  },
+  "sail-horizon.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Sailthru",
+      "name": "Sailthru, Inc",
+      "privacyPolicy": "https://www.sailthru.com/legal/privacy-statement/",
+      "url": "http://sailthru.com"
+    },
+    "rules": [
+      "sail-horizon\\.com\\/horizon\\/v1\\.js",
+      "sail-horizon\\.com\\/spm\\/spm\\.v1\\.min\\.js"
+    ]
+  },
+  "sc-static.net": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Snap",
+      "name": "Snap Inc."
+    },
+    "rules": [
+      "sc-static\\.net\\/scevent-gtm\\.min\\.js",
+      "sc-static\\.net\\/scevent\\.min\\.js"
+    ]
+  },
+  "scorecardresearch.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "comScore",
+      "name": "comScore, Inc",
+      "privacyPolicy": "https://www.comscore.com/About/Privacy-Policy",
+      "url": "http://comscore.com"
+    },
+    "rules": [
+      "scorecardresearch\\.com"
+    ]
+  },
+  "securedvisit.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "4Cite Marketing",
+      "name": "4Cite Marketing",
+      "privacyPolicy": "https://www.4cite.com/4cite-marketing-llc-privacy-policy/",
+      "url": "http://4cite.com"
+    },
+    "rules": [
+      "securedvisit\\.com"
+    ]
+  },
+  "segment.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Segment.io",
+      "name": "Segment.io, Inc.",
+      "privacyPolicy": "https://segment.io/privacy",
+      "url": "http://segment.io"
+    },
+    "rules": [
+      "segment\\.com"
+    ]
+  },
+  "segment.io": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Segment.io",
+      "name": "Segment.io, Inc.",
+      "privacyPolicy": "https://segment.io/privacy",
+      "url": "http://segment.io"
+    },
+    "rules": [
+      "segment\\.io"
+    ]
+  },
+  "semasio.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Semasio",
+      "name": "Semasio GmbH",
+      "privacyPolicy": "https://www.semasio.com/privacy",
+      "url": "http://semasio.com"
+    },
+    "rules": [
+      "semasio\\.net"
+    ]
+  },
+  "servenobid.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Prebid.org",
+      "name": "Prebid.org"
+    },
+    "rules": [
+      "servenobid\\.com"
+    ]
+  },
+  "serverbid.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Consumable",
+      "name": "Consumable, Inc."
+    },
+    "rules": [
+      "serverbid\\.com"
+    ]
+  },
+  "sharedid.org": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "The Rubicon Project",
+      "name": "The Rubicon Project, Inc.",
+      "privacyPolicy": "http://rubiconproject.com/rubicon-project-yield-optimization-privacy-policy/",
+      "url": "http://rubiconproject.com"
+    },
+    "rules": [
+      "sharedid\\.org\\/id"
+    ]
+  },
+  "sharethis.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "ShareThis",
+      "name": "ShareThis, Inc",
+      "privacyPolicy": "https://www.sharethis.com/privacy/",
+      "url": "http://sharethis.com"
+    },
+    "rules": [
+      "sharethis\\.com"
+    ]
+  },
+  "sharethrough.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Sharethrough",
+      "name": "Sharethrough, Inc.",
+      "privacyPolicy": "https://platform-cdn.sharethrough.com/privacy-policy",
+      "url": "http://sharethrough.com"
+    },
+    "rules": [
+      "sharethrough\\.com"
+    ]
+  },
+  "shop.app": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Shopify",
+      "name": "Shopify Inc.",
+      "privacyPolicy": "https://www.shopify.com/legal/privacy",
+      "url": "http://shopify.com"
+    },
+    "rules": [
+      "shop\\.app\\/pay\\/session"
+    ]
+  },
+  "simpli.fi": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Simplifi Holdings",
+      "name": "Simplifi Holdings Inc.",
+      "privacyPolicy": "https://www.simpli.fi/site-privacy-policy2/",
+      "url": "http://simpli.fi"
+    },
+    "rules": [
+      "simpli\\.fi"
+    ]
+  },
+  "siteimproveanalytics.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Siteimprove",
+      "name": "Siteimprove A/S",
+      "privacyPolicy": "https://siteimprove.com/en/privacy/privacy-policy/",
+      "url": "http://siteimprove.com"
+    },
+    "rules": [
+      "siteimproveanalytics\\.com"
+    ]
+  },
+  "siteimproveanalytics.io": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Siteimprove",
+      "name": "Siteimprove A/S",
+      "privacyPolicy": "https://siteimprove.com/en/privacy/privacy-policy/",
+      "url": "http://siteimprove.com"
+    },
+    "rules": [
+      "siteimproveanalytics\\.io"
+    ]
+  },
+  "sitescout.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Centro",
+      "name": "Centro, Inc."
+    },
+    "rules": [
+      "sitescout\\.com"
+    ]
+  },
+  "smaato.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Smaato",
+      "name": "Smaato Inc.",
+      "privacyPolicy": "https://www.smaato.com/privacy/",
+      "url": "http://smaato.com"
+    },
+    "rules": [
+      "smaato\\.net"
+    ]
+  },
+  "smadex.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Entravision",
+      "name": "Entravision Communications Corporation"
+    },
+    "rules": [
+      "smadex\\.com"
+    ]
+  },
+  "smartadserver.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Smartadserver",
+      "name": "Smartadserver S.A.S",
+      "privacyPolicy": "http://smartadserver.com/company/privacy-policy/",
+      "url": "http://smartadserver.com"
+    },
+    "rules": [
+      "smartadserver\\.com"
+    ]
+  },
+  "snapchat.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Snap",
+      "name": "Snap Inc."
+    },
+    "rules": [
+      "snapchat\\.com\\/shopify\\/shopify-scevent-init\\.js",
+      "snapchat\\.com\\/p",
+      "snapchat\\.com\\/cm"
+    ]
+  },
+  "socdm.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Supership",
+      "name": "Supership Inc",
+      "privacyPolicy": "https://supership.jp/privacy/",
+      "url": "http://supership.jp"
+    },
+    "rules": [
+      "socdm\\.com"
+    ]
+  },
+  "sonobi.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Sonobi",
+      "name": "Sonobi, Inc",
+      "privacyPolicy": "https://sonobi.com/privacy-policy/",
+      "url": "http://sonobi.com"
+    },
+    "rules": [
+      "sonobi\\.com"
+    ]
+  },
+  "sp-prod.net": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Sourcepoint",
+      "name": "Sourcepoint Technologies Inc"
+    },
+    "rules": [
+      "sp-prod\\.net"
+    ]
+  },
+  "sportradarserving.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Sportradar",
+      "name": "Sportradar AG"
+    },
+    "rules": [
+      "sportradarserving\\.com\\/pixel",
+      "sportradarserving\\.com\\/sync",
+      "sportradarserving\\.com\\/ul_cb"
+    ]
+  },
+  "spotxchange.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "SpotX",
+      "name": "SpotX, Inc.",
+      "privacyPolicy": "https://www.spotx.tv/privacy-policy/",
+      "url": "http://spotx.tv"
+    },
+    "rules": [
+      "spotxchange\\.com"
+    ]
+  },
+  "stackadapt.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Collective Roll",
+      "name": "Collective Roll",
+      "privacyPolicy": "https://www.stackadapt.com/privacy",
+      "url": "http://stackadapt.com"
+    },
+    "rules": [
+      "stackadapt\\.com"
+    ]
+  },
+  "stickyadstv.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "FreeWheel",
+      "name": "FreeWheel",
+      "privacyPolicy": "http://freewheel.tv/privacy-policy/",
+      "url": "http://freewheel.tv"
+    },
+    "rules": [
+      "stickyadstv\\.com"
+    ]
+  },
+  "survata.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Survata",
+      "name": "Survata, Inc.",
+      "privacyPolicy": "https://www.survata.com/respondent-privacy-policy/",
+      "url": "http://survata.com"
+    },
+    "rules": [
+      "survata\\.com"
+    ]
+  },
+  "taboola.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Taboola",
+      "name": "Taboola, Inc."
+    },
+    "rules": [
+      "taboola\\.com"
+    ]
+  },
+  "tagcommander.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Fjord",
+      "name": "Fjord Technologies",
+      "privacyPolicy": "https://www.commandersact.com/en/privacy/",
+      "url": "http://commandersact.com"
+    },
+    "rules": [
+      "tagcommander\\.com"
+    ]
+  },
+  "tapad.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Tapad",
+      "name": "Tapad, Inc.",
+      "privacyPolicy": "https://www.tapad.com/privacy-policy",
+      "url": "http://tapad.com"
+    },
+    "rules": [
+      "tapad\\.com"
+    ]
+  },
+  "teads.tv": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Teads",
+      "name": "Teads ( Luxenbourg ) SA",
+      "privacyPolicy": "https://teads.tv/privacy-policy/",
+      "url": "http://teads.tv"
+    },
+    "rules": [
+      "teads\\.tv"
+    ]
+  },
+  "technoratimedia.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Synacor",
+      "name": "Synacor, Inc."
+    },
+    "rules": [
+      "technoratimedia\\.com"
+    ]
+  },
+  "thrtle.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Throtle",
+      "name": "Throtle"
+    },
+    "rules": [
+      "thrtle\\.com"
+    ]
+  },
+  "tidaltv.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Amobee",
+      "name": "Amobee, Inc"
+    },
+    "rules": [
+      "tidaltv\\.com"
+    ]
+  },
+  "tiktok.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "ByteDance",
+      "name": "ByteDance Ltd."
+    },
+    "rules": [
+      "tiktok\\.com\\/node\\/common\\/shape-init",
+      "tiktok\\.com\\/ttwid\\/check\\/",
+      "tiktok\\.com\\/embed\\.js",
+      "tiktok\\.com\\/acrawler\\/webmssdk\\.js",
+      "tiktok\\.com\\/i18n\\/pixel"
+    ]
+  },
+  "tiqcdn.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Tealium",
+      "name": "Tealium Inc.",
+      "privacyPolicy": "https://tealium.com/privacy/",
+      "url": "http://tealium.com"
+    },
+    "rules": [
+      "tiqcdn\\.com"
+    ]
+  },
+  "tremorhub.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Telaria",
+      "name": "Telaria",
+      "privacyPolicy": "https://telaria.com/privacy-policy/",
+      "url": "http://telaria.com"
+    },
+    "rules": [
+      "tremorhub\\.com"
+    ]
+  },
+  "tribalfusion.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Exponential Interactive",
+      "name": "Exponential Interactive Inc.",
+      "privacyPolicy": "http://exponential.com/privacy/",
+      "url": "http://exponential.com"
+    },
+    "rules": [
+      "tribalfusion\\.com"
+    ]
+  },
+  "trueleadid.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Lead Intelligence",
+      "name": "Lead Intelligence, Inc.",
+      "privacyPolicy": "https://get.leadintelligence.co.uk/privacy-cookie-policy",
+      "url": "http://leadintelligence.co.uk"
+    },
+    "rules": [
+      "trueleadid\\.com"
+    ]
+  },
+  "trustarc.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "TrustArc",
+      "name": "TrustArc Inc.",
+      "privacyPolicy": "https://www.trustarc.com/privacy-policy/",
+      "url": "http://trustarc.com"
+    },
+    "rules": [
+      "trustarc\\.com\\/get",
+      "trustarc\\.com\\/cookie_inneriframe\\.html",
+      "trustarc\\.com\\/ca",
+      "trustarc\\.com\\/notice",
+      "trustarc\\.com\\/asset",
+      "trustarc\\.com\\/v2\\/notice",
+      "trustarc\\.com\\/defaultpreferencemanager"
+    ]
+  },
+  "trustcommander.net": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "trustcommander\\.net"
+    ]
+  },
+  "trustedshops.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Trusted Shops",
+      "name": "Trusted Shops GmbH",
+      "privacyPolicy": "https://www.trustedshops.eu/legal-notice-privacy.html",
+      "url": "http://trustedshops.eu"
+    },
+    "rules": [
+      "trustedshops\\.com\\/assets\\/trustbadge\\.js",
+      "trustedshops\\.com\\/reviews\\/tsSticker\\/tsProductStickerSummary\\.js",
+      "trustedshops\\.com\\/reviews\\/tsSticker\\/tsSticker\\.js"
+    ]
+  },
+  "trustpilot.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Trustpilot",
+      "name": "Trustpilot A/S",
+      "privacyPolicy": "https://uk.legal.trustpilot.com/end-user-privacy-terms",
+      "url": "http://trustpilot.com"
+    },
+    "rules": [
+      "trustpilot\\.com\\/bootstrap\\/v5\\/tp\\.widget\\.bootstrap\\.min\\.js",
+      "trustpilot\\.com\\/trustboxes",
+      "trustpilot\\.com\\/v2\\.1\\/js"
+    ]
+  },
+  "trustx.org": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "DCN",
+      "name": "DCN",
+      "privacyPolicy": "https://trustx.org/rules/",
+      "url": "http://trustx.org"
+    },
+    "rules": [
+      "trustx\\.org"
+    ]
+  },
+  "tsyndicate.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Traffic Stars",
+      "name": "Traffic Stars",
+      "privacyPolicy": "https://trafficstars.com/privacy-policy/",
+      "url": "http://trafficstars.com"
+    },
+    "rules": [
+      "tsyndicate\\.com"
+    ]
+  },
+  "turn.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Amobee",
+      "name": "Amobee, Inc"
+    },
+    "rules": [
+      "turn\\.com"
+    ]
+  },
+  "twitter.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Twitter",
+      "name": "Twitter, Inc.",
+      "privacyPolicy": "https://twitter.com/en/privacy",
+      "url": "http://twitter.com"
+    },
+    "rules": [
+      "twitter\\.com\\/favicon\\.ico",
+      "twitter\\.com\\/i\\/adsct",
+      "twitter\\.com\\/timeline\\/profile",
+      "twitter\\.com\\/impressions\\.js",
+      "twitter\\.com\\/intent\\/tweet",
+      "twitter\\.com\\/statuses\\/user_timeline\\/cafepedagogique\\.json",
+      "twitter\\.com\\/i\\/jot",
+      "twitter\\.com\\/widgets",
+      "twitter\\.com\\/embed",
+      "twitter\\.com\\/js",
+      "twitter\\.com\\/1"
+    ]
+  },
+  "tynt.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "33Across",
+      "name": "33Across, Inc.",
+      "privacyPolicy": "https://33across.com/privacy-policy/",
+      "url": "http://33across.com"
+    },
+    "rules": [
+      "tynt\\.com"
+    ]
+  },
+  "undertone.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Undertone Networks",
+      "name": "Undertone Networks",
+      "privacyPolicy": "https://www.undertone.com/privacy/",
+      "url": "http://undertone.com"
+    },
+    "rules": [
+      "undertone\\.com"
+    ]
+  },
+  "unrulymedia.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Unruly Group",
+      "name": "Unruly Group Limited",
+      "privacyPolicy": "https://unruly.co/privacy/",
+      "url": "http://unruly.co"
+    },
+    "rules": [
+      "unrulymedia\\.com"
+    ]
+  },
+  "usercentrics.eu": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "usercentrics\\.eu"
+    ]
+  },
+  "userreport.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "AudienceProject",
+      "name": "AudienceProject",
+      "privacyPolicy": "https://privacy.audienceproject.com/",
+      "url": "http://audienceproject.com"
+    },
+    "rules": [
+      "userreport\\.com"
+    ]
+  },
+  "videoplayerhub.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Blockthrough",
+      "name": "Blockthrough Inc."
+    },
+    "rules": [
+      "videoplayerhub\\.com"
+    ]
+  },
+  "viglink.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Sovrn Holdings",
+      "name": "Sovrn Holdings",
+      "privacyPolicy": "https://www.sovrn.com/sovrn-legal-policies/",
+      "url": "http://sovrn.com"
+    },
+    "rules": [
+      "viglink\\.com"
+    ]
+  },
+  "visualwebsiteoptimizer.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Wingify",
+      "name": "Wingify",
+      "privacyPolicy": "https://wingify.com/privacy-policy",
+      "url": "http://wingify.com"
+    },
+    "rules": [
+      "visualwebsiteoptimizer\\.com"
+    ]
+  },
+  "w55c.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "DataXu",
+      "name": "DataXu",
+      "privacyPolicy": "https://www.dataxu.com/about-us/privacy/data-collection-platform/",
+      "url": "http://dataxu.com"
+    },
+    "rules": [
+      "w55c\\.net"
+    ]
+  },
+  "walmart.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Walmart",
+      "name": "Walmart Inc."
+    },
+    "rules": [
+      "walmart\\.com"
+    ]
+  },
+  "weborama.fr": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Weborama",
+      "name": "Weborama",
+      "privacyPolicy": "https://weborama.com/en/privacy_en/",
+      "url": "http://weborama.com"
+    },
+    "rules": [
+      "weborama\\.fr"
+    ]
+  },
+  "xiti.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "AT Internet",
+      "name": "AT Internet",
+      "privacyPolicy": "https://www.atinternet.com/en/company/data-protection/data-collection-on-at-internets-sites/",
+      "url": "http://atinternet.com"
+    },
+    "rules": [
+      "xiti\\.com"
+    ]
+  },
+  "xxxjmp.com": {
+    "hardblock": true,
+    "owner": {},
+    "rules": [
+      "xxxjmp\\.com"
+    ]
+  },
+  "yadro.ru": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "ECO PC - Complex Solutions",
+      "name": "OOO \"ECO PC - Complex Solutions\""
+    },
+    "rules": [
+      "yadro\\.ru"
+    ]
+  },
+  "yahoo.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Verizon Media",
+      "name": "Verizon Media",
+      "privacyPolicy": "https://www.verizon.com/about/privacy/privacy-policy-summary",
+      "url": "http://verizon.com"
+    },
+    "rules": [
+      "yahoo\\.com\\/bid\\/prebid",
+      "yahoo\\.com\\/sp-frame\\.html",
+      "yahoo\\.com\\/p",
+      "yahoo\\.com\\/cms\\/v1",
+      "yahoo\\.com\\/mbcsc",
+      "yahoo\\.com\\/vzn",
+      "yahoo\\.com\\/gossip",
+      "yahoo\\.com\\/yv",
+      "yahoo\\.com\\/oath\\/js\\/1\\/oath-player\\.js",
+      "yahoo\\.com\\/beacon\\/csp",
+      "yahoo\\.com\\/log",
+      "yahoo\\.com\\/vjs\\/native-display",
+      "yahoo\\.com\\/cms",
+      "yahoo\\.com\\/v1\\/recommends",
+      "yahoo\\.com\\/bidRequest",
+      "yahoo\\.com\\/sy\\/os\\/fontserver\\/YahooSans\\/ExtraBold\\.woff2",
+      "yahoo\\.com\\/sp\\.pl",
+      "yahoo\\.com\\/v2\\/public\\/yql",
+      "yahoo\\.com\\/sp\\/v0\\/pixels",
+      "yahoo\\.com\\/opus\\/tag\\/opus-frame\\.html",
+      "yahoo\\.com\\/spp\\.pl",
+      "yahoo\\.com\\/tdv2_mtls_fp\\/remote",
+      "yahoo\\.com\\/v2\\/ads\\/js",
+      "yahoo\\.com\\/tag\\/opus-frame\\.html",
+      "yahoo\\.com\\/caas\\/content\\/article\\/",
+      "yahoo\\.com\\/ym",
+      "yahoo\\.com\\/",
+      "yahoo\\.com\\/js\\/admax\\/admax_api_https\\.js",
+      "yahoo\\.com\\/sy\\/os\\/fontserver\\/YahooSans\\/Regular\\.woff2",
+      "yahoo\\.com\\/v2\\/cexposer\\/SIG=11lum9jej\\/*https%3A\\/\\/www\\.tumblr\\.com\\/yahoo_cookie_receiver\\.html",
+      "yahoo\\.com\\/b",
+      "yahoo\\.com\\/bid\\/sra\\/zeus",
+      "yahoo\\.com\\/sy\\/os\\/fontserver\\/YahooSans\\/Semibold\\.woff2",
+      "yahoo\\.com\\/fac-sync",
+      "yahoo\\.com\\/sync",
+      "yahoo\\.com\\/ups",
+      "yahoo\\.com\\/a"
+    ]
+  },
+  "yandex.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Yandex",
+      "name": "Yandex LLC",
+      "privacyPolicy": "https://yandex.com/legal/privacy/",
+      "url": "http://yandex.com"
+    },
+    "rules": [
+      "yandex\\.com\\/watch",
+      "yandex\\.com\\/sync_cookie"
+    ]
+  },
+  "yieldlab.net": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Virtual Minds",
+      "name": "Virtual Minds AG",
+      "privacyPolicy": "https://www.virtualminds.de/en/",
+      "url": "http://virtualminds.de"
+    },
+    "rules": [
+      "yieldlab\\.net"
+    ]
+  },
+  "yieldlove.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Yieldlove",
+      "name": "Yieldlove GmbH",
+      "privacyPolicy": "https://www.yieldlove.com/privacy",
+      "url": "http://yieldlove.com"
+    },
+    "rules": [
+      "yieldlove\\.com"
+    ]
+  },
+  "yieldmo.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "YieldMo",
+      "name": "YieldMo, Inc.",
+      "privacyPolicy": "http://www.yieldmo.com/privacy/",
+      "url": "http://yieldmo.com"
+    },
+    "rules": [
+      "yieldmo\\.com"
+    ]
+  },
+  "zemanta.com": {
+    "hardblock": true,
+    "owner": {
+      "displayName": "Outbrain",
+      "name": "Outbrain",
+      "privacyPolicy": "https://www.outbrain.com/legal/privacy",
+      "url": "http://outbrain.com"
+    },
+    "rules": [
+      "zemanta\\.com"
+    ]
+  },
+  "zeotap.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Zeotap",
+      "name": "Zeotap GmbH"
+    },
+    "rules": [
+      "zeotap\\.com"
+    ]
+  },
+  "zopim.com": {
+    "hardblock": false,
+    "owner": {
+      "displayName": "Zendesk",
+      "name": "Zendesk, Inc.",
+      "privacyPolicy": "https://www.zendesk.com/company/customers-partners/privacy-policy/",
+      "url": "http://zendesk.com"
+    },
+    "rules": [
+      "zopim\\.com\\/client\\/widget\\/account\\/status",
+      "zopim\\.com\\/w"
+    ]
+  }
+}

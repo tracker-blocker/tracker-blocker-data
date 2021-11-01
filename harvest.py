@@ -78,7 +78,7 @@ def main():
 
             skip_conditions = [
                 NONBLOCKING_CATEGORIES.intersection(data['categories']),
-                data['prevalence'] < 0.01,
+                data['prevalence'] < 0.005,
             ]
             if any(skip_conditions):
                 continue

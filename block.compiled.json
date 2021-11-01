@@ -1,1615 +1,4257 @@
 {
-  "domainRegex": "1rx\\.io|2mdn\\.net|2o7\\.net|33across\\.com|360yield\\.com|3lift\\.com|4dex\\.io|a-mo\\.net|a2z\\.com|abtasty\\.com|acuityplatform\\.com|ad-m\\.asia|ad\\.gt|ad4m\\.at|addthis\\.com|addtoany\\.com|adentifi\\.com|adform\\.net|adgrx\\.com|adingo\\.jp|adition\\.com|adkernel\\.com|adlightning\\.com|admanmedia\\.com|admedo\\.com|admixer\\.net|adnami\\.io|adnxs\\.com|adobedtm\\.com|adotmob\\.com|adroll\\.com|ads-twitter\\.com|adsafeprotected\\.com|adsrvr\\.org|adstanding\\.com|adsymptotic\\.com|adthrive\\.com|advangelists\\.com|advertising\\.com|affec\\.tv|agkn\\.com|alexametrics\\.com|amazon-adsystem\\.com|appier\\.net|apxlv\\.com|atdmt\\.com|aticdn\\.net|audrte\\.com|aufp\\.io|avct\\.cloud|avis-verifies\\.com|avocet\\.io|axept\\.io|bannernow\\.com|betweendigital\\.com|bfmio\\.com|bidr\\.io|bidswitch\\.net|bidtheatre\\.com|bing\\.com|bkrtx\\.com|blismedia\\.com|bluekai\\.com|bnmla\\.com|bounceexchange\\.com|brand-display\\.com|brealtime\\.com|btloader\\.com|bttrack\\.com|casalemedia\\.com|cdntrf\\.com|cdnwidget\\.com|chartbeat\\.com|chartbeat\\.net|chocolateplatform\\.com|civiccomputing\\.com|clarity\\.ms|cleverpush\\.com|clickagy\\.com|clientgear\\.com|cloudflareinsights\\.com|cognitivlabs\\.com|cogocast\\.net|company-target\\.com|consensu\\.org|consentframework\\.com|consentmanager\\.net|contentabc\\.com|contextweb\\.com|cookiebot\\.com|cookieinformation\\.com|cookielaw\\.org|cpmstar\\.com|cpx\\.to|creative-serving\\.com|creativecdn\\.com|criteo\\.com|criteo\\.net|crwdcntrl\\.net|ctnsnet\\.com|cxense\\.com|de17a\\.com|deepintent\\.com|demdex\\.net|disqus\\.com|districtm\\.io|dmcdn\\.net|dotmetrics\\.net|dotomi\\.com|doubleclick\\.net|doubleverify\\.com|dtscdn\\.com|dtscout\\.com|durationmedia\\.net|dwin1\\.com|dyntrk\\.com|edgekey\\.net|emxdgt\\.com|episerver\\.net|eqads\\.com|erne\\.co|etracker\\.com|etracker\\.de|everesttech\\.net|exactag\\.com|exelator\\.com|exoclick\\.com|exosrv\\.com|extend\\.tv|eyeota\\.net|ezodn\\.com|ezoic\\.net|facebook\\.com|facebook\\.net|fastly-insights\\.com|fg8dgt\\.com|fiftyt\\.com|fwmrm\\.net|gemius\\.pl|getrockerbox\\.com|go-mpulse\\.net|google-analytics\\.com|google\\.ca|google\\.co\\.uk|google\\.com\\.au|google\\.de|google\\.fr|google\\.nl|google\\.no|googleadservices\\.com|googleoptimize\\.com|googlesyndication\\.com|googletagmanager\\.com|googletagservices\\.com|gumgum\\.com|histats\\.com|hotjar\\.com|hs-analytics\\.net|hs-banner\\.com|hubspot\\.com|ib-ibi\\.com|id5-sync\\.com|igodigital\\.com|im-apps\\.net|impact-ad\\.jp|impactradius-event\\.com|imrworldwide\\.com|indexww\\.com|innovid\\.com|intentiq\\.com|ioam\\.de|iocnt\\.net|ipredictive\\.com|ispot\\.tv|juicyads\\.com|justpremium\\.com|kargo\\.com|klaviyo\\.com|krxd\\.net|ladsp\\.com|liadm\\.com|lijit\\.com|linkedin\\.com|linksynergy\\.com|livechatinc\\.com|loopme\\.me|lp4\\.io|marketo\\.net|mathtag\\.com|media\\.net|mediarithmics\\.com|mediavine\\.com|medietall\\.no|mfadsrvr\\.com|mktoresp\\.com|ml314\\.com|moatads\\.com|mobileadtrading\\.com|monsido\\.com|mookie1\\.com|mxptint\\.net|narrative\\.io|newrelic\\.com|nr-data\\.net|nrich\\.ai|ntv\\.io|omappapi\\.com|omnitagjs\\.com|omtrdc\\.net|onaudience\\.com|onesignal\\.com|onetag-sys\\.com|onetrust\\.com|opecloud\\.com|openx\\.net|opera\\.com|outbrain\\.com|owneriq\\.net|parsely\\.com|pbstck\\.com|permutive\\.app|permutive\\.com|pingdom\\.net|pippio\\.com|playground\\.xyz|postrelease\\.com|privacy-center\\.org|privacy-mgmt\\.com|privacymanager\\.io|prmutv\\.co|pro-market\\.net|pswec\\.com|pubmatic\\.com|qualtrics\\.com|quantserve\\.com|quora\\.com|r-ad\\.ne\\.jp|realsrv\\.com|realvu\\.net|reddit\\.com|redditstatic\\.com|resetdigital\\.co|rezync\\.com|rfihub\\.com|richaudience\\.com|rkdms\\.com|rlcdn\\.com|rubiconproject\\.com|rundsp\\.com|s-onetag\\.com|s3xified\\.com|sail-horizon\\.com|sc-static\\.net|scorecardresearch\\.com|securedvisit\\.com|segment\\.com|segment\\.io|semasio\\.net|servenobid\\.com|serverbid\\.com|sharedid\\.org|sharethis\\.com|sharethrough\\.com|shop\\.app|simpli\\.fi|siteimproveanalytics\\.com|siteimproveanalytics\\.io|sitescout\\.com|smaato\\.net|smadex\\.com|smartadserver\\.com|snapchat\\.com|socdm\\.com|sonobi\\.com|sp-prod\\.net|sportradarserving\\.com|spotxchange\\.com|stackadapt\\.com|stickyadstv\\.com|survata\\.com|taboola\\.com|tagcommander\\.com|tapad\\.com|teads\\.tv|technoratimedia\\.com|thrtle\\.com|tidaltv\\.com|tiktok\\.com|tiqcdn\\.com|tremorhub\\.com|tribalfusion\\.com|trueleadid\\.com|trustarc\\.com|trustcommander\\.net|trustedshops\\.com|trustpilot\\.com|trustx\\.org|tsyndicate\\.com|turn\\.com|twitter\\.com|tynt\\.com|undertone\\.com|unrulymedia\\.com|usercentrics\\.eu|userreport\\.com|videoplayerhub\\.com|viglink\\.com|visualwebsiteoptimizer\\.com|w55c\\.net|walmart\\.com|weborama\\.fr|xiti\\.com|xxxjmp\\.com|yadro\\.ru|yahoo\\.com|yandex\\.com|yieldlab\\.net|yieldlove\\.com|yieldmo\\.com|zemanta\\.com|zeotap\\.com|zopim\\.com",
+  "domainRegex": "1rx\\.io|2mdn\\.net|2o7\\.net|33across\\.com|360yield\\.com|3lift\\.com|4dex\\.io|a-mo\\.net|a2z\\.com|aaxads\\.com|abtasty\\.com|acsbapp\\.com|acuityplatform\\.com|ad-m\\.asia|ad\\.gt|ad4m\\.at|adblade\\.com|addthis\\.com|addtoany\\.com|adentifi\\.com|adform\\.net|adgrx\\.com|adhese\\.com|adhigh\\.net|adingo\\.jp|adition\\.com|adkernel\\.com|adlightning\\.com|admanmedia\\.com|admedo\\.com|admixer\\.net|adnami\\.io|adnxs\\.com|adnz\\.co|adobedtm\\.com|adotmob\\.com|adriver\\.ru|adroll\\.com|ads-twitter\\.com|adsafeprotected\\.com|adscale\\.de|adsco\\.re|adsrvr\\.org|adstanding\\.com|adswizz\\.com|adsymptotic\\.com|adtarget\\.com\\.tr|adtdp\\.com|adthrive\\.com|adtng\\.com|advangelists\\.com|advertising\\.com|affec\\.tv|afterpay\\.com|agkn\\.com|ahacdn\\.me|aidata\\.io|alexametrics\\.com|amazon-adsystem\\.com|amplitude\\.com|amung\\.us|aniview\\.com|app-us1\\.com|app\\.link|appconsent\\.io|appdynamics\\.com|appier\\.net|apxlv\\.com|aralego\\.com|associates-amazon\\.com|aswpsdkus\\.com|at-o\\.net|atdmt\\.com|aticdn\\.net|attn\\.tv|audrte\\.com|aufp\\.io|avct\\.cloud|avis-verifies\\.com|avocet\\.io|axept\\.io|ayads\\.co|bannerflow\\.net|bannernow\\.com|batch\\.com|bazaarvoice\\.com|bcprm\\.com|betweendigital\\.com|bfmio\\.com|bidr\\.io|bidswitch\\.net|bidtheatre\\.com|bigcommerce\\.com|bimbolive\\.com|bing\\.com|bkrtx\\.com|blismedia\\.com|blueconic\\.net|bluekai\\.com|bngpt\\.com|bnmla\\.com|bounceexchange\\.com|branch\\.io|brand-display\\.com|brandmetrics\\.com|brealtime\\.com|britepool\\.com|btloader\\.com|bttrack\\.com|captcha-delivery\\.com|casalemedia\\.com|ccgateway\\.net|cdntrf\\.com|cdnwidget\\.com|chartbeat\\.com|chartbeat\\.net|chaturbate\\.com|chocolateplatform\\.com|cintnetworks\\.com|civiccomputing\\.com|clarity\\.ms|cleverpush\\.com|clickagy\\.com|clickcertain\\.com|clientgear\\.com|cloudflare\\.net|cloudflareinsights\\.com|cognitivlabs\\.com|cogocast\\.net|colossusssp\\.com|commander1\\.com|company-target\\.com|connatix\\.com|connectad\\.io|connects\\.ch|connexity\\.net|consensu\\.org|consentframework\\.com|consentmanager\\.net|contentabc\\.com|contentsquare\\.net|contextweb\\.com|cookiebot\\.com|cookiefirst\\.com|cookieinformation\\.com|cookielaw\\.org|cookiepro\\.com|cpmstar\\.com|cpx\\.to|cquotient\\.com|creative-serving\\.com|creativecdn\\.com|criteo\\.com|criteo\\.net|crm4d\\.com|crwdcntrl\\.net|ctnsnet\\.com|cxense\\.com|datadome\\.co|de17a\\.com|deepintent\\.com|demandbase\\.com|demdex\\.net|deployads\\.com|disqus\\.com|districtm\\.io|dmcdn\\.net|doofinder\\.com|dotmetrics\\.net|dotomi\\.com|doubleclick\\.net|doubleverify\\.com|dtscdn\\.com|dtscout\\.com|durationmedia\\.net|dwin1\\.com|dyntrk\\.com|e-planning\\.net|easydmp\\.net|econda-monitor\\.de|edgekey\\.net|eloqua\\.com|emxdgt\\.com|en25\\.com|ensighten\\.com|episerver\\.net|eqads\\.com|erne\\.co|etracker\\.com|etracker\\.de|everestjs\\.net|everesttech\\.net|evidon\\.com|exactag\\.com|exelator\\.com|exoclick\\.com|exosrv\\.com|extend\\.tv|eyeota\\.net|eyereturn\\.com|ezodn\\.com|ezoic\\.net|facebook\\.com|facebook\\.net|fastly-insights\\.com|feedbackcompany\\.com|feefo\\.com|fg8dgt\\.com|fiftyt\\.com|fksnk\\.com|flashtalking\\.com|foresee\\.com|freeskreen\\.com|fullstory\\.com|fuseplatform\\.net|fwmrm\\.net|gammaplatform\\.com|geistm\\.com|gemius\\.pl|getrockerbox\\.com|gjigle\\.com|go-mpulse\\.net|google-analytics\\.com|google\\.ca|google\\.co\\.uk|google\\.com\\.au|google\\.de|google\\.fr|google\\.nl|google\\.no|googleadservices\\.com|googleoptimize\\.com|googlesyndication\\.com|googletagmanager\\.com|googletagservices\\.com|gumgum\\.com|hcaptcha\\.com|hgrtb\\.com|histats\\.com|hotjar\\.com|hs-analytics\\.net|hs-banner\\.com|hsadspixel\\.net|hscollectedforms\\.net|hsleadflows\\.net|hubapi\\.com|hubspot\\.com|hubvisor\\.io|iadvize\\.com|ib-ibi\\.com|id5-sync\\.com|igodigital\\.com|im-apps\\.net|impact-ad\\.jp|impactradius-event\\.com|imrworldwide\\.com|indexww\\.com|infolinks\\.com|innovid\\.com|instagram\\.com|intentiq\\.com|investingchannel\\.com|ioam\\.de|iocnt\\.net|ipredictive\\.com|ispot\\.tv|iubenda\\.com|jads\\.co|js7k\\.com|juicyads\\.com|justpremium\\.com|kameleoon\\.eu|kampyle\\.com|kargo\\.com|klarnaservices\\.com|klaviyo\\.com|krxd\\.net|lacmp\\.net|ladsp\\.com|leadplace\\.fr|lendingtree\\.com|liadm\\.com|lijit\\.com|linkedin\\.com|linksynergy\\.com|list-manage\\.com|livechatinc\\.com|liveperson\\.net|lkqd\\.net|loopme\\.me|lp4\\.io|lpsnmedia\\.net|mail\\.ru|mailchimp\\.com|marketo\\.net|massariuscdn\\.com|mathtag\\.com|media\\.net|media6degrees\\.com|mediarithmics\\.com|mediavine\\.com|medietall\\.no|meetrics\\.net|mfadsrvr\\.com|mgid\\.com|micpn\\.com|mktoresp\\.com|ml314\\.com|moatads\\.com|mobileadtrading\\.com|monetate\\.net|monsido\\.com|mookie1\\.com|mopinion\\.com|mparticle\\.com|msgose\\.com|mxptint\\.net|myfonts\\.net|myvisualiq\\.net|narrative\\.io|nativendo\\.de|netmng\\.com|neto\\.com\\.au|netostatic\\.com|newrelic\\.com|ninthdecimal\\.com|nosto\\.com|notifpush\\.com|npo\\.nl|nr-data\\.net|nrich\\.ai|ntv\\.io|nytrng\\.com|omappapi\\.com|omnitagjs\\.com|omtrdc\\.net|onaudience\\.com|onesignal\\.com|onetag-sys\\.com|onetrust\\.com|opecloud\\.com|opencmp\\.net|openx\\.net|opera\\.com|outbrain\\.com|owneriq\\.net|pardot\\.com|parsely\\.com|pbstck\\.com|pdst\\.fm|perfectmarket\\.com|permutive\\.app|permutive\\.com|piano\\.io|pingdom\\.net|pippio\\.com|playground\\.xyz|postrelease\\.com|primis\\.tech|privacy-center\\.org|privacy-mgmt\\.com|privacymanager\\.io|prmutv\\.co|pro-market\\.net|promo-bc\\.com|pswec\\.com|pub\\.network|pubmatic\\.com|qualtrics\\.com|quantserve\\.com|quantummetric\\.com|quora\\.com|r-ad\\.ne\\.jp|rakuten\\.com|rambler\\.ru|ravenjs\\.com|readspeaker\\.com|realsrv\\.com|realvu\\.net|reddit\\.com|redditstatic\\.com|resetdigital\\.co|reson8\\.com|revcontent\\.com|revjet\\.com|rezync\\.com|rfihub\\.com|richaudience\\.com|rkdms\\.com|rlcdn\\.com|rncdn7\\.com|roymorgan\\.com|rqtrk\\.eu|rubiconproject\\.com|rundsp\\.com|s-onetag\\.com|s3xified\\.com|sail-horizon\\.com|salesforceliveagent\\.com|samba\\.tv|samplicio\\.us|sc-static\\.net|scarabresearch\\.com|schibsted\\.com|schibsted\\.io|scorecardresearch\\.com|sddan\\.com|securedvisit\\.com|segment\\.com|segment\\.io|semasio\\.net|sendinblue\\.com|servenobid\\.com|serverbid\\.com|sfr\\.fr|sharedid\\.org|sharethis\\.com|sharethrough\\.com|shop\\.app|sibautomation\\.com|simpli\\.fi|sirdata\\.io|siteimproveanalytics\\.com|siteimproveanalytics\\.io|sitescout\\.com|sleeknote\\.com|smaato\\.net|smadex\\.com|smartadserver\\.com|smilewanted\\.com|snapchat\\.com|socdm\\.com|sonobi\\.com|sp-prod\\.net|speedcurve\\.com|sportradarserving\\.com|spotxchange\\.com|springserve\\.com|stackadapt\\.com|statcounter\\.com|static-od\\.com|stickyadstv\\.com|storygize\\.net|stroeerdigitalgroup\\.de|strpst\\.com|studiostack\\.com|sundaysky\\.com|survata\\.com|taboola\\.com|tagcommander\\.com|tapad\\.com|taptapnetworks\\.com|teads\\.tv|tealiumiq\\.com|technoratimedia\\.com|themoneytizer\\.com|thrtle\\.com|tidaltv\\.com|tiktok\\.com|tiqcdn\\.com|trackcmp\\.net|trackedlink\\.net|trackedweb\\.net|trackonomics\\.net|tradetracker\\.net|treasuredata\\.com|tremorhub\\.com|trengo\\.eu|tribalfusion\\.com|tru\\.am|trueleadid\\.com|truoptik\\.com|trustarc\\.com|trustcommander\\.net|truste-svc\\.net|truste\\.com|trustedshops\\.com|trustpilot\\.com|trustx\\.org|tsyndicate\\.com|tubemogul\\.com|turn\\.com|tvsquared\\.com|twitter\\.com|tynt\\.com|undertone\\.com|unrulymedia\\.com|usabilla\\.com|usercentrics\\.eu|userreport\\.com|vgwort\\.de|viafoura\\.co|viafoura\\.net|videohub\\.tv|videoplayerhub\\.com|viglink\\.com|visualwebsiteoptimizer\\.com|vk\\.com|volvelle\\.tech|w55c\\.net|walmart\\.com|webclicks24\\.com|webcontentassessor\\.com|weborama\\.fr|webshopapp\\.com|webvisor\\.org|wpadmngr\\.com|wpushsdk\\.com|wt-eu02\\.net|wysistat\\.com|xg4ken\\.com|xiti\\.com|xxxjmp\\.com|yadro\\.ru|yahoo\\.co\\.jp|yahoo\\.com|yandex\\.com|yieldlab\\.net|yieldlove-ad-serving\\.net|yieldlove\\.com|yieldmo\\.com|yieldscale\\.com|yimg\\.jp|yotpo\\.com|zemanta\\.com|zeotap\\.com|zopim\\.com|zprk\\.io",
   "domains": {
     "1rx.io": {
       "hardblock": true,
       "owner": "RhythmOne",
-      "rules": "1rx\\.io"
+      "rules": [
+        "1rx\\.io"
+      ]
     },
     "2mdn.net": {
       "hardblock": true,
       "owner": "Google",
-      "rules": "2mdn\\.net"
+      "rules": [
+        "2mdn\\.net"
+      ]
     },
     "2o7.net": {
       "hardblock": true,
       "owner": "Adobe",
-      "rules": "2o7\\.net"
+      "rules": [
+        "2o7\\.net"
+      ]
     },
     "33across.com": {
       "hardblock": true,
       "owner": "33Across",
-      "rules": "33across\\.com"
+      "rules": [
+        "33across\\.com"
+      ]
     },
     "360yield.com": {
       "hardblock": true,
       "owner": "Improve Digital",
-      "rules": "360yield\\.com"
+      "rules": [
+        "360yield\\.com"
+      ]
     },
     "3lift.com": {
       "hardblock": true,
       "owner": "TripleLift",
-      "rules": "3lift\\.com"
+      "rules": [
+        "3lift\\.com"
+      ]
     },
     "4dex.io": {
       "hardblock": false,
       "owner": "Adagio",
-      "rules": "4dex\\.io\\/data|4dex\\.io\\/sync|4dex\\.io\\/setuid|4dex\\.io\\/prebid|4dex\\.io\\/localstore\\.js"
+      "rules": [
+        "4dex\\.io\\/prebid",
+        "4dex\\.io\\/sync",
+        "4dex\\.io\\/data",
+        "4dex\\.io\\/localstore\\.js",
+        "4dex\\.io\\/setuid"
+      ]
     },
     "a-mo.net": {
       "hardblock": true,
       "owner": "",
-      "rules": "a-mo\\.net"
+      "rules": [
+        "a-mo\\.net"
+      ]
     },
     "a2z.com": {
       "hardblock": false,
       "owner": "Amazon.com",
-      "rules": "a2z\\.com\\/resource\\/00000179-3cdd-d40f-a779-bedf7f820000\\/styleguide\\/All\\.min\\.9c51cd9361da4ce21bc94fc5283f2498\\.gz\\.js"
+      "rules": [
+        "a2z\\.com"
+      ]
+    },
+    "aaxads.com": {
+      "hardblock": false,
+      "owner": "Acceptable Ads Exchange",
+      "rules": [
+        "aaxads\\.com\\/aax\\.js"
+      ]
     },
     "abtasty.com": {
       "hardblock": true,
       "owner": "Liwio",
-      "rules": "abtasty\\.com"
+      "rules": [
+        "abtasty\\.com"
+      ]
+    },
+    "acsbapp.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "acsbapp\\.com"
+      ]
     },
     "acuityplatform.com": {
       "hardblock": true,
       "owner": "AcuityAds",
-      "rules": "acuityplatform\\.com"
+      "rules": [
+        "acuityplatform\\.com"
+      ]
     },
     "ad-m.asia": {
       "hardblock": true,
       "owner": "FreeBit",
-      "rules": "ad-m\\.asia"
+      "rules": [
+        "ad-m\\.asia"
+      ]
     },
     "ad.gt": {
       "hardblock": true,
       "owner": "",
-      "rules": "ad\\.gt"
+      "rules": [
+        "ad\\.gt"
+      ]
     },
     "ad4m.at": {
       "hardblock": false,
       "owner": "advanced STORE",
-      "rules": "ad4m\\.at"
+      "rules": [
+        "ad4m\\.at"
+      ]
+    },
+    "adblade.com": {
+      "hardblock": false,
+      "owner": "Congoo",
+      "rules": [
+        "adblade\\.com\\/imps\\.php",
+        "adblade\\.com\\/js\\/ads\\/async\\/show\\.js",
+        "adblade\\.com\\/js\\/ads\\/async\\/conv\\.js",
+        "adblade\\.com\\/js\\/zones\\/builder\\.js",
+        "adblade\\.com\\/impsc\\.php"
+      ]
     },
     "addthis.com": {
       "hardblock": false,
       "owner": "Oracle",
-      "rules": "addthis\\.com\\/dc\\/0\\.c2b324c3e879644bb1df\\.js|addthis\\.com\\/red\\/usync|addthis\\.com\\/t\\.gif|addthis\\.com\\/static|addthis\\.com\\/e|addthis\\.com\\/js|addthis\\.com\\/live\\/red_lojson"
+      "rules": [
+        "addthis\\.com\\/t\\.gif",
+        "addthis\\.com\\/dc\\/0\\.c2b324c3e879644bb1df\\.js",
+        "addthis\\.com\\/red\\/usync",
+        "addthis\\.com\\/static",
+        "addthis\\.com\\/e",
+        "addthis\\.com\\/js",
+        "addthis\\.com\\/live\\/red_lojson"
+      ]
     },
     "addtoany.com": {
       "hardblock": false,
       "owner": "AddToAny",
-      "rules": "addtoany\\.com\\/menu\\/page\\.js"
+      "rules": [
+        "addtoany\\.com\\/menu\\/page\\.js"
+      ]
     },
     "adentifi.com": {
       "hardblock": true,
       "owner": "AdTheorent",
-      "rules": "adentifi\\.com"
+      "rules": [
+        "adentifi\\.com"
+      ]
     },
     "adform.net": {
       "hardblock": true,
       "owner": "Adform",
-      "rules": "adform\\.net"
+      "rules": [
+        "adform\\.net"
+      ]
     },
     "adgrx.com": {
       "hardblock": true,
       "owner": "AdGear",
-      "rules": "adgrx\\.com"
+      "rules": [
+        "adgrx\\.com"
+      ]
+    },
+    "adhese.com": {
+      "hardblock": false,
+      "owner": "Doggybites bvba",
+      "rules": [
+        "adhese\\.com\\/tag\\/config_v2\\.js",
+        "adhese\\.com\\/tag\\/prebid\\.js",
+        "adhese\\.com\\/tag\\/config\\.js"
+      ]
+    },
+    "adhigh.net": {
+      "hardblock": true,
+      "owner": "GetIntent",
+      "rules": [
+        "adhigh\\.net"
+      ]
     },
     "adingo.jp": {
       "hardblock": false,
       "owner": "fluct",
-      "rules": "adingo\\.jp"
+      "rules": [
+        "adingo\\.jp"
+      ]
     },
     "adition.com": {
       "hardblock": true,
       "owner": "Virtual Minds",
-      "rules": "adition\\.com"
+      "rules": [
+        "adition\\.com"
+      ]
     },
     "adkernel.com": {
       "hardblock": true,
       "owner": "Adkernel",
-      "rules": "adkernel\\.com"
+      "rules": [
+        "adkernel\\.com"
+      ]
     },
     "adlightning.com": {
       "hardblock": true,
       "owner": "Ad Lightning",
-      "rules": "adlightning\\.com"
+      "rules": [
+        "adlightning\\.com"
+      ]
     },
     "admanmedia.com": {
       "hardblock": false,
       "owner": "ADman Media",
-      "rules": "admanmedia\\.com"
+      "rules": [
+        "admanmedia\\.com"
+      ]
     },
     "admedo.com": {
       "hardblock": true,
       "owner": "Admedo",
-      "rules": "admedo\\.com"
+      "rules": [
+        "admedo\\.com"
+      ]
     },
     "admixer.net": {
       "hardblock": true,
       "owner": "Admixer",
-      "rules": "admixer\\.net"
+      "rules": [
+        "admixer\\.net"
+      ]
     },
     "adnami.io": {
       "hardblock": false,
       "owner": "Adnami",
-      "rules": "adnami\\.io\\/macro\\/gen\\/adsm\\.macro\\.rmb\\.js|adnami\\.io\\/macro\\/spec\\/adsm\\.macro"
+      "rules": [
+        "adnami\\.io\\/macro\\/gen\\/adsm\\.macro\\.rmb\\.js",
+        "adnami\\.io\\/macro\\/spec\\/adsm\\.macro"
+      ]
     },
     "adnxs.com": {
       "hardblock": true,
       "owner": "WarnerMedia",
-      "rules": "adnxs\\.com"
+      "rules": [
+        "adnxs\\.com"
+      ]
+    },
+    "adnz.co": {
+      "hardblock": false,
+      "owner": "NZZ Management",
+      "rules": [
+        "adnz\\.co\\/api\\/ws-convey2\\/visitor-id",
+        "adnz\\.co\\/cis\\/script_rtb\\.js",
+        "adnz\\.co\\/xdomain_cookie\\.html",
+        "adnz\\.co\\/xdomain_cookie\\.js",
+        "adnz\\.co\\/dmp\\/publisher\\.js",
+        "adnz\\.co\\/header\\.js",
+        "adnz\\.co\\/ad-tag\\.js"
+      ]
     },
     "adobedtm.com": {
       "hardblock": true,
       "owner": "Adobe",
-      "rules": "adobedtm\\.com"
+      "rules": [
+        "adobedtm\\.com"
+      ]
     },
     "adotmob.com": {
       "hardblock": true,
       "owner": "A.Mob",
-      "rules": "adotmob\\.com"
+      "rules": [
+        "adotmob\\.com"
+      ]
+    },
+    "adriver.ru": {
+      "hardblock": true,
+      "owner": "Internest-holding",
+      "rules": [
+        "adriver\\.ru"
+      ]
     },
     "adroll.com": {
       "hardblock": true,
       "owner": "AdRoll",
-      "rules": "adroll\\.com"
+      "rules": [
+        "adroll\\.com"
+      ]
     },
     "ads-twitter.com": {
       "hardblock": true,
       "owner": "Twitter",
-      "rules": "ads-twitter\\.com"
+      "rules": [
+        "ads-twitter\\.com"
+      ]
     },
     "adsafeprotected.com": {
       "hardblock": true,
       "owner": "Integral Ad Science",
-      "rules": "adsafeprotected\\.com"
+      "rules": [
+        "adsafeprotected\\.com"
+      ]
+    },
+    "adscale.de": {
+      "hardblock": true,
+      "owner": "Str\u00f6er Group",
+      "rules": [
+        "adscale\\.de"
+      ]
+    },
+    "adsco.re": {
+      "hardblock": true,
+      "owner": "Adscore",
+      "rules": [
+        "adsco\\.re"
+      ]
     },
     "adsrvr.org": {
       "hardblock": true,
       "owner": "The Trade Desk",
-      "rules": "adsrvr\\.org"
+      "rules": [
+        "adsrvr\\.org"
+      ]
     },
     "adstanding.com": {
       "hardblock": true,
       "owner": "AdStanding",
-      "rules": "adstanding\\.com"
+      "rules": [
+        "adstanding\\.com"
+      ]
+    },
+    "adswizz.com": {
+      "hardblock": true,
+      "owner": "Sirius XM",
+      "rules": [
+        "adswizz\\.com"
+      ]
     },
     "adsymptotic.com": {
       "hardblock": true,
       "owner": "Microsoft",
-      "rules": "adsymptotic\\.com"
+      "rules": [
+        "adsymptotic\\.com"
+      ]
+    },
+    "adtarget.com.tr": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "adtarget\\.com\\.tr"
+      ]
+    },
+    "adtdp.com": {
+      "hardblock": true,
+      "owner": "CyberAgent",
+      "rules": [
+        "adtdp\\.com"
+      ]
     },
     "adthrive.com": {
       "hardblock": true,
       "owner": "AdThrive",
-      "rules": "adthrive\\.com"
+      "rules": [
+        "adthrive\\.com"
+      ]
+    },
+    "adtng.com": {
+      "hardblock": false,
+      "owner": "MindGeek",
+      "rules": [
+        "adtng\\.com\\/get"
+      ]
     },
     "advangelists.com": {
       "hardblock": false,
       "owner": "Mobiquity",
-      "rules": "advangelists\\.com\\/v1\\/audiences\\/insights|advangelists\\.com\\/xp\\/evt|advangelists\\.com\\/xp\\/get|advangelists\\.com\\/xp\\/user-sync"
+      "rules": [
+        "advangelists\\.com\\/xp\\/get",
+        "advangelists\\.com\\/xp\\/user-sync",
+        "advangelists\\.com\\/v1\\/audiences\\/insights",
+        "advangelists\\.com\\/xp\\/evt"
+      ]
     },
     "advertising.com": {
       "hardblock": true,
       "owner": "Verizon Media",
-      "rules": "advertising\\.com"
+      "rules": [
+        "advertising\\.com"
+      ]
     },
     "affec.tv": {
       "hardblock": true,
       "owner": "Affectv",
-      "rules": "affec\\.tv"
+      "rules": [
+        "affec\\.tv"
+      ]
+    },
+    "afterpay.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "afterpay\\.com"
+      ]
     },
     "agkn.com": {
       "hardblock": true,
       "owner": "Neustar",
-      "rules": "agkn\\.com"
+      "rules": [
+        "agkn\\.com"
+      ]
+    },
+    "ahacdn.me": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "ahacdn\\.me"
+      ]
+    },
+    "aidata.io": {
+      "hardblock": true,
+      "owner": "Aidata",
+      "rules": [
+        "aidata\\.io"
+      ]
     },
     "alexametrics.com": {
       "hardblock": true,
       "owner": "Amazon.com",
-      "rules": "alexametrics\\.com"
+      "rules": [
+        "alexametrics\\.com"
+      ]
     },
     "amazon-adsystem.com": {
       "hardblock": true,
       "owner": "Amazon.com",
-      "rules": "amazon-adsystem\\.com"
+      "rules": [
+        "amazon-adsystem\\.com"
+      ]
+    },
+    "amplitude.com": {
+      "hardblock": true,
+      "owner": "Amplitude",
+      "rules": [
+        "amplitude\\.com"
+      ]
+    },
+    "amung.us": {
+      "hardblock": true,
+      "owner": "whos.amung.us",
+      "rules": [
+        "amung\\.us"
+      ]
+    },
+    "aniview.com": {
+      "hardblock": false,
+      "owner": "ANIVIEW",
+      "rules": [
+        "aniview\\.com"
+      ]
+    },
+    "app-us1.com": {
+      "hardblock": false,
+      "owner": "ActiveCampaign",
+      "rules": [
+        "app-us1\\.com\\/prism\\.js",
+        "app-us1\\.com\\/diffuser\\/diffuser\\.js",
+        "app-us1\\.com\\/",
+        "app-us1\\.com\\/wp-controller\\.js"
+      ]
+    },
+    "app.link": {
+      "hardblock": true,
+      "owner": "Branch Metrics",
+      "rules": [
+        "app\\.link"
+      ]
+    },
+    "appconsent.io": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "appconsent\\.io"
+      ]
+    },
+    "appdynamics.com": {
+      "hardblock": true,
+      "owner": "Cisco Systems",
+      "rules": [
+        "appdynamics\\.com"
+      ]
     },
     "appier.net": {
       "hardblock": true,
       "owner": "Appier",
-      "rules": "appier\\.net"
+      "rules": [
+        "appier\\.net"
+      ]
     },
     "apxlv.com": {
       "hardblock": true,
       "owner": "Cogo Labs",
-      "rules": "apxlv\\.com"
+      "rules": [
+        "apxlv\\.com"
+      ]
+    },
+    "aralego.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "aralego\\.com"
+      ]
+    },
+    "associates-amazon.com": {
+      "hardblock": false,
+      "owner": "Amazon.com",
+      "rules": [
+        "associates-amazon\\.com\\/onetag\\/v2"
+      ]
+    },
+    "aswpsdkus.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "aswpsdkus\\.com"
+      ]
+    },
+    "at-o.net": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "at-o\\.net"
+      ]
     },
     "atdmt.com": {
       "hardblock": true,
       "owner": "Facebook",
-      "rules": "atdmt\\.com"
+      "rules": [
+        "atdmt\\.com"
+      ]
     },
     "aticdn.net": {
       "hardblock": false,
       "owner": "AT Internet",
-      "rules": "aticdn\\.net"
+      "rules": [
+        "aticdn\\.net"
+      ]
+    },
+    "attn.tv": {
+      "hardblock": true,
+      "owner": "Attentive Mobile",
+      "rules": [
+        "attn\\.tv"
+      ]
     },
     "audrte.com": {
       "hardblock": true,
       "owner": "",
-      "rules": "audrte\\.com"
+      "rules": [
+        "audrte\\.com"
+      ]
     },
     "aufp.io": {
       "hardblock": true,
       "owner": "",
-      "rules": "aufp\\.io"
+      "rules": [
+        "aufp\\.io"
+      ]
     },
     "avct.cloud": {
       "hardblock": false,
       "owner": "Avocet Systems",
-      "rules": "avct\\.cloud\\/prebid|avct\\.cloud\\/s|avct\\.cloud\\/getuid"
+      "rules": [
+        "avct\\.cloud\\/getuid",
+        "avct\\.cloud\\/prebid",
+        "avct\\.cloud\\/s"
+      ]
     },
     "avis-verifies.com": {
       "hardblock": false,
       "owner": "Net Reviews",
-      "rules": "avis-verifies\\.com\\/avis-clients\\/widget\\/5\\/6\\/b\\/56b55c88-020b-7e84-9179-83cca5cdab18\\/iframe_site\\/horizontal\\/56b55c88-020b-7e84-9179-83cca5cdab18index\\.php|avis-verifies\\.com\\/fr\\/widget4|avis-verifies\\.com\\/fr\\/cache"
+      "rules": [
+        "avis-verifies\\.com\\/fr\\/widget4",
+        "avis-verifies\\.com\\/fr\\/cache",
+        "avis-verifies\\.com\\/avis-clients\\/widget"
+      ]
     },
     "avocet.io": {
       "hardblock": true,
       "owner": "Avocet Systems",
-      "rules": "avocet\\.io"
+      "rules": [
+        "avocet\\.io"
+      ]
     },
     "axept.io": {
       "hardblock": true,
       "owner": "",
-      "rules": "axept\\.io"
+      "rules": [
+        "axept\\.io"
+      ]
+    },
+    "ayads.co": {
+      "hardblock": false,
+      "owner": "Sublime Skinz Labs",
+      "rules": [
+        "ayads\\.co\\/sublime\\/23331\\/prebid",
+        "ayads\\.co\\/sublime\\/26293\\/prebid",
+        "ayads\\.co\\/sublime\\/31908\\/prebid",
+        "ayads\\.co\\/ajs\\.php"
+      ]
+    },
+    "bannerflow.net": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "bannerflow\\.net"
+      ]
     },
     "bannernow.com": {
       "hardblock": true,
       "owner": "",
-      "rules": "bannernow\\.com"
+      "rules": [
+        "bannernow\\.com"
+      ]
+    },
+    "batch.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "batch\\.com"
+      ]
+    },
+    "bazaarvoice.com": {
+      "hardblock": false,
+      "owner": "Bazaarvoice",
+      "rules": [
+        "bazaarvoice\\.com"
+      ]
+    },
+    "bcprm.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "bcprm\\.com"
+      ]
     },
     "betweendigital.com": {
       "hardblock": true,
       "owner": "SSP Network",
-      "rules": "betweendigital\\.com"
+      "rules": [
+        "betweendigital\\.com"
+      ]
     },
     "bfmio.com": {
       "hardblock": true,
       "owner": "Beachfront Media",
-      "rules": "bfmio\\.com"
+      "rules": [
+        "bfmio\\.com"
+      ]
     },
     "bidr.io": {
       "hardblock": true,
       "owner": "Beeswax",
-      "rules": "bidr\\.io"
+      "rules": [
+        "bidr\\.io"
+      ]
     },
     "bidswitch.net": {
       "hardblock": true,
       "owner": "IPONWEB",
-      "rules": "bidswitch\\.net"
+      "rules": [
+        "bidswitch\\.net"
+      ]
     },
     "bidtheatre.com": {
       "hardblock": false,
       "owner": "BidTheatre",
-      "rules": "bidtheatre\\.com\\/js\\/asx_analytics\\.min\\.js|bidtheatre\\.com\\/usersync|bidtheatre\\.com\\/tremormatch|bidtheatre\\.com\\/adformmatch|bidtheatre\\.com\\/adxcookie|bidtheatre\\.com\\/checkpoint|bidtheatre\\.com\\/pubmaticmatch"
+      "rules": [
+        "bidtheatre\\.com"
+      ]
+    },
+    "bigcommerce.com": {
+      "hardblock": false,
+      "owner": "Bigcommerce",
+      "rules": [
+        "bigcommerce\\.com"
+      ]
+    },
+    "bimbolive.com": {
+      "hardblock": false,
+      "owner": "BongaCams",
+      "rules": [
+        "bimbolive\\.com\\/js-min\\/1Mw8YB\\/hg\\.js",
+        "bimbolive\\.com\\/js-min\\/1Mw8YB\\/pg\\.js"
+      ]
     },
     "bing.com": {
       "hardblock": false,
       "owner": "Microsoft",
-      "rules": "bing\\.com\\/widget\\/metrics\\.js|bing\\.com\\/api\\/beta\\/v7\\/ads\\/native\\/search|bing\\.com\\/orgid\\/idtoken\\/conditional|bing\\.com\\/cst\\/cst\\.js|bing\\.com\\/maps\\/instrumentation|bing\\.com\\/bat\\.js|bing\\.com\\/api\\/maps\\/mapcontrol|bing\\.com\\/rewardsapp\\/reportActivity|bing\\.com\\/secure\\/Passport\\.aspx|bing\\.com\\/action\\/0|bing\\.com\\/rewardsapp\\/ncheader|bing\\.com\\/ipv6test\\/test|bing\\.com\\/search|bing\\.com\\/api\\/v1\\/mediation\\/tracking|bing\\.com\\/maps\\/sdk\\/mapcontrol|bing\\.com\\/maps\\/sdkrelease\\/mapcontrol|bing\\.com\\/images\\/sbi|bing\\.com\\/c\\.gif|bing\\.com\\/p\\/action|bing\\.com\\/rp|bing\\.com\\/vs\\/ec"
+      "rules": [
+        "bing\\.com\\/maps\\/sdkrelease\\/mapcontrol",
+        "bing\\.com\\/ipv6test\\/test",
+        "bing\\.com\\/secure\\/Passport\\.aspx",
+        "bing\\.com\\/widget\\/metrics\\.js",
+        "bing\\.com\\/maps\\/instrumentation",
+        "bing\\.com\\/search",
+        "bing\\.com\\/api\\/maps\\/mapcontrol",
+        "bing\\.com\\/cst\\/cst\\.js",
+        "bing\\.com\\/rewardsapp\\/ncheader",
+        "bing\\.com\\/action\\/0",
+        "bing\\.com\\/api\\/beta\\/v7\\/ads\\/native\\/search",
+        "bing\\.com\\/c\\.gif",
+        "bing\\.com\\/images\\/sbi",
+        "bing\\.com\\/bat\\.js",
+        "bing\\.com\\/orgid\\/idtoken\\/conditional",
+        "bing\\.com\\/api\\/v1\\/mediation\\/tracking",
+        "bing\\.com\\/maps\\/sdk\\/mapcontrol",
+        "bing\\.com\\/rewardsapp\\/reportActivity",
+        "bing\\.com\\/p\\/action",
+        "bing\\.com\\/rp",
+        "bing\\.com\\/vs\\/ec"
+      ]
     },
     "bkrtx.com": {
       "hardblock": true,
       "owner": "Oracle",
-      "rules": "bkrtx\\.com"
+      "rules": [
+        "bkrtx\\.com"
+      ]
     },
     "blismedia.com": {
       "hardblock": true,
       "owner": "Blis",
-      "rules": "blismedia\\.com"
+      "rules": [
+        "blismedia\\.com"
+      ]
+    },
+    "blueconic.net": {
+      "hardblock": true,
+      "owner": "BlueConic",
+      "rules": [
+        "blueconic\\.net"
+      ]
     },
     "bluekai.com": {
       "hardblock": true,
       "owner": "Oracle",
-      "rules": "bluekai\\.com"
+      "rules": [
+        "bluekai\\.com"
+      ]
+    },
+    "bngpt.com": {
+      "hardblock": false,
+      "owner": "BongaCams",
+      "rules": [
+        "bngpt\\.com\\/promo\\.php"
+      ]
     },
     "bnmla.com": {
       "hardblock": false,
       "owner": "engageBDR",
-      "rules": "bnmla\\.com\\/usersync|bnmla\\.com\\/view\\.js"
+      "rules": [
+        "bnmla\\.com\\/usersync",
+        "bnmla\\.com\\/view\\.js"
+      ]
     },
     "bounceexchange.com": {
       "hardblock": true,
       "owner": "Bounce Exchange",
-      "rules": "bounceexchange\\.com"
+      "rules": [
+        "bounceexchange\\.com"
+      ]
+    },
+    "branch.io": {
+      "hardblock": true,
+      "owner": "Branch Metrics",
+      "rules": [
+        "branch\\.io"
+      ]
     },
     "brand-display.com": {
       "hardblock": false,
       "owner": "Knorex",
-      "rules": "brand-display\\.com"
+      "rules": [
+        "brand-display\\.com"
+      ]
+    },
+    "brandmetrics.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "brandmetrics\\.com"
+      ]
     },
     "brealtime.com": {
       "hardblock": true,
       "owner": "EMX Digital",
-      "rules": "brealtime\\.com"
+      "rules": [
+        "brealtime\\.com"
+      ]
+    },
+    "britepool.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "britepool\\.com"
+      ]
     },
     "btloader.com": {
       "hardblock": false,
       "owner": "Blockthrough",
-      "rules": "btloader\\.com\\/tag"
+      "rules": [
+        "btloader\\.com\\/tag"
+      ]
     },
     "bttrack.com": {
       "hardblock": false,
       "owner": "Bidtellect",
-      "rules": "bttrack\\.com"
+      "rules": [
+        "bttrack\\.com"
+      ]
+    },
+    "captcha-delivery.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "captcha-delivery\\.com"
+      ]
     },
     "casalemedia.com": {
       "hardblock": true,
       "owner": "Index Exchange",
-      "rules": "casalemedia\\.com"
+      "rules": [
+        "casalemedia\\.com"
+      ]
+    },
+    "ccgateway.net": {
+      "hardblock": false,
+      "owner": "Clicksco FZ",
+      "rules": [
+        "ccgateway\\.net\\/script"
+      ]
     },
     "cdntrf.com": {
       "hardblock": true,
       "owner": "",
-      "rules": "cdntrf\\.com"
+      "rules": [
+        "cdntrf\\.com"
+      ]
     },
     "cdnwidget.com": {
       "hardblock": true,
       "owner": "CDNWIDGET.COM",
-      "rules": "cdnwidget\\.com"
+      "rules": [
+        "cdnwidget\\.com"
+      ]
     },
     "chartbeat.com": {
       "hardblock": true,
       "owner": "Chartbeat",
-      "rules": "chartbeat\\.com"
+      "rules": [
+        "chartbeat\\.com"
+      ]
     },
     "chartbeat.net": {
       "hardblock": true,
       "owner": "Chartbeat",
-      "rules": "chartbeat\\.net"
+      "rules": [
+        "chartbeat\\.net"
+      ]
+    },
+    "chaturbate.com": {
+      "hardblock": false,
+      "owner": "Chaturbate",
+      "rules": [
+        "chaturbate\\.com"
+      ]
     },
     "chocolateplatform.com": {
       "hardblock": true,
       "owner": "",
-      "rules": "chocolateplatform\\.com"
+      "rules": [
+        "chocolateplatform\\.com"
+      ]
+    },
+    "cintnetworks.com": {
+      "hardblock": false,
+      "owner": "Cint",
+      "rules": [
+        "cintnetworks\\.com\\/identity"
+      ]
     },
     "civiccomputing.com": {
       "hardblock": false,
       "owner": "Civic Computing",
-      "rules": "civiccomputing\\.com\\/8|civiccomputing\\.com\\/9"
+      "rules": [
+        "civiccomputing\\.com\\/8",
+        "civiccomputing\\.com\\/9"
+      ]
     },
     "clarity.ms": {
       "hardblock": true,
       "owner": "",
-      "rules": "clarity\\.ms"
+      "rules": [
+        "clarity\\.ms"
+      ]
     },
     "cleverpush.com": {
       "hardblock": true,
       "owner": "",
-      "rules": "cleverpush\\.com"
+      "rules": [
+        "cleverpush\\.com"
+      ]
     },
     "clickagy.com": {
       "hardblock": true,
       "owner": "Clickagy",
-      "rules": "clickagy\\.com"
+      "rules": [
+        "clickagy\\.com"
+      ]
+    },
+    "clickcertain.com": {
+      "hardblock": true,
+      "owner": "ClickCertain",
+      "rules": [
+        "clickcertain\\.com"
+      ]
     },
     "clientgear.com": {
       "hardblock": true,
       "owner": "",
-      "rules": "clientgear\\.com"
+      "rules": [
+        "clientgear\\.com"
+      ]
+    },
+    "cloudflare.net": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "cloudflare\\.net"
+      ]
     },
     "cloudflareinsights.com": {
       "hardblock": false,
       "owner": "Cloudflare",
-      "rules": "cloudflareinsights\\.com\\/beacon\\.min\\.js"
+      "rules": [
+        "cloudflareinsights\\.com\\/beacon\\.min\\.js"
+      ]
     },
     "cognitivlabs.com": {
       "hardblock": false,
       "owner": "Cognitiv",
-      "rules": "cognitivlabs\\.com\\/pixel\\.gif|cognitivlabs\\.com\\/ix\\.gif|cognitivlabs\\.com\\/pixel|cognitivlabs\\.com\\/container\\/conv\\/v2|cognitivlabs\\.com\\/adx\\.gif|cognitivlabs\\.com\\/pixel\\/conv\\/v2|cognitivlabs\\.com\\/bidSwitch\\.gif"
+      "rules": [
+        "cognitivlabs\\.com\\/ix\\.gif",
+        "cognitivlabs\\.com\\/pixel\\.gif",
+        "cognitivlabs\\.com\\/adx\\.gif",
+        "cognitivlabs\\.com\\/pixel",
+        "cognitivlabs\\.com\\/pixel\\/conv\\/v2",
+        "cognitivlabs\\.com\\/container\\/conv\\/v2",
+        "cognitivlabs\\.com\\/bidSwitch\\.gif"
+      ]
     },
     "cogocast.net": {
       "hardblock": true,
       "owner": "Cogo Labs",
-      "rules": "cogocast\\.net"
+      "rules": [
+        "cogocast\\.net"
+      ]
+    },
+    "colossusssp.com": {
+      "hardblock": true,
+      "owner": "Colossus Media",
+      "rules": [
+        "colossusssp\\.com"
+      ]
+    },
+    "commander1.com": {
+      "hardblock": true,
+      "owner": "Fjord",
+      "rules": [
+        "commander1\\.com"
+      ]
     },
     "company-target.com": {
       "hardblock": true,
       "owner": "Demandbase",
-      "rules": "company-target\\.com"
+      "rules": [
+        "company-target\\.com"
+      ]
+    },
+    "connatix.com": {
+      "hardblock": false,
+      "owner": "Connatix",
+      "rules": [
+        "connatix\\.com\\/core\\/story",
+        "connatix\\.com\\/connatix\\.playspace\\.js",
+        "connatix\\.com\\/core\\/pls",
+        "connatix\\.com\\/p\\/plugins\\/prebid4\\.43\\.0-1\\.js",
+        "connatix\\.com\\/p\\/1977\\/min\\/connatix\\.renderer\\.infeed\\.min\\.js",
+        "connatix\\.com\\/connatix\\.player\\.js"
+      ]
+    },
+    "connectad.io": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "connectad\\.io"
+      ]
+    },
+    "connects.ch": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "connects\\.ch"
+      ]
+    },
+    "connexity.net": {
+      "hardblock": true,
+      "owner": "Connexity",
+      "rules": [
+        "connexity\\.net"
+      ]
     },
     "consensu.org": {
       "hardblock": false,
       "owner": "IAB Europe",
-      "rules": "consensu\\.org"
+      "rules": [
+        "consensu\\.org"
+      ]
     },
     "consentframework.com": {
       "hardblock": true,
       "owner": "",
-      "rules": "consentframework\\.com"
+      "rules": [
+        "consentframework\\.com"
+      ]
     },
     "consentmanager.net": {
       "hardblock": true,
       "owner": "",
-      "rules": "consentmanager\\.net"
+      "rules": [
+        "consentmanager\\.net"
+      ]
     },
     "contentabc.com": {
       "hardblock": true,
       "owner": "MindGeek",
-      "rules": "contentabc\\.com"
+      "rules": [
+        "contentabc\\.com"
+      ]
+    },
+    "contentsquare.net": {
+      "hardblock": true,
+      "owner": "ContentSquare",
+      "rules": [
+        "contentsquare\\.net"
+      ]
     },
     "contextweb.com": {
       "hardblock": true,
       "owner": "Pulsepoint",
-      "rules": "contextweb\\.com"
+      "rules": [
+        "contextweb\\.com"
+      ]
     },
     "cookiebot.com": {
       "hardblock": false,
       "owner": "Cybot",
-      "rules": "cookiebot\\.com"
+      "rules": [
+        "cookiebot\\.com"
+      ]
+    },
+    "cookiefirst.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "cookiefirst\\.com"
+      ]
     },
     "cookieinformation.com": {
       "hardblock": true,
       "owner": "",
-      "rules": "cookieinformation\\.com"
+      "rules": [
+        "cookieinformation\\.com"
+      ]
     },
     "cookielaw.org": {
       "hardblock": false,
       "owner": "OneTrust",
-      "rules": "cookielaw\\.org"
+      "rules": [
+        "cookielaw\\.org"
+      ]
+    },
+    "cookiepro.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "cookiepro\\.com"
+      ]
     },
     "cpmstar.com": {
       "hardblock": true,
       "owner": "",
-      "rules": "cpmstar\\.com"
+      "rules": [
+        "cpmstar\\.com"
+      ]
     },
     "cpx.to": {
       "hardblock": true,
       "owner": "Captify",
-      "rules": "cpx\\.to"
+      "rules": [
+        "cpx\\.to"
+      ]
+    },
+    "cquotient.com": {
+      "hardblock": true,
+      "owner": "Salesforce.com",
+      "rules": [
+        "cquotient\\.com"
+      ]
     },
     "creative-serving.com": {
       "hardblock": true,
       "owner": "Platform161",
-      "rules": "creative-serving\\.com"
+      "rules": [
+        "creative-serving\\.com"
+      ]
     },
     "creativecdn.com": {
       "hardblock": true,
       "owner": "RTB House",
-      "rules": "creativecdn\\.com"
+      "rules": [
+        "creativecdn\\.com"
+      ]
     },
     "criteo.com": {
       "hardblock": true,
       "owner": "Criteo",
-      "rules": "criteo\\.com"
+      "rules": [
+        "criteo\\.com"
+      ]
     },
     "criteo.net": {
       "hardblock": true,
       "owner": "Criteo",
-      "rules": "criteo\\.net"
+      "rules": [
+        "criteo\\.net"
+      ]
+    },
+    "crm4d.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "crm4d\\.com"
+      ]
     },
     "crwdcntrl.net": {
       "hardblock": true,
       "owner": "Lotame Solutions",
-      "rules": "crwdcntrl\\.net"
+      "rules": [
+        "crwdcntrl\\.net"
+      ]
     },
     "ctnsnet.com": {
       "hardblock": true,
       "owner": "Crimtan Holdings",
-      "rules": "ctnsnet\\.com"
+      "rules": [
+        "ctnsnet\\.com"
+      ]
     },
     "cxense.com": {
       "hardblock": true,
       "owner": "Piano Software",
-      "rules": "cxense\\.com"
+      "rules": [
+        "cxense\\.com"
+      ]
+    },
+    "datadome.co": {
+      "hardblock": false,
+      "owner": "DATADOME",
+      "rules": [
+        "datadome\\.co\\/tags\\.js"
+      ]
     },
     "de17a.com": {
       "hardblock": false,
       "owner": "Delta Projects",
-      "rules": "de17a\\.com"
+      "rules": [
+        "de17a\\.com"
+      ]
     },
     "deepintent.com": {
       "hardblock": true,
       "owner": "DeepIntent",
-      "rules": "deepintent\\.com"
+      "rules": [
+        "deepintent\\.com"
+      ]
+    },
+    "demandbase.com": {
+      "hardblock": true,
+      "owner": "Demandbase",
+      "rules": [
+        "demandbase\\.com"
+      ]
     },
     "demdex.net": {
       "hardblock": true,
       "owner": "Adobe",
-      "rules": "demdex\\.net"
+      "rules": [
+        "demdex\\.net"
+      ]
+    },
+    "deployads.com": {
+      "hardblock": true,
+      "owner": "Snapsort",
+      "rules": [
+        "deployads\\.com"
+      ]
     },
     "disqus.com": {
       "hardblock": false,
       "owner": "Disqus",
-      "rules": "disqus\\.com\\/api\\/sync\\.gif|disqus\\.com\\/ads-iframe\\/google\\/|disqus\\.com\\/api\\/ping|disqus\\.com\\/count\\.js|disqus\\.com\\/api\\/domains|disqus\\.com\\/embed\\.js|disqus\\.com\\/recommendations\\.js"
+      "rules": [
+        "disqus\\.com\\/api\\/ping",
+        "disqus\\.com\\/count\\.js",
+        "disqus\\.com\\/embed\\.js",
+        "disqus\\.com\\/recommendations\\.js",
+        "disqus\\.com\\/api\\/sync\\.gif",
+        "disqus\\.com\\/ads-iframe\\/google\\/",
+        "disqus\\.com\\/api\\/domains"
+      ]
     },
     "districtm.io": {
       "hardblock": true,
       "owner": "District M",
-      "rules": "districtm\\.io"
+      "rules": [
+        "districtm\\.io"
+      ]
     },
     "dmcdn.net": {
       "hardblock": false,
       "owner": "Dailymotion",
-      "rules": "dmcdn\\.net\\/pxl\\/cpe\\/app\\.min\\.js|dmcdn\\.net\\/js\\/cpe\\/cpeEvent\\.min\\.js|dmcdn\\.net\\/all\\.js|dmcdn\\.net\\/playerv5"
+      "rules": [
+        "dmcdn\\.net\\/all\\.js",
+        "dmcdn\\.net\\/js\\/cpe\\/cpeEvent\\.min\\.js",
+        "dmcdn\\.net\\/pxl\\/cpe\\/app\\.min\\.js",
+        "dmcdn\\.net\\/playerv5"
+      ]
+    },
+    "doofinder.com": {
+      "hardblock": false,
+      "owner": "Doofinder",
+      "rules": [
+        "doofinder\\.com"
+      ]
     },
     "dotmetrics.net": {
       "hardblock": false,
       "owner": "Dotmetrics",
-      "rules": "dotmetrics\\.net\\/door\\.js|dotmetrics\\.net\\/SiteEvent\\.dotmetrics|dotmetrics\\.net\\/Scripts\\/script\\.js|dotmetrics\\.net\\/hit\\.gif"
+      "rules": [
+        "dotmetrics\\.net\\/Scripts\\/script\\.js",
+        "dotmetrics\\.net\\/hit\\.gif",
+        "dotmetrics\\.net\\/door\\.js",
+        "dotmetrics\\.net\\/Scripts\\/adexScript\\.js",
+        "dotmetrics\\.net\\/SiteEvent\\.dotmetrics"
+      ]
     },
     "dotomi.com": {
       "hardblock": true,
       "owner": "Conversant",
-      "rules": "dotomi\\.com"
+      "rules": [
+        "dotomi\\.com"
+      ]
     },
     "doubleclick.net": {
       "hardblock": true,
       "owner": "Google",
-      "rules": "doubleclick\\.net"
+      "rules": [
+        "doubleclick\\.net"
+      ]
     },
     "doubleverify.com": {
       "hardblock": true,
       "owner": "DoubleVerify",
-      "rules": "doubleverify\\.com"
+      "rules": [
+        "doubleverify\\.com"
+      ]
     },
     "dtscdn.com": {
       "hardblock": true,
       "owner": "",
-      "rules": "dtscdn\\.com"
+      "rules": [
+        "dtscdn\\.com"
+      ]
     },
     "dtscout.com": {
       "hardblock": true,
       "owner": "DTS",
-      "rules": "dtscout\\.com"
+      "rules": [
+        "dtscout\\.com"
+      ]
     },
     "durationmedia.net": {
       "hardblock": true,
       "owner": "",
-      "rules": "durationmedia\\.net"
+      "rules": [
+        "durationmedia\\.net"
+      ]
     },
     "dwin1.com": {
       "hardblock": true,
       "owner": "Awin",
-      "rules": "dwin1\\.com"
+      "rules": [
+        "dwin1\\.com"
+      ]
     },
     "dyntrk.com": {
       "hardblock": true,
       "owner": "DynAdmic",
-      "rules": "dyntrk\\.com"
+      "rules": [
+        "dyntrk\\.com"
+      ]
+    },
+    "e-planning.net": {
+      "hardblock": true,
+      "owner": "Teroa",
+      "rules": [
+        "e-planning\\.net"
+      ]
+    },
+    "easydmp.net": {
+      "hardblock": false,
+      "owner": "EMATCH",
+      "rules": [
+        "easydmp\\.net"
+      ]
+    },
+    "econda-monitor.de": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "econda-monitor\\.de"
+      ]
     },
     "edgekey.net": {
       "hardblock": false,
       "owner": "Akamai",
-      "rules": "edgekey\\.net"
+      "rules": [
+        "edgekey\\.net"
+      ]
+    },
+    "eloqua.com": {
+      "hardblock": true,
+      "owner": "Oracle",
+      "rules": [
+        "eloqua\\.com"
+      ]
     },
     "emxdgt.com": {
       "hardblock": true,
       "owner": "Engine USA",
-      "rules": "emxdgt\\.com"
+      "rules": [
+        "emxdgt\\.com"
+      ]
+    },
+    "en25.com": {
+      "hardblock": true,
+      "owner": "Oracle",
+      "rules": [
+        "en25\\.com"
+      ]
+    },
+    "ensighten.com": {
+      "hardblock": true,
+      "owner": "Ensighten",
+      "rules": [
+        "ensighten\\.com"
+      ]
     },
     "episerver.net": {
       "hardblock": false,
       "owner": "EPiServer",
-      "rules": "episerver\\.net\\/13\\.4\\.4\\.1\\/epi-util\\/find\\.js|episerver\\.net\\/ia\\.js"
+      "rules": [
+        "episerver\\.net\\/ia\\.js",
+        "episerver\\.net\\/13\\.4\\.4\\.1\\/epi-util\\/find\\.js"
+      ]
     },
     "eqads.com": {
       "hardblock": false,
       "owner": "EQ Works",
-      "rules": "eqads\\.com\\/um\\/cs|eqads\\.com\\/pt|eqads\\.com\\/ptrack"
+      "rules": [
+        "eqads\\.com\\/ptrack",
+        "eqads\\.com\\/um\\/cs",
+        "eqads\\.com\\/pt"
+      ]
     },
     "erne.co": {
       "hardblock": true,
       "owner": "AdPilot",
-      "rules": "erne\\.co"
+      "rules": [
+        "erne\\.co"
+      ]
     },
     "etracker.com": {
       "hardblock": false,
       "owner": "etracker",
-      "rules": "etracker\\.com\\/t\\.js|etracker\\.com\\/code\\/e\\.js"
+      "rules": [
+        "etracker\\.com\\/code\\/e\\.js",
+        "etracker\\.com\\/t\\.js"
+      ]
     },
     "etracker.de": {
       "hardblock": false,
       "owner": "etracker",
-      "rules": "etracker\\.de\\/dc\\/js\\/jquery-1\\.8\\.3\\.min\\.js"
+      "rules": [
+        "etracker\\.de\\/dc\\/js\\/jquery-1\\.8\\.3\\.min\\.js"
+      ]
+    },
+    "everestjs.net": {
+      "hardblock": true,
+      "owner": "Adobe",
+      "rules": [
+        "everestjs\\.net"
+      ]
     },
     "everesttech.net": {
       "hardblock": true,
       "owner": "Adobe",
-      "rules": "everesttech\\.net"
+      "rules": [
+        "everesttech\\.net"
+      ]
+    },
+    "evidon.com": {
+      "hardblock": true,
+      "owner": "Crownpeak",
+      "rules": [
+        "evidon\\.com"
+      ]
     },
     "exactag.com": {
       "hardblock": true,
       "owner": "",
-      "rules": "exactag\\.com"
+      "rules": [
+        "exactag\\.com"
+      ]
     },
     "exelator.com": {
       "hardblock": true,
       "owner": "The Nielsen Company",
-      "rules": "exelator\\.com"
+      "rules": [
+        "exelator\\.com"
+      ]
     },
     "exoclick.com": {
       "hardblock": true,
       "owner": "ExoClick",
-      "rules": "exoclick\\.com"
+      "rules": [
+        "exoclick\\.com"
+      ]
     },
     "exosrv.com": {
       "hardblock": true,
       "owner": "ExoClick",
-      "rules": "exosrv\\.com"
+      "rules": [
+        "exosrv\\.com"
+      ]
     },
     "extend.tv": {
       "hardblock": false,
       "owner": "ZypMedia",
-      "rules": "extend\\.tv\\/r\\.gif|extend\\.tv\\/freewheel|extend\\.tv\\/telaria|extend\\.tv\\/conv\\/"
+      "rules": [
+        "extend\\.tv\\/r\\.gif",
+        "extend\\.tv\\/telaria",
+        "extend\\.tv\\/conv\\/",
+        "extend\\.tv\\/freewheel"
+      ]
     },
     "eyeota.net": {
       "hardblock": true,
       "owner": "eyeota",
-      "rules": "eyeota\\.net"
+      "rules": [
+        "eyeota\\.net"
+      ]
+    },
+    "eyereturn.com": {
+      "hardblock": true,
+      "owner": "eyeReturn Marketing",
+      "rules": [
+        "eyereturn\\.com"
+      ]
     },
     "ezodn.com": {
       "hardblock": false,
       "owner": "Ezoic",
-      "rules": "ezodn\\.com"
+      "rules": [
+        "ezodn\\.com"
+      ]
     },
     "ezoic.net": {
       "hardblock": true,
       "owner": "Ezoic",
-      "rules": "ezoic\\.net"
+      "rules": [
+        "ezoic\\.net"
+      ]
     },
     "facebook.com": {
       "hardblock": false,
       "owner": "Facebook",
-      "rules": "facebook\\.com\\/v2\\.8\\/plugins\\/save\\.php|facebook\\.com\\/tr|facebook\\.com\\/v10\\.0\\/plugins\\/send_to_messenger\\.php|facebook\\.com\\/v2\\.6\\/plugins\\/post\\.php|facebook\\.com\\/plugins\\/send_to_messenger\\.php|facebook\\.com\\/plugins\\/video\\.php|facebook\\.com\\/v3\\.3\\/plugins\\/like_box\\.php|facebook\\.com\\/v6\\.0\\/plugins\\/customerchat\\.php|facebook\\.com\\/v3\\.0\\/plugins\\/like_box\\.php|facebook\\.com\\/plugins\\/like\\.php|facebook\\.com\\/v7\\.0\\/plugins\\/send_to_messenger\\.php|facebook\\.com\\/v5\\.0\\/plugins\\/video\\.php|facebook\\.com\\/v7\\.0\\/plugins\\/like_box\\.php|facebook\\.com\\/v2\\.2\\/plugins\\/like_box\\.php|facebook\\.com\\/v2\\.3\\/plugins\\/video\\.php|facebook\\.com\\/tr\\/|facebook\\.com\\/v12\\.0\\/plugins\\/like_box\\.php|facebook\\.com\\/v2\\.5\\/plugins\\/share_button\\.php|facebook\\.com\\/v2\\.5\\/plugins\\/like_box\\.php|facebook\\.com\\/v2\\.9\\/plugins\\/customerchat\\.php|facebook\\.com\\/login\\/|facebook\\.com\\/v2\\.10\\/plugins\\/like_box\\.php|facebook\\.com\\/v10\\.0\\/plugins\\/messengermessageus\\.php|facebook\\.com\\/en_US\\/fbevents\\.js|facebook\\.com\\/v2\\.6\\/plugins\\/like_box\\.php|facebook\\.com\\/v5\\.0\\/plugins\\/post\\.php|facebook\\.com\\/v10\\.0\\/plugins\\/like_box\\.php|facebook\\.com\\/v6\\.0\\/plugins\\/like_box\\.php|facebook\\.com\\/v11\\.0\\/plugins\\/customerchat\\.php|facebook\\.com\\/v10\\.0\\/plugins\\/customerchat\\.php|facebook\\.com\\/v3\\.2\\/plugins\\/customerchat\\.php|facebook\\.com\\/v2\\.12\\/plugins\\/like_box\\.php|facebook\\.com\\/es_LA\\/sdk\\.js|facebook\\.com\\/v2\\.12\\/plugins\\/customerchat\\.php|facebook\\.com\\/v12\\.0\\/plugins\\/page\\.php|facebook\\.com\\/v11\\.0\\/plugins\\/page\\.php|facebook\\.com\\/v3\\.2\\/plugins\\/like_box\\.php|facebook\\.com\\/v2\\.8\\/plugins\\/like_box\\.php|facebook\\.com\\/v10\\.0\\/plugins\\/page\\.php|facebook\\.com\\/de_DE\\/sdk\\.js|facebook\\.com\\/v3\\.3\\/plugins\\/customerchat\\.php|facebook\\.com\\/v2\\.5\\/plugins\\/save\\.php|facebook\\.com\\/v7\\.0\\/plugins\\/customerchat\\.php|facebook\\.com\\/v3\\.1\\/plugins\\/like_box\\.php|facebook\\.com\\/en_US\\/sdk\\.js|facebook\\.com\\/v3\\.3\\/plugins\\/messenger_checkbox\\.php|facebook\\.com\\/v8\\.0\\/plugins\\/customerchat\\.php|facebook\\.com\\/rsrc\\.php"
+      "rules": [
+        "facebook\\.com\\/login\\/",
+        "facebook\\.com\\/v8\\.0\\/plugins\\/customerchat\\.php",
+        "facebook\\.com\\/tr\\/",
+        "facebook\\.com\\/v2\\.8\\/plugins\\/like_box\\.php",
+        "facebook\\.com\\/v3\\.3\\/plugins\\/like_box\\.php",
+        "facebook\\.com\\/v2\\.5\\/plugins\\/save\\.php",
+        "facebook\\.com\\/tr",
+        "facebook\\.com\\/es_LA\\/sdk\\.js",
+        "facebook\\.com\\/en_US\\/sdk\\.js",
+        "facebook\\.com\\/v3\\.0\\/plugins\\/like_box\\.php",
+        "facebook\\.com\\/v2\\.3\\/plugins\\/video\\.php",
+        "facebook\\.com\\/plugins\\/like\\.php",
+        "facebook\\.com\\/v7\\.0\\/plugins\\/send_to_messenger\\.php",
+        "facebook\\.com\\/v6\\.0\\/plugins\\/customerchat\\.php",
+        "facebook\\.com\\/v2\\.5\\/plugins\\/share_button\\.php",
+        "facebook\\.com\\/v11\\.0\\/plugins\\/page\\.php",
+        "facebook\\.com\\/v2\\.10\\/plugins\\/like_box\\.php",
+        "facebook\\.com\\/v10\\.0\\/plugins\\/send_to_messenger\\.php",
+        "facebook\\.com\\/v2\\.12\\/plugins\\/like_box\\.php",
+        "facebook\\.com\\/v10\\.0\\/plugins\\/like_box\\.php",
+        "facebook\\.com\\/v2\\.2\\/plugins\\/like_box\\.php",
+        "facebook\\.com\\/en_US\\/fbevents\\.js",
+        "facebook\\.com\\/v7\\.0\\/plugins\\/customerchat\\.php",
+        "facebook\\.com\\/v10\\.0\\/plugins\\/page\\.php",
+        "facebook\\.com\\/de_DE\\/sdk\\.js",
+        "facebook\\.com\\/plugins\\/send_to_messenger\\.php",
+        "facebook\\.com\\/v5\\.0\\/plugins\\/video\\.php",
+        "facebook\\.com\\/v2\\.6\\/plugins\\/like_box\\.php",
+        "facebook\\.com\\/v5\\.0\\/plugins\\/post\\.php",
+        "facebook\\.com\\/v7\\.0\\/plugins\\/like_box\\.php",
+        "facebook\\.com\\/v12\\.0\\/plugins\\/like_box\\.php",
+        "facebook\\.com\\/v3\\.2\\/plugins\\/customerchat\\.php",
+        "facebook\\.com\\/v12\\.0\\/plugins\\/page\\.php",
+        "facebook\\.com\\/v2\\.6\\/plugins\\/post\\.php",
+        "facebook\\.com\\/v2\\.9\\/plugins\\/customerchat\\.php",
+        "facebook\\.com\\/v6\\.0\\/plugins\\/like_box\\.php",
+        "facebook\\.com\\/v10\\.0\\/plugins\\/messengermessageus\\.php",
+        "facebook\\.com\\/v3\\.3\\/plugins\\/messenger_checkbox\\.php",
+        "facebook\\.com\\/v2\\.12\\/plugins\\/customerchat\\.php",
+        "facebook\\.com\\/plugins\\/video\\.php",
+        "facebook\\.com\\/v3\\.2\\/plugins\\/like_box\\.php",
+        "facebook\\.com\\/v2\\.8\\/plugins\\/save\\.php",
+        "facebook\\.com\\/v10\\.0\\/plugins\\/customerchat\\.php",
+        "facebook\\.com\\/v3\\.3\\/plugins\\/customerchat\\.php",
+        "facebook\\.com\\/v3\\.1\\/plugins\\/like_box\\.php",
+        "facebook\\.com\\/v11\\.0\\/plugins\\/customerchat\\.php",
+        "facebook\\.com\\/v2\\.5\\/plugins\\/like_box\\.php",
+        "facebook\\.com\\/rsrc\\.php"
+      ]
     },
     "facebook.net": {
       "hardblock": false,
       "owner": "Facebook",
-      "rules": "facebook\\.net\\/es_LA\\/all\\.js|facebook\\.net\\/pt_PT\\/all\\.js|facebook\\.net\\/en_IN\\/sdk\\.js|facebook\\.net\\/sv_SE\\/sdk\\.js|facebook\\.net\\/sw_KE\\/sdk\\.js|facebook\\.net\\/eu_ES\\/sdk\\.js|facebook\\.net\\/ko_KR\\/sdk\\.js|facebook\\.net\\/fr_fr\\/sdk\\.js|facebook\\.net\\/nl_NL\\/all\\.js|facebook\\.net\\/he_IL\\/all\\.js|facebook\\.net\\/he_IL\\/sdk\\.js|facebook\\.net\\/es_LA\\/sdk\\/xfbml\\.customerchat\\.js|facebook\\.net\\/fr_FR\\/sdk\\.js|facebook\\.net\\/en_US\\/sdk\\.js|facebook\\.net\\/en_CA\\/sdk\\.js|facebook\\.net\\/sv_SE\\/all\\.js|facebook\\.net\\/sk_SK\\/all\\.js|facebook\\.net\\/es_ES\\/all\\.js|facebook\\.net\\/en_US\\/sdk\\/xfbml\\.save\\.js|facebook\\.net\\/de_DE\\/fbevents\\.js|facebook\\.net\\/pt_BR\\/all\\.js|facebook\\.net\\/de_DE\\/all\\.js|facebook\\.net\\/zh_TW\\/fbevents\\.js|facebook\\.net\\/da_DK\\/sdk\\.js|facebook\\.net\\/fi_FI\\/sdk\\.js|facebook\\.net\\/nl_NL\\/sdk\\.js|facebook\\.net\\/sl_SI\\/sdk\\.js|facebook\\.net\\/en_En\\/sdk\\.js|facebook\\.net\\/nb_NO\\/sdk\\/xfbml\\.customerchat\\.js|facebook\\.net\\/pt_BR\\/sdk\\.js|facebook\\.net\\/en_AU\\/sdk\\.js|facebook\\.net\\/fi_FI\\/all\\.js|facebook\\.net\\/en_US\\/fbevents\\.js|facebook\\.net\\/ja_JP\\/fbevents\\.js|facebook\\.net\\/en_US\\/messenger\\.Extensions\\.js|facebook\\.net\\/nl_NL\\/fbevents\\.js|facebook\\.net\\/bs_BA\\/sdk\\.js|facebook\\.net\\/id_ID\\/all\\.js|facebook\\.net\\/ro_RO\\/sdk\\.js|facebook\\.net\\/en_US%20\\/fbevents\\.js|facebook\\.net\\/de_CH\\/sdk\\.js|facebook\\.net\\/ar_AR\\/sdk\\.js|facebook\\.net\\/en_EN\\/sdk\\.js|facebook\\.net\\/af_ZA\\/sdk\\.js|facebook\\.net\\/pl_PL\\/sdk\\.js|facebook\\.net\\/tr_TR\\/sdk\\.js|facebook\\.net\\/en_NZ\\/fbevents\\.js|facebook\\.net\\/id_ID\\/sdk\\.js|facebook\\.net\\/tr_TR\\/all\\.js|facebook\\.net\\/el_GR\\/sdk\\.js|facebook\\.net\\/et_EE\\/sdk\\.js|facebook\\.net\\/ko_KR\\/all\\.js|facebook\\.net\\/en_US\\/platform\\.Extensions\\.js|facebook\\.net\\/en_US\\/api\\/auth\\/event\\/init\\/ui\\/xfbml\\.js|facebook\\.net\\/it_IT\\/sdk\\.js|facebook\\.net\\/es_MX\\/sdk\\.js|facebook\\.net\\/ja_JP\\/sdk\\.js|facebook\\.net\\/vi_VN\\/sdk\\.js|facebook\\.net\\/es_LA\\/sdk\\.js|facebook\\.net\\/es_LA\\/fbevents\\.js|facebook\\.net\\/id-ID\\/sdk\\.js|facebook\\.net\\/cs_CZ\\/all\\.js|facebook\\.net\\/en_GB\\/all\\.js|facebook\\.net\\/bg_BG\\/all\\.js|facebook\\.net\\/nl_BE\\/sdk\\.js|facebook\\.net\\/ru_RU\\/all\\.js|facebook\\.net\\/zh_HK\\/sdk\\.js|facebook\\.net\\/undefined\\/all\\.js|facebook\\.net\\/en_GB\\/fbevents\\.js|facebook\\.net\\/no_NO\\/sdk\\.js|facebook\\.net\\/en\\/all\\.js|facebook\\.net\\/es_CL\\/sdk\\.js|facebook\\.net\\/lv_LV\\/sdk\\.js|facebook\\.net\\/bg_BG\\/sdk\\.js|facebook\\.net\\/sk_SK\\/sdk\\.js|facebook\\.net\\/pt_PT\\/sdk\\.js|facebook\\.net\\/nn_NO\\/sdk\\.js|facebook\\.net\\/en_US\\/sdk\\/xfbml\\.customerchat\\.js|facebook\\.net\\/ms_MY\\/sdk\\.js|facebook\\.net\\/de_DE\\/sdk\\.js|facebook\\.net\\/fr_FR\\/all\\.js|facebook\\.net\\/uk_UA\\/sdk\\.js|facebook\\.net\\/fr_BE\\/sdk\\.js|facebook\\.net\\/en_UK\\/all\\.js|facebook\\.net\\/en\\/sdk\\.js|facebook\\.net\\/en_EN\\/all\\.js|facebook\\.net\\/pl_PL\\/all\\.js|facebook\\.net\\/en_GB\\/sdk\\/xfbml\\.customerchat\\.js|facebook\\.net\\/ja_JP\\/all\\.js|facebook\\.net\\/en_SG\\/sdk\\.js|facebook\\.net\\/nb_NO\\/all\\.js|facebook\\.net\\/vi_VN\\/all\\.js|facebook\\.net\\/no_NO\\/all\\.js|facebook\\.net\\/nn_NO\\/all\\.js|facebook\\.net\\/ko_KO\\/sdk\\.js|facebook\\.net\\/undefined\\/sdk\\.js|facebook\\.net\\/en_us\\/sdk\\.js|facebook\\.net\\/is_IS\\/sdk\\.js|facebook\\.net\\/ru_UA\\/all\\.js|facebook\\.net\\/en-EN\\/all\\.js|facebook\\.net\\/fr_CA\\/all\\.js|facebook\\.net\\/ru_RU\\/sdk\\.js|facebook\\.net\\/zh_TW\\/sdk\\.js|facebook\\.net\\/ka_GE\\/all\\.js|facebook\\.net\\/nl\\/sdk\\.js|facebook\\.net\\/es_ES\\/sdk\\.js|facebook\\.net\\/en_IE\\/sdk\\.js|facebook\\.net\\/hu_HU\\/sdk\\.js|facebook\\.net\\/default\\/all\\.js|facebook\\.net\\/lt_LT\\/sdk\\.js|facebook\\.net\\/zh_TW\\/all\\.js|facebook\\.net\\/ro_RO\\/all\\.js|facebook\\.net\\/fr_FR\\/sdk\\/xfbml\\.customerchat\\.js|facebook\\.net\\/en-US\\/sdk\\.js|facebook\\.net\\/en_UK\\/sdk\\.js|facebook\\.net\\/en_AU\\/fbevents\\.js|facebook\\.net\\/nl_NL\\/sdk\\/xfbml\\.customerchat\\.js|facebook\\.net\\/it_IT\\/fbevents\\.js|facebook\\.net\\/nb_NO\\/sdk\\.js|facebook\\.net\\/th_TH\\/sdk\\.js|facebook\\.net\\/hu_HU\\/all\\.js|facebook\\.net\\/pl_PL\\/sdk\\/xfbml\\.customerchat\\.js|facebook\\.net\\/fr_CA\\/sdk\\.js|facebook\\.net\\/de-DE\\/all\\.js|facebook\\.net\\/hr_HR\\/sdk\\.js|facebook\\.net\\/vi_VN\\/sdk\\/xfbml\\.customerchat\\.js|facebook\\.net\\/en_Inter\\/sdk\\.js|facebook\\.net\\/en_US\\/all\\.js|facebook\\.net\\/en\\/sdk\\/xfbml\\.customerchat\\.js|facebook\\.net\\/lt_LT\\/all\\.js|facebook\\.net\\/cs_CZ\\/sdk\\.js|facebook\\.net\\/fr_FR\\/fbevents\\.js|facebook\\.net\\/zh_CN\\/sdk\\.js|facebook\\.net\\/nb-NO\\/sdk\\.js|facebook\\.net\\/de_DE\\/sdk\\/xfbml\\.customerchat\\.js|facebook\\.net\\/sr_RS\\/sdk\\.js|facebook\\.net\\/it_IT\\/all\\.js|facebook\\.net\\/no\\/sdk\\.js|facebook\\.net\\/ca_ES\\/sdk\\.js|facebook\\.net\\/ja_JA\\/sdk\\.js|facebook\\.net\\/en_GB\\/sdk\\.js|facebook\\.net\\/es_US\\/sdk\\.js|facebook\\.net\\/signals\\/config"
+      "rules": [
+        "facebook\\.net\\/de_CH\\/sdk\\.js",
+        "facebook\\.net\\/sv_SE\\/sdk\\.js",
+        "facebook\\.net\\/hu_HU\\/sdk\\.js",
+        "facebook\\.net\\/en\\/sdk\\/xfbml\\.customerchat\\.js",
+        "facebook\\.net\\/es_LA\\/all\\.js",
+        "facebook\\.net\\/fr_FR\\/sdk\\/xfbml\\.customerchat\\.js",
+        "facebook\\.net\\/nl_NL\\/sdk\\/xfbml\\.customerchat\\.js",
+        "facebook\\.net\\/fi_FI\\/sdk\\.js",
+        "facebook\\.net\\/nb_NO\\/sdk\\/xfbml\\.customerchat\\.js",
+        "facebook\\.net\\/fi_FI\\/all\\.js",
+        "facebook\\.net\\/es_LA\\/sdk\\/xfbml\\.customerchat\\.js",
+        "facebook\\.net\\/en_US\\/sdk\\.js",
+        "facebook\\.net\\/fr_FR\\/fbevents\\.js",
+        "facebook\\.net\\/el_GR\\/sdk\\.js",
+        "facebook\\.net\\/en_IE\\/sdk\\.js",
+        "facebook\\.net\\/no\\/sdk\\.js",
+        "facebook\\.net\\/sk_SK\\/all\\.js",
+        "facebook\\.net\\/default\\/all\\.js",
+        "facebook\\.net\\/de-DE\\/all\\.js",
+        "facebook\\.net\\/en_AU\\/fbevents\\.js",
+        "facebook\\.net\\/af_ZA\\/sdk\\.js",
+        "facebook\\.net\\/bg_BG\\/sdk\\.js",
+        "facebook\\.net\\/it_IT\\/all\\.js",
+        "facebook\\.net\\/uk_UA\\/sdk\\.js",
+        "facebook\\.net\\/zh_TW\\/fbevents\\.js",
+        "facebook\\.net\\/nb_NO\\/all\\.js",
+        "facebook\\.net\\/tr_TR\\/sdk\\.js",
+        "facebook\\.net\\/nb-NO\\/sdk\\.js",
+        "facebook\\.net\\/id_ID\\/sdk\\.js",
+        "facebook\\.net\\/eu_ES\\/sdk\\.js",
+        "facebook\\.net\\/it_IT\\/fbevents\\.js",
+        "facebook\\.net\\/vi_VN\\/sdk\\.js",
+        "facebook\\.net\\/ja_JP\\/sdk\\.js",
+        "facebook\\.net\\/ko_KR\\/all\\.js",
+        "facebook\\.net\\/es_MX\\/sdk\\.js",
+        "facebook\\.net\\/undefined\\/sdk\\.js",
+        "facebook\\.net\\/sl_SI\\/sdk\\.js",
+        "facebook\\.net\\/no_NO\\/sdk\\.js",
+        "facebook\\.net\\/lt_LT\\/all\\.js",
+        "facebook\\.net\\/en_Inter\\/sdk\\.js",
+        "facebook\\.net\\/nl_NL\\/sdk\\.js",
+        "facebook\\.net\\/fr_CA\\/all\\.js",
+        "facebook\\.net\\/en_us\\/sdk\\.js",
+        "facebook\\.net\\/es_CL\\/sdk\\.js",
+        "facebook\\.net\\/hu_HU\\/all\\.js",
+        "facebook\\.net\\/nb_NO\\/sdk\\.js",
+        "facebook\\.net\\/fr_FR\\/sdk\\.js",
+        "facebook\\.net\\/ko_KR\\/sdk\\.js",
+        "facebook\\.net\\/es_US\\/sdk\\.js",
+        "facebook\\.net\\/da_DK\\/sdk\\.js",
+        "facebook\\.net\\/undefined\\/all\\.js",
+        "facebook\\.net\\/en\\/all\\.js",
+        "facebook\\.net\\/en_IN\\/sdk\\.js",
+        "facebook\\.net\\/fr_CA\\/sdk\\.js",
+        "facebook\\.net\\/fr_BE\\/sdk\\.js",
+        "facebook\\.net\\/en\\/sdk\\.js",
+        "facebook\\.net\\/vi_VN\\/all\\.js",
+        "facebook\\.net\\/en_US\\/sdk\\/xfbml\\.save\\.js",
+        "facebook\\.net\\/zh_HK\\/sdk\\.js",
+        "facebook\\.net\\/hr_HR\\/sdk\\.js",
+        "facebook\\.net\\/ru_UA\\/all\\.js",
+        "facebook\\.net\\/bg_BG\\/all\\.js",
+        "facebook\\.net\\/pt_PT\\/sdk\\.js",
+        "facebook\\.net\\/en_EN\\/sdk\\.js",
+        "facebook\\.net\\/en_US\\/sdk\\/xfbml\\.customerchat\\.js",
+        "facebook\\.net\\/en_SG\\/sdk\\.js",
+        "facebook\\.net\\/lv_LV\\/sdk\\.js",
+        "facebook\\.net\\/es_ES\\/sdk\\.js",
+        "facebook\\.net\\/it_IT\\/sdk\\.js",
+        "facebook\\.net\\/en_GB\\/sdk\\/xfbml\\.customerchat\\.js",
+        "facebook\\.net\\/is_IS\\/sdk\\.js",
+        "facebook\\.net\\/nn_NO\\/sdk\\.js",
+        "facebook\\.net\\/ru_RU\\/all\\.js",
+        "facebook\\.net\\/th_TH\\/sdk\\.js",
+        "facebook\\.net\\/en_UK\\/sdk\\.js",
+        "facebook\\.net\\/pt_BR\\/sdk\\.js",
+        "facebook\\.net\\/sv_SE\\/all\\.js",
+        "facebook\\.net\\/en_EN\\/all\\.js",
+        "facebook\\.net\\/ar_AR\\/sdk\\.js",
+        "facebook\\.net\\/no_NO\\/all\\.js",
+        "facebook\\.net\\/pl_PL\\/sdk\\/xfbml\\.customerchat\\.js",
+        "facebook\\.net\\/sr_RS\\/sdk\\.js",
+        "facebook\\.net\\/zh_CN\\/sdk\\.js",
+        "facebook\\.net\\/ka_GE\\/all\\.js",
+        "facebook\\.net\\/tr_TR\\/all\\.js",
+        "facebook\\.net\\/zh_TW\\/all\\.js",
+        "facebook\\.net\\/en_US\\/all\\.js",
+        "facebook\\.net\\/de_DE\\/sdk\\/xfbml\\.customerchat\\.js",
+        "facebook\\.net\\/id-ID\\/sdk\\.js",
+        "facebook\\.net\\/en_En\\/sdk\\.js",
+        "facebook\\.net\\/pl_PL\\/sdk\\.js",
+        "facebook\\.net\\/de_DE\\/sdk\\.js",
+        "facebook\\.net\\/ko_KO\\/sdk\\.js",
+        "facebook\\.net\\/nn_NO\\/all\\.js",
+        "facebook\\.net\\/ro_RO\\/sdk\\.js",
+        "facebook\\.net\\/ja_JP\\/fbevents\\.js",
+        "facebook\\.net\\/en-EN\\/all\\.js",
+        "facebook\\.net\\/ca_ES\\/sdk\\.js",
+        "facebook\\.net\\/en_US\\/messenger\\.Extensions\\.js",
+        "facebook\\.net\\/en_US%20\\/fbevents\\.js",
+        "facebook\\.net\\/es_LA\\/sdk\\.js",
+        "facebook\\.net\\/en_AU\\/sdk\\.js",
+        "facebook\\.net\\/pt_PT\\/all\\.js",
+        "facebook\\.net\\/en_GB\\/fbevents\\.js",
+        "facebook\\.net\\/en_GB\\/sdk\\.js",
+        "facebook\\.net\\/pl_PL\\/all\\.js",
+        "facebook\\.net\\/id_ID\\/all\\.js",
+        "facebook\\.net\\/es_ES\\/all\\.js",
+        "facebook\\.net\\/fr_FR\\/all\\.js",
+        "facebook\\.net\\/cs_CZ\\/sdk\\.js",
+        "facebook\\.net\\/en_NZ\\/fbevents\\.js",
+        "facebook\\.net\\/de_DE\\/fbevents\\.js",
+        "facebook\\.net\\/he_IL\\/all\\.js",
+        "facebook\\.net\\/de_DE\\/all\\.js",
+        "facebook\\.net\\/cs_CZ\\/all\\.js",
+        "facebook\\.net\\/vi_VN\\/sdk\\/xfbml\\.customerchat\\.js",
+        "facebook\\.net\\/nl_NL\\/fbevents\\.js",
+        "facebook\\.net\\/ja_JA\\/sdk\\.js",
+        "facebook\\.net\\/ms_MY\\/sdk\\.js",
+        "facebook\\.net\\/bs_BA\\/sdk\\.js",
+        "facebook\\.net\\/en-US\\/sdk\\.js",
+        "facebook\\.net\\/nl\\/sdk\\.js",
+        "facebook\\.net\\/pt_BR\\/all\\.js",
+        "facebook\\.net\\/es_LA\\/fbevents\\.js",
+        "facebook\\.net\\/zh_TW\\/sdk\\.js",
+        "facebook\\.net\\/sk_SK\\/sdk\\.js",
+        "facebook\\.net\\/nl_BE\\/sdk\\.js",
+        "facebook\\.net\\/en_CA\\/sdk\\.js",
+        "facebook\\.net\\/en_GB\\/all\\.js",
+        "facebook\\.net\\/lt_LT\\/sdk\\.js",
+        "facebook\\.net\\/en_US\\/fbevents\\.js",
+        "facebook\\.net\\/ru_RU\\/sdk\\.js",
+        "facebook\\.net\\/sw_KE\\/sdk\\.js",
+        "facebook\\.net\\/he_IL\\/sdk\\.js",
+        "facebook\\.net\\/ro_RO\\/all\\.js",
+        "facebook\\.net\\/et_EE\\/sdk\\.js",
+        "facebook\\.net\\/en_UK\\/all\\.js",
+        "facebook\\.net\\/en_US\\/api\\/auth\\/event\\/init\\/ui\\/xfbml\\.js",
+        "facebook\\.net\\/en_US\\/platform\\.Extensions\\.js",
+        "facebook\\.net\\/ja_JP\\/all\\.js",
+        "facebook\\.net\\/fr_fr\\/sdk\\.js",
+        "facebook\\.net\\/nl_NL\\/all\\.js",
+        "facebook\\.net\\/signals\\/config"
+      ]
     },
     "fastly-insights.com": {
       "hardblock": true,
       "owner": "Fastly",
-      "rules": "fastly-insights\\.com"
+      "rules": [
+        "fastly-insights\\.com"
+      ]
+    },
+    "feedbackcompany.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "feedbackcompany\\.com"
+      ]
+    },
+    "feefo.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "feefo\\.com"
+      ]
     },
     "fg8dgt.com": {
       "hardblock": true,
       "owner": "FastG8",
-      "rules": "fg8dgt\\.com"
+      "rules": [
+        "fg8dgt\\.com"
+      ]
     },
     "fiftyt.com": {
       "hardblock": false,
       "owner": "Fifty Technology",
-      "rules": "fiftyt\\.com"
+      "rules": [
+        "fiftyt\\.com"
+      ]
+    },
+    "fksnk.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "fksnk\\.com"
+      ]
+    },
+    "flashtalking.com": {
+      "hardblock": false,
+      "owner": "Flashtalking",
+      "rules": [
+        "flashtalking\\.com"
+      ]
+    },
+    "foresee.com": {
+      "hardblock": true,
+      "owner": "ForeSee Results",
+      "rules": [
+        "foresee\\.com"
+      ]
+    },
+    "freeskreen.com": {
+      "hardblock": false,
+      "owner": "SlimCut Media",
+      "rules": [
+        "freeskreen\\.com"
+      ]
+    },
+    "fullstory.com": {
+      "hardblock": true,
+      "owner": "FullStory",
+      "rules": [
+        "fullstory\\.com"
+      ]
+    },
+    "fuseplatform.net": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "fuseplatform\\.net"
+      ]
     },
     "fwmrm.net": {
       "hardblock": true,
       "owner": "FreeWheel",
-      "rules": "fwmrm\\.net"
+      "rules": [
+        "fwmrm\\.net"
+      ]
+    },
+    "gammaplatform.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "gammaplatform\\.com"
+      ]
+    },
+    "geistm.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "geistm\\.com"
+      ]
     },
     "gemius.pl": {
       "hardblock": true,
       "owner": "Gemius",
-      "rules": "gemius\\.pl"
+      "rules": [
+        "gemius\\.pl"
+      ]
     },
     "getrockerbox.com": {
       "hardblock": true,
       "owner": "",
-      "rules": "getrockerbox\\.com"
+      "rules": [
+        "getrockerbox\\.com"
+      ]
+    },
+    "gjigle.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "gjigle\\.com"
+      ]
     },
     "go-mpulse.net": {
       "hardblock": true,
       "owner": "Akamai",
-      "rules": "go-mpulse\\.net"
+      "rules": [
+        "go-mpulse\\.net"
+      ]
     },
     "google-analytics.com": {
       "hardblock": true,
       "owner": "Google",
-      "rules": "google-analytics\\.com"
+      "rules": [
+        "google-analytics\\.com"
+      ]
     },
     "google.ca": {
       "hardblock": false,
       "owner": "Google",
-      "rules": "google\\.ca\\/coop\\/cse\\/brand"
+      "rules": [
+        "google\\.ca\\/coop\\/cse\\/brand"
+      ]
     },
     "google.co.uk": {
       "hardblock": false,
       "owner": "Google",
-      "rules": "google\\.co\\.uk\\/coop\\/cse\\/brand"
+      "rules": [
+        "google\\.co\\.uk\\/coop\\/cse\\/brand"
+      ]
     },
     "google.com.au": {
       "hardblock": false,
       "owner": "Google",
-      "rules": "google\\.com\\.au\\/coop\\/cse\\/brand"
+      "rules": [
+        "google\\.com\\.au\\/coop\\/cse\\/brand"
+      ]
     },
     "google.de": {
       "hardblock": false,
       "owner": "Google",
-      "rules": "google\\.de\\/coop\\/cse\\/brand|google\\.de\\/cse\\/brand"
+      "rules": [
+        "google\\.de\\/cse\\/brand",
+        "google\\.de\\/coop\\/cse\\/brand"
+      ]
     },
     "google.fr": {
       "hardblock": false,
       "owner": "Google",
-      "rules": "google\\.fr\\/cse\\/cse\\.js|google\\.fr\\/coop\\/cse\\/brand|google\\.fr\\/cse\\/brand"
+      "rules": [
+        "google\\.fr\\/cse\\/brand",
+        "google\\.fr\\/cse\\/cse\\.js",
+        "google\\.fr\\/coop\\/cse\\/brand"
+      ]
     },
     "google.nl": {
       "hardblock": false,
       "owner": "Google",
-      "rules": "google\\.nl\\/coop\\/cse\\/brand"
+      "rules": [
+        "google\\.nl\\/coop\\/cse\\/brand"
+      ]
     },
     "google.no": {
       "hardblock": false,
       "owner": "Google",
-      "rules": "google\\.no\\/maps\\/place\\/Trondheim+Torg\\/@63\\.4300569,10\\.3912726,17z\\/data=!3m1!4b1!4m5!3m4!1s0x466d319ae581504b:0xc035eda4f617f1f8!8m2!3d63\\.4300545!4d10\\.3934666"
+      "rules": [
+        "google\\.no\\/maps\\/place\\/Trondheim+Torg\\/@63\\.4300569,10\\.3912726,17z\\/data=!3m1!4b1!4m5!3m4!1s0x466d319ae581504b:0xc035eda4f617f1f8!8m2!3d63\\.4300545!4d10\\.3934666"
+      ]
     },
     "googleadservices.com": {
       "hardblock": true,
       "owner": "Google",
-      "rules": "googleadservices\\.com"
+      "rules": [
+        "googleadservices\\.com"
+      ]
     },
     "googleoptimize.com": {
       "hardblock": false,
       "owner": "Google",
-      "rules": "googleoptimize\\.com\\/optimize\\.js"
+      "rules": [
+        "googleoptimize\\.com\\/optimize\\.js"
+      ]
     },
     "googlesyndication.com": {
       "hardblock": true,
       "owner": "Google",
-      "rules": "googlesyndication\\.com"
+      "rules": [
+        "googlesyndication\\.com"
+      ]
     },
     "googletagmanager.com": {
       "hardblock": true,
       "owner": "Google",
-      "rules": "googletagmanager\\.com"
+      "rules": [
+        "googletagmanager\\.com"
+      ]
     },
     "googletagservices.com": {
       "hardblock": true,
       "owner": "Google",
-      "rules": "googletagservices\\.com"
+      "rules": [
+        "googletagservices\\.com"
+      ]
     },
     "gumgum.com": {
       "hardblock": true,
       "owner": "GumGum",
-      "rules": "gumgum\\.com"
+      "rules": [
+        "gumgum\\.com"
+      ]
+    },
+    "hcaptcha.com": {
+      "hardblock": false,
+      "owner": "Intuition Machines",
+      "rules": [
+        "hcaptcha\\.com\\/1\\/api\\.js",
+        "hcaptcha\\.com\\/captcha\\/v1\\/6024b64\\/hcaptcha-checkbox\\.js",
+        "hcaptcha\\.com\\/c\\/90b16760\\/hsl\\.js",
+        "hcaptcha\\.com\\/checksiteconfig",
+        "hcaptcha\\.com\\/c\\/90b16760\\/hsw\\.js",
+        "hcaptcha\\.com\\/captcha\\/v1\\/6024b64\\/hcaptcha-challenge\\.js"
+      ]
+    },
+    "hgrtb.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "hgrtb\\.com"
+      ]
     },
     "histats.com": {
       "hardblock": true,
       "owner": "wisecode",
-      "rules": "histats\\.com"
+      "rules": [
+        "histats\\.com"
+      ]
     },
     "hotjar.com": {
       "hardblock": true,
       "owner": "Hotjar",
-      "rules": "hotjar\\.com"
+      "rules": [
+        "hotjar\\.com"
+      ]
     },
     "hs-analytics.net": {
       "hardblock": true,
       "owner": "HubSpot",
-      "rules": "hs-analytics\\.net"
+      "rules": [
+        "hs-analytics\\.net"
+      ]
     },
     "hs-banner.com": {
       "hardblock": false,
       "owner": "HubSpot",
-      "rules": "hs-banner\\.com"
+      "rules": [
+        "hs-banner\\.com"
+      ]
+    },
+    "hsadspixel.net": {
+      "hardblock": true,
+      "owner": "HubSpot",
+      "rules": [
+        "hsadspixel\\.net"
+      ]
+    },
+    "hscollectedforms.net": {
+      "hardblock": false,
+      "owner": "HubSpot",
+      "rules": [
+        "hscollectedforms\\.net\\/collectedforms\\.js"
+      ]
+    },
+    "hsleadflows.net": {
+      "hardblock": true,
+      "owner": "HubSpot",
+      "rules": [
+        "hsleadflows\\.net"
+      ]
+    },
+    "hubapi.com": {
+      "hardblock": true,
+      "owner": "HubSpot",
+      "rules": [
+        "hubapi\\.com"
+      ]
     },
     "hubspot.com": {
       "hardblock": false,
       "owner": "HubSpot",
-      "rules": "hubspot\\.com\\/cartographer\\/v1\\/rhumb|hubspot\\.com\\/hs-fs\\/hub\\/327485\\/file-2054199286-css\\/font-awesome\\.css|hubspot\\.com\\/ctas\\/v2\\/public\\/cs\\/cta-json|hubspot\\.com\\/feedback-web-ui|hubspot\\.com\\/api-passthrough\\/meetings-public\\/v1\\/book|hubspot\\.com\\/forms\\/current\\.js|hubspot\\.com\\/api\\/1\\/store\\/|hubspot\\.com\\/feedback-web-fetcher|hubspot\\.com\\/odometer\\/odometer\\.js|hubspot\\.com\\/__ptq\\.gif|hubspot\\.com\\/collected-forms\\/v1\\/config\\/json|hubspot\\.com\\/ctas\\/v2\\/public\\/cs\\/loader-v2\\.js|hubspot\\.com\\/content-tools-menu\\/api\\/v1\\/tools-menu\\/has-permission|hubspot\\.com\\/lead-flows-config\\/v1\\/config\\/json|hubspot\\.com\\/__ptbe\\.gif|hubspot\\.com\\/livechat-public\\/v1\\/message\\/public|hubspot\\.com\\/cta\\/default|hubspot\\.com\\/analytics"
+      "rules": [
+        "hubspot\\.com\\/feedback-web-ui",
+        "hubspot\\.com\\/api\\/1\\/store\\/",
+        "hubspot\\.com\\/ctas\\/v2\\/public\\/cs\\/cta-json",
+        "hubspot\\.com\\/collected-forms\\/v1\\/config\\/json",
+        "hubspot\\.com\\/hs-fs\\/hub\\/327485\\/file-2054199286-css\\/font-awesome\\.css",
+        "hubspot\\.com\\/api-passthrough\\/meetings-public\\/v1\\/book",
+        "hubspot\\.com\\/odometer\\/odometer\\.js",
+        "hubspot\\.com\\/forms\\/current\\.js",
+        "hubspot\\.com\\/lead-flows-config\\/v1\\/config\\/json",
+        "hubspot\\.com\\/cartographer\\/v1\\/rhumb",
+        "hubspot\\.com\\/__ptq\\.gif",
+        "hubspot\\.com\\/livechat-public\\/v1\\/message\\/public",
+        "hubspot\\.com\\/ctas\\/v2\\/public\\/cs\\/loader-v2\\.js",
+        "hubspot\\.com\\/__ptbe\\.gif",
+        "hubspot\\.com\\/feedback-web-fetcher",
+        "hubspot\\.com\\/content-tools-menu\\/api\\/v1\\/tools-menu\\/has-permission",
+        "hubspot\\.com\\/cta\\/default",
+        "hubspot\\.com\\/analytics"
+      ]
+    },
+    "hubvisor.io": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "hubvisor\\.io"
+      ]
+    },
+    "iadvize.com": {
+      "hardblock": false,
+      "owner": "iAdvize",
+      "rules": [
+        "iadvize\\.com"
+      ]
     },
     "ib-ibi.com": {
       "hardblock": true,
       "owner": "KBM Group",
-      "rules": "ib-ibi\\.com"
+      "rules": [
+        "ib-ibi\\.com"
+      ]
     },
     "id5-sync.com": {
       "hardblock": true,
       "owner": "ID5",
-      "rules": "id5-sync\\.com"
+      "rules": [
+        "id5-sync\\.com"
+      ]
     },
     "igodigital.com": {
       "hardblock": true,
       "owner": "Salesforce.com",
-      "rules": "igodigital\\.com"
+      "rules": [
+        "igodigital\\.com"
+      ]
     },
     "im-apps.net": {
       "hardblock": true,
       "owner": "",
-      "rules": "im-apps\\.net"
+      "rules": [
+        "im-apps\\.net"
+      ]
     },
     "impact-ad.jp": {
       "hardblock": false,
       "owner": "Digital Advertising Consortium",
-      "rules": "impact-ad\\.jp"
+      "rules": [
+        "impact-ad\\.jp"
+      ]
     },
     "impactradius-event.com": {
       "hardblock": true,
       "owner": "Impact",
-      "rules": "impactradius-event\\.com"
+      "rules": [
+        "impactradius-event\\.com"
+      ]
     },
     "imrworldwide.com": {
       "hardblock": true,
       "owner": "The Nielsen Company",
-      "rules": "imrworldwide\\.com"
+      "rules": [
+        "imrworldwide\\.com"
+      ]
     },
     "indexww.com": {
       "hardblock": true,
       "owner": "Index Exchange",
-      "rules": "indexww\\.com"
+      "rules": [
+        "indexww\\.com"
+      ]
+    },
+    "infolinks.com": {
+      "hardblock": false,
+      "owner": "Infolink Media",
+      "rules": [
+        "infolinks\\.com"
+      ]
     },
     "innovid.com": {
       "hardblock": true,
       "owner": "Innovid Media",
-      "rules": "innovid\\.com"
+      "rules": [
+        "innovid\\.com"
+      ]
+    },
+    "instagram.com": {
+      "hardblock": false,
+      "owner": "Facebook",
+      "rules": [
+        "instagram\\.com"
+      ]
     },
     "intentiq.com": {
       "hardblock": true,
       "owner": "Intent IQ",
-      "rules": "intentiq\\.com"
+      "rules": [
+        "intentiq\\.com"
+      ]
+    },
+    "investingchannel.com": {
+      "hardblock": false,
+      "owner": "InvestingChannel",
+      "rules": [
+        "investingchannel\\.com"
+      ]
     },
     "ioam.de": {
       "hardblock": true,
       "owner": "INFOnline",
-      "rules": "ioam\\.de"
+      "rules": [
+        "ioam\\.de"
+      ]
     },
     "iocnt.net": {
       "hardblock": false,
       "owner": "INFOnline",
-      "rules": "iocnt\\.net\\/sensor\\.modern\\.ncl\\.min\\.js|iocnt\\.net\\/tx\\.io|iocnt\\.net\\/iam\\.js"
+      "rules": [
+        "iocnt\\.net\\/iam\\.js",
+        "iocnt\\.net\\/tx\\.io",
+        "iocnt\\.net\\/sensor\\.modern\\.ncl\\.min\\.js"
+      ]
     },
     "ipredictive.com": {
       "hardblock": true,
       "owner": "Adelphic",
-      "rules": "ipredictive\\.com"
+      "rules": [
+        "ipredictive\\.com"
+      ]
     },
     "ispot.tv": {
       "hardblock": true,
       "owner": "iSpot.tv",
-      "rules": "ispot\\.tv"
+      "rules": [
+        "ispot\\.tv"
+      ]
+    },
+    "iubenda.com": {
+      "hardblock": false,
+      "owner": "iubenda",
+      "rules": [
+        "iubenda\\.com\\/assets\\/privacy_policy-b6e881b6ade036db56b1c2b47415a0c1aa0e3b8b19dc3fe77d71a7eb83abb75b\\.js",
+        "iubenda\\.com\\/iubenda_i_badge\\.js",
+        "iubenda\\.com\\/cons\\/iubenda_cons\\/core-d13457ea62a8467d0d5fdb91772f14a5\\.js",
+        "iubenda\\.com\\/cs\\/tcf\\/safe-tcf-v2\\.js",
+        "iubenda\\.com\\/iubenda\\.js",
+        "iubenda\\.com\\/cookie_solution\\/iubenda_cs"
+      ]
+    },
+    "jads.co": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "jads\\.co"
+      ]
+    },
+    "js7k.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "js7k\\.com"
+      ]
     },
     "juicyads.com": {
       "hardblock": true,
       "owner": "JuicyAds",
-      "rules": "juicyads\\.com"
+      "rules": [
+        "juicyads\\.com"
+      ]
     },
     "justpremium.com": {
       "hardblock": true,
       "owner": "JustPremium",
-      "rules": "justpremium\\.com"
+      "rules": [
+        "justpremium\\.com"
+      ]
+    },
+    "kameleoon.eu": {
+      "hardblock": false,
+      "owner": "Kameleoon",
+      "rules": [
+        "kameleoon\\.eu\\/kameleoon\\.js"
+      ]
+    },
+    "kampyle.com": {
+      "hardblock": false,
+      "owner": "Medallia",
+      "rules": [
+        "kampyle\\.com"
+      ]
     },
     "kargo.com": {
       "hardblock": true,
       "owner": "Kargo",
-      "rules": "kargo\\.com"
+      "rules": [
+        "kargo\\.com"
+      ]
+    },
+    "klarnaservices.com": {
+      "hardblock": false,
+      "owner": "Klarna Bank",
+      "rules": [
+        "klarnaservices\\.com\\/merchant\\.js",
+        "klarnaservices\\.com\\/lib\\.js"
+      ]
     },
     "klaviyo.com": {
       "hardblock": false,
       "owner": "Klaviyo",
-      "rules": "klaviyo\\.com"
+      "rules": [
+        "klaviyo\\.com"
+      ]
     },
     "krxd.net": {
       "hardblock": true,
       "owner": "Salesforce.com",
-      "rules": "krxd\\.net"
+      "rules": [
+        "krxd\\.net"
+      ]
+    },
+    "lacmp.net": {
+      "hardblock": false,
+      "owner": "lead alliance",
+      "rules": [
+        "lacmp\\.net\\/lila\\.js"
+      ]
     },
     "ladsp.com": {
       "hardblock": true,
       "owner": "So-net Media Networks",
-      "rules": "ladsp\\.com"
+      "rules": [
+        "ladsp\\.com"
+      ]
+    },
+    "leadplace.fr": {
+      "hardblock": false,
+      "owner": "LEADPLACE",
+      "rules": [
+        "leadplace\\.fr\\/wapcrto\\.php",
+        "leadplace\\.fr\\/wckr\\.php",
+        "leadplace\\.fr\\/libJsLP\\.js",
+        "leadplace\\.fr\\/sync-uid\\.php"
+      ]
+    },
+    "lendingtree.com": {
+      "hardblock": false,
+      "owner": "LendingTree",
+      "rules": [
+        "lendingtree\\.com"
+      ]
     },
     "liadm.com": {
       "hardblock": true,
       "owner": "LiveIntent",
-      "rules": "liadm\\.com"
+      "rules": [
+        "liadm\\.com"
+      ]
     },
     "lijit.com": {
       "hardblock": true,
       "owner": "Sovrn Holdings",
-      "rules": "lijit\\.com"
+      "rules": [
+        "lijit\\.com"
+      ]
     },
     "linkedin.com": {
       "hardblock": false,
       "owner": "Microsoft",
-      "rules": "linkedin\\.com\\/countserv\\/count\\/share|linkedin\\.com\\/px\\/li_sync|linkedin\\.com\\/setuid|linkedin\\.com\\/collect|linkedin\\.com\\/video\\/embed\\/live\\/urn:li:ugcPost:6777973583273709568|linkedin\\.com\\/pages-extensions\\/FollowCompany|linkedin\\.com\\/embed\\/feed\\/update\\/urn:li:share:6848659492872175616|linkedin\\.com\\/in\\.js|linkedin\\.com\\/xdoor\\/scripts\\/in\\.js|linkedin\\.com\\/pages-extensions\\/FollowCompany\\.js|linkedin\\.com\\/collect\\/"
+      "rules": [
+        "linkedin\\.com\\/xdoor\\/scripts\\/in\\.js",
+        "linkedin\\.com\\/pages-extensions\\/FollowCompany",
+        "linkedin\\.com\\/collect\\/",
+        "linkedin\\.com\\/embed\\/feed\\/update\\/urn:li:share:6848659492872175616",
+        "linkedin\\.com\\/px\\/li_sync",
+        "linkedin\\.com\\/in\\.js",
+        "linkedin\\.com\\/setuid",
+        "linkedin\\.com\\/video\\/embed\\/live\\/urn:li:ugcPost:6777973583273709568",
+        "linkedin\\.com\\/collect",
+        "linkedin\\.com\\/countserv\\/count\\/share",
+        "linkedin\\.com\\/pages-extensions\\/FollowCompany\\.js"
+      ]
     },
     "linksynergy.com": {
       "hardblock": true,
       "owner": "Rakuten",
-      "rules": "linksynergy\\.com"
+      "rules": [
+        "linksynergy\\.com"
+      ]
+    },
+    "list-manage.com": {
+      "hardblock": false,
+      "owner": "The Rocket Science Group",
+      "rules": [
+        "list-manage\\.com\\/subscribe\\/form-settings"
+      ]
     },
     "livechatinc.com": {
       "hardblock": false,
       "owner": "LiveChat",
-      "rules": "livechatinc\\.com\\/customer\\/token|livechatinc\\.com\\/widget\\/static\\/js\\/0\\.62bfa686\\.chunk\\.js|livechatinc\\.com\\/tracking\\.js|livechatinc\\.com\\/widget\\/static\\/js\\/3\\.feadd832\\.chunk\\.js|livechatinc\\.com\\/widget\\/static\\/js\\/iframe\\.cbad4294\\.chunk\\.js"
+      "rules": [
+        "livechatinc\\.com\\/customer",
+        "livechatinc\\.com\\/v3\\.2\\/customer\\/rtm\\/sjs\\/info",
+        "livechatinc\\.com\\/customer\\/token",
+        "livechatinc\\.com\\/tracking\\.js",
+        "livechatinc\\.com\\/licence",
+        "livechatinc\\.com\\/widget\\/static\\/js",
+        "livechatinc\\.com\\/api\\/v1\\/script"
+      ]
+    },
+    "liveperson.net": {
+      "hardblock": false,
+      "owner": "LivePerson",
+      "rules": [
+        "liveperson\\.net\\/apply-bot-window-styles\\/applyBotWindowLEstyles\\.js",
+        "liveperson\\.net\\/hcp\\/html\\/mTag\\.js",
+        "liveperson\\.net\\/gs\\/js\\/gk\\.js",
+        "liveperson\\.net\\/tag\\/tag\\.js",
+        "liveperson\\.net\\/hcp\\/html\\/postmessage\\.min\\.html",
+        "liveperson\\.net\\/visitor\\/addons\\/deploy\\.asp",
+        "liveperson\\.net\\/postmessage\\/postmessage\\.min\\.html",
+        "liveperson\\.net\\/ABC\\/js\\/channelselect\\.js",
+        "liveperson\\.net\\/device-detection\\/script\\.js",
+        "liveperson\\.net\\/lptag\\/api\\/account",
+        "liveperson\\.net\\/api\\/js"
+      ]
+    },
+    "lkqd.net": {
+      "hardblock": true,
+      "owner": "Nexstar Media Group",
+      "rules": [
+        "lkqd\\.net"
+      ]
     },
     "loopme.me": {
       "hardblock": true,
       "owner": "LoopMe",
-      "rules": "loopme\\.me"
+      "rules": [
+        "loopme\\.me"
+      ]
     },
     "lp4.io": {
       "hardblock": true,
       "owner": "",
-      "rules": "lp4\\.io"
+      "rules": [
+        "lp4\\.io"
+      ]
+    },
+    "lpsnmedia.net": {
+      "hardblock": false,
+      "owner": "LivePerson",
+      "rules": [
+        "lpsnmedia\\.net\\/le_secure_storage\\/3\\.12\\.0\\.0-release_5037\\/storage\\.secure\\.min\\.html",
+        "lpsnmedia\\.net\\/api\\/chat\\/public\\/lpChat\\.min\\.js",
+        "lpsnmedia\\.net\\/le_secure_storage\\/3\\.13\\.1\\.0-release_5043\\/storage\\.secure\\.min\\.html",
+        "lpsnmedia\\.net\\/le_secure_storage\\/3\\.13\\.1\\.0-release_5043\\/storage\\.secure\\.min\\.js",
+        "lpsnmedia\\.net\\/le_secure_storage\\/3\\.12\\.0\\.0-release_5037\\/storage\\.secure\\.min\\.js",
+        "lpsnmedia\\.net\\/le_re\\/3\\.48\\.0\\.2-release_5097\\/jsv2\\/slider\\.js",
+        "lpsnmedia\\.net\\/le_re\\/3\\.48\\.0\\.2-release_5097\\/jsv2\\/UISuite\\.js"
+      ]
+    },
+    "mail.ru": {
+      "hardblock": false,
+      "owner": "Mail.Ru",
+      "rules": [
+        "mail\\.ru\\/sdk\\/v0\\.12\\.0\\/oauth\\.js",
+        "mail\\.ru\\/tracker",
+        "mail\\.ru\\/datalayer",
+        "mail\\.ru\\/counter2",
+        "mail\\.ru\\/js\\/loader\\.js",
+        "mail\\.ru\\/cm\\.gif",
+        "mail\\.ru\\/d89902879\\.gif",
+        "mail\\.ru\\/media\\/vendor\\.js",
+        "mail\\.ru\\/counter",
+        "mail\\.ru\\/static\\/ads-async\\.js",
+        "mail\\.ru\\/media\\/login\\.js",
+        "mail\\.ru\\/js\\/code\\.js",
+        "mail\\.ru\\/pulse-widget\\.js",
+        "mail\\.ru\\/login"
+      ]
+    },
+    "mailchimp.com": {
+      "hardblock": false,
+      "owner": "The Rocket Science Group",
+      "rules": [
+        "mailchimp\\.com\\/js\\/signup-forms\\/popup\\/unique-methods\\/56e7ecd72519300e38d4c8e42744c00035f2bf09\\/popup\\.js",
+        "mailchimp\\.com\\/js\\/signup-forms\\/popup\\/embed\\.js",
+        "mailchimp\\.com\\/js\\/signup-forms\\/popup\\/unique-methods\\/embed\\.js",
+        "mailchimp\\.com\\/js\\/signup-forms\\/popup\\/56e7ecd72519300e38d4c8e42744c00035f2bf09\\/popup\\.js"
+      ]
     },
     "marketo.net": {
       "hardblock": false,
       "owner": "Adobe",
-      "rules": "marketo\\.net"
+      "rules": [
+        "marketo\\.net"
+      ]
+    },
+    "massariuscdn.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "massariuscdn\\.com"
+      ]
     },
     "mathtag.com": {
       "hardblock": true,
       "owner": "MediaMath",
-      "rules": "mathtag\\.com"
+      "rules": [
+        "mathtag\\.com"
+      ]
     },
     "media.net": {
       "hardblock": true,
       "owner": "Media.net Advertising",
-      "rules": "media\\.net"
+      "rules": [
+        "media\\.net"
+      ]
+    },
+    "media6degrees.com": {
+      "hardblock": true,
+      "owner": "Dstillery",
+      "rules": [
+        "media6degrees\\.com"
+      ]
     },
     "mediarithmics.com": {
       "hardblock": false,
       "owner": "mediarithmics",
-      "rules": "mediarithmics\\.com\\/v1\\/getids|mediarithmics\\.com\\/input|mediarithmics\\.com\\/tag\\/1\\/tag\\.min\\.js|mediarithmics\\.com\\/tag\\/2\\/tag\\.min\\.js"
+      "rules": [
+        "mediarithmics\\.com\\/input",
+        "mediarithmics\\.com\\/v1\\/getids",
+        "mediarithmics\\.com\\/tag\\/2\\/tag\\.min\\.js",
+        "mediarithmics\\.com\\/tag\\/1\\/tag\\.min\\.js"
+      ]
     },
     "mediavine.com": {
       "hardblock": true,
       "owner": "Mediavine",
-      "rules": "mediavine\\.com"
+      "rules": [
+        "mediavine\\.com"
+      ]
     },
     "medietall.no": {
       "hardblock": true,
       "owner": "",
-      "rules": "medietall\\.no"
+      "rules": [
+        "medietall\\.no"
+      ]
+    },
+    "meetrics.net": {
+      "hardblock": true,
+      "owner": "Meetrics",
+      "rules": [
+        "meetrics\\.net"
+      ]
     },
     "mfadsrvr.com": {
       "hardblock": true,
       "owner": "IPONWEB",
-      "rules": "mfadsrvr\\.com"
+      "rules": [
+        "mfadsrvr\\.com"
+      ]
+    },
+    "mgid.com": {
+      "hardblock": true,
+      "owner": "MGID",
+      "rules": [
+        "mgid\\.com"
+      ]
+    },
+    "micpn.com": {
+      "hardblock": true,
+      "owner": "Movable Ink",
+      "rules": [
+        "micpn\\.com"
+      ]
     },
     "mktoresp.com": {
       "hardblock": false,
       "owner": "Adobe",
-      "rules": "mktoresp\\.com\\/webevents\\/visitWebPage"
+      "rules": [
+        "mktoresp\\.com\\/webevents\\/visitWebPage"
+      ]
     },
     "ml314.com": {
       "hardblock": true,
       "owner": "Bombora",
-      "rules": "ml314\\.com"
+      "rules": [
+        "ml314\\.com"
+      ]
     },
     "moatads.com": {
       "hardblock": true,
       "owner": "Oracle",
-      "rules": "moatads\\.com"
+      "rules": [
+        "moatads\\.com"
+      ]
     },
     "mobileadtrading.com": {
       "hardblock": true,
       "owner": "Somo Audience",
-      "rules": "mobileadtrading\\.com"
+      "rules": [
+        "mobileadtrading\\.com"
+      ]
+    },
+    "monetate.net": {
+      "hardblock": false,
+      "owner": "Monetate",
+      "rules": [
+        "monetate\\.net\\/js\\/3\\/a-94d0efa6\\/p\\/size\\.co\\.uk\\/t1623875675\\/5503d3726f70dd1d\\/custom\\.js",
+        "monetate\\.net\\/js\\/2\\/a-94d0efa6\\/p\\/size\\.co\\.uk\\/entry\\.js"
+      ]
     },
     "monsido.com": {
       "hardblock": false,
       "owner": "Monsido",
-      "rules": "monsido\\.com\\/v1\\/heatmaps\\.js|monsido\\.com\\/v2\\/monsido-script\\.js|monsido\\.com\\/v1\\/page-correct\\.js|monsido\\.com\\/tool\\/javascripts\\/monsido\\.js"
+      "rules": [
+        "monsido\\.com\\/v2\\/monsido-script\\.js",
+        "monsido\\.com\\/tool\\/javascripts\\/monsido\\.js",
+        "monsido\\.com\\/v1\\/page-correct\\.js",
+        "monsido\\.com\\/v1\\/heatmaps\\.js"
+      ]
     },
     "mookie1.com": {
       "hardblock": true,
       "owner": "Xaxis",
-      "rules": "mookie1\\.com"
+      "rules": [
+        "mookie1\\.com"
+      ]
+    },
+    "mopinion.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "mopinion\\.com"
+      ]
+    },
+    "mparticle.com": {
+      "hardblock": false,
+      "owner": "mParticle",
+      "rules": [
+        "mparticle\\.com\\/js\\/v2"
+      ]
+    },
+    "msgose.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "msgose\\.com"
+      ]
     },
     "mxptint.net": {
       "hardblock": true,
       "owner": "Valassis Digital",
-      "rules": "mxptint\\.net"
+      "rules": [
+        "mxptint\\.net"
+      ]
+    },
+    "myfonts.net": {
+      "hardblock": false,
+      "owner": "MyFonts",
+      "rules": [
+        "myfonts\\.net\\/count"
+      ]
+    },
+    "myvisualiq.net": {
+      "hardblock": true,
+      "owner": "The Nielsen Company",
+      "rules": [
+        "myvisualiq\\.net"
+      ]
     },
     "narrative.io": {
       "hardblock": true,
       "owner": "",
-      "rules": "narrative\\.io"
+      "rules": [
+        "narrative\\.io"
+      ]
+    },
+    "nativendo.de": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "nativendo\\.de"
+      ]
+    },
+    "netmng.com": {
+      "hardblock": true,
+      "owner": "IgnitionOne",
+      "rules": [
+        "netmng\\.com"
+      ]
+    },
+    "neto.com.au": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "neto\\.com\\.au"
+      ]
+    },
+    "netostatic.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "netostatic\\.com"
+      ]
     },
     "newrelic.com": {
       "hardblock": true,
       "owner": "New Relic",
-      "rules": "newrelic\\.com"
+      "rules": [
+        "newrelic\\.com"
+      ]
+    },
+    "ninthdecimal.com": {
+      "hardblock": true,
+      "owner": "NinthDecimal",
+      "rules": [
+        "ninthdecimal\\.com"
+      ]
+    },
+    "nosto.com": {
+      "hardblock": false,
+      "owner": "Nosto Solutions",
+      "rules": [
+        "nosto\\.com\\/ev1",
+        "nosto\\.com\\/script\\/shopify\\/nosto\\.js",
+        "nosto\\.com\\/cmp-mapping\\/magento",
+        "nosto\\.com\\/public\\/javascripts\\/behav-popup\\.min\\.js"
+      ]
+    },
+    "notifpush.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "notifpush\\.com"
+      ]
+    },
+    "npo.nl": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "npo\\.nl"
+      ]
     },
     "nr-data.net": {
       "hardblock": true,
       "owner": "New Relic",
-      "rules": "nr-data\\.net"
+      "rules": [
+        "nr-data\\.net"
+      ]
     },
     "nrich.ai": {
       "hardblock": true,
       "owner": "",
-      "rules": "nrich\\.ai"
+      "rules": [
+        "nrich\\.ai"
+      ]
     },
     "ntv.io": {
       "hardblock": true,
       "owner": "Nativo",
-      "rules": "ntv\\.io"
+      "rules": [
+        "ntv\\.io"
+      ]
+    },
+    "nytrng.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "nytrng\\.com"
+      ]
     },
     "omappapi.com": {
       "hardblock": false,
       "owner": "Retyp",
-      "rules": "omappapi\\.com"
+      "rules": [
+        "omappapi\\.com"
+      ]
     },
     "omnitagjs.com": {
       "hardblock": true,
       "owner": "Adyoulike",
-      "rules": "omnitagjs\\.com"
+      "rules": [
+        "omnitagjs\\.com"
+      ]
     },
     "omtrdc.net": {
       "hardblock": true,
       "owner": "Adobe",
-      "rules": "omtrdc\\.net"
+      "rules": [
+        "omtrdc\\.net"
+      ]
     },
     "onaudience.com": {
       "hardblock": false,
       "owner": "OnAudience",
-      "rules": "onaudience\\.com\\/"
+      "rules": [
+        "onaudience\\.com\\/"
+      ]
     },
     "onesignal.com": {
       "hardblock": false,
       "owner": "OneSignal",
-      "rules": "onesignal\\.com\\/sdks\\/OneSignalSDK\\.js|onesignal\\.com\\/sdks\\/OneSignalPageSDKES6\\.js"
+      "rules": [
+        "onesignal\\.com\\/sdks\\/OneSignalSDK\\.js",
+        "onesignal\\.com\\/sdks\\/OneSignalPageSDKES6\\.js"
+      ]
     },
     "onetag-sys.com": {
       "hardblock": false,
       "owner": "OneTag",
-      "rules": "onetag-sys\\.com"
+      "rules": [
+        "onetag-sys\\.com"
+      ]
     },
     "onetrust.com": {
       "hardblock": false,
       "owner": "OneTrust",
-      "rules": "onetrust\\.com\\/consent\\/4573a855-536f-40b7-a72a-feb94e671da3\\.js|onetrust\\.com\\/scripttemplates|onetrust\\.com\\/dsarwebform\\/6"
+      "rules": [
+        "onetrust\\.com\\/consent\\/4573a855-536f-40b7-a72a-feb94e671da3\\.js",
+        "onetrust\\.com\\/scripttemplates",
+        "onetrust\\.com\\/dsarwebform\\/6"
+      ]
     },
     "opecloud.com": {
       "hardblock": true,
       "owner": "",
-      "rules": "opecloud\\.com"
+      "rules": [
+        "opecloud\\.com"
+      ]
+    },
+    "opencmp.net": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "opencmp\\.net"
+      ]
     },
     "openx.net": {
       "hardblock": true,
       "owner": "OpenX",
-      "rules": "openx\\.net"
+      "rules": [
+        "openx\\.net"
+      ]
     },
     "opera.com": {
       "hardblock": false,
       "owner": "Opera Software",
-      "rules": "opera\\.com\\/pub\\/sync|opera\\.com\\/sync|opera\\.com\\/ortb\\/v2\\/pub3054952966336|opera\\.com\\/ortb\\/v2\\/pub5634556642048|opera\\.com\\/ortb\\/v2\\/pub5644548548544"
+      "rules": [
+        "opera\\.com\\/sync",
+        "opera\\.com\\/pub\\/sync",
+        "opera\\.com\\/ortb\\/v2"
+      ]
     },
     "outbrain.com": {
       "hardblock": true,
       "owner": "Outbrain",
-      "rules": "outbrain\\.com"
+      "rules": [
+        "outbrain\\.com"
+      ]
     },
     "owneriq.net": {
       "hardblock": true,
       "owner": "Inmar",
-      "rules": "owneriq\\.net"
+      "rules": [
+        "owneriq\\.net"
+      ]
+    },
+    "pardot.com": {
+      "hardblock": false,
+      "owner": "Salesforce.com",
+      "rules": [
+        "pardot\\.com"
+      ]
     },
     "parsely.com": {
       "hardblock": true,
       "owner": "Parsely",
-      "rules": "parsely\\.com"
+      "rules": [
+        "parsely\\.com"
+      ]
     },
     "pbstck.com": {
       "hardblock": true,
       "owner": "",
-      "rules": "pbstck\\.com"
+      "rules": [
+        "pbstck\\.com"
+      ]
+    },
+    "pdst.fm": {
+      "hardblock": false,
+      "owner": "Podsights",
+      "rules": [
+        "pdst\\.fm\\/ping\\.min\\.js"
+      ]
+    },
+    "perfectmarket.com": {
+      "hardblock": true,
+      "owner": "Perfect Market",
+      "rules": [
+        "perfectmarket\\.com"
+      ]
     },
     "permutive.app": {
       "hardblock": true,
       "owner": "",
-      "rules": "permutive\\.app"
+      "rules": [
+        "permutive\\.app"
+      ]
     },
     "permutive.com": {
       "hardblock": true,
       "owner": "Permutive",
-      "rules": "permutive\\.com"
+      "rules": [
+        "permutive\\.com"
+      ]
+    },
+    "piano.io": {
+      "hardblock": false,
+      "owner": "Piano Software",
+      "rules": [
+        "piano\\.io\\/api\\/tinypass\\.min\\.js",
+        "piano\\.io\\/api\\/v3\\/anon\\/template\\/loadTemplateContext",
+        "piano\\.io\\/_sam\\/H4sIAAAAAAAAAD3IwQ6AIAgA0B9KmJ76m4bJHI6oBa7f7-bt7eEnrXNgEw8Mvh6lYBy-DHVaU95QpTqS9an0pgwFSkHJu63T-yTlgy1Nh-E_BjVxNVoAAAA",
+        "piano\\.io\\/xbuilder\\/experience\\/load",
+        "piano\\.io\\/public\\/sdk\\/v04\\/sdk\\.js",
+        "piano\\.io\\/id\\/api\\/v1\\/identity\\/token\\/verify",
+        "piano\\.io\\/public\\/sdk\\/vx\\/widgets\\/rec_onsite_embedded\\/displayer\\.js",
+        "piano\\.io\\/tracker\\/lucid\\/visit",
+        "piano\\.io\\/publisher\\/fusion\\/lucid\\/data"
+      ]
     },
     "pingdom.net": {
       "hardblock": true,
       "owner": "Pingdom",
-      "rules": "pingdom\\.net"
+      "rules": [
+        "pingdom\\.net"
+      ]
     },
     "pippio.com": {
       "hardblock": true,
       "owner": "LiveRamp",
-      "rules": "pippio\\.com"
+      "rules": [
+        "pippio\\.com"
+      ]
     },
     "playground.xyz": {
       "hardblock": true,
       "owner": "PLAYGROUND XYZ",
-      "rules": "playground\\.xyz"
+      "rules": [
+        "playground\\.xyz"
+      ]
     },
     "postrelease.com": {
       "hardblock": true,
       "owner": "Nativo",
-      "rules": "postrelease\\.com"
+      "rules": [
+        "postrelease\\.com"
+      ]
+    },
+    "primis.tech": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "primis\\.tech"
+      ]
     },
     "privacy-center.org": {
       "hardblock": true,
       "owner": "",
-      "rules": "privacy-center\\.org"
+      "rules": [
+        "privacy-center\\.org"
+      ]
     },
     "privacy-mgmt.com": {
       "hardblock": true,
       "owner": "",
-      "rules": "privacy-mgmt\\.com"
+      "rules": [
+        "privacy-mgmt\\.com"
+      ]
     },
     "privacymanager.io": {
       "hardblock": true,
       "owner": "",
-      "rules": "privacymanager\\.io"
+      "rules": [
+        "privacymanager\\.io"
+      ]
     },
     "prmutv.co": {
       "hardblock": true,
       "owner": "",
-      "rules": "prmutv\\.co"
+      "rules": [
+        "prmutv\\.co"
+      ]
     },
     "pro-market.net": {
       "hardblock": true,
       "owner": "Datonics",
-      "rules": "pro-market\\.net"
+      "rules": [
+        "pro-market\\.net"
+      ]
+    },
+    "promo-bc.com": {
+      "hardblock": false,
+      "owner": "BongaCams",
+      "rules": [
+        "promo-bc\\.com\\/promo\\.php"
+      ]
     },
     "pswec.com": {
       "hardblock": true,
       "owner": "Proclivity Media",
-      "rules": "pswec\\.com"
+      "rules": [
+        "pswec\\.com"
+      ]
+    },
+    "pub.network": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "pub\\.network"
+      ]
     },
     "pubmatic.com": {
       "hardblock": true,
       "owner": "PubMatic",
-      "rules": "pubmatic\\.com"
+      "rules": [
+        "pubmatic\\.com"
+      ]
     },
     "qualtrics.com": {
       "hardblock": false,
       "owner": "Qualtrics",
-      "rules": "qualtrics\\.com\\/jfe|qualtrics\\.com\\/dxjsmodule"
+      "rules": [
+        "qualtrics\\.com\\/SE\\/",
+        "qualtrics\\.com\\/jfe",
+        "qualtrics\\.com\\/dxjsmodule"
+      ]
     },
     "quantserve.com": {
       "hardblock": true,
       "owner": "Quantcast",
-      "rules": "quantserve\\.com"
+      "rules": [
+        "quantserve\\.com"
+      ]
+    },
+    "quantummetric.com": {
+      "hardblock": false,
+      "owner": "Quantum Metric",
+      "rules": [
+        "quantummetric\\.com"
+      ]
     },
     "quora.com": {
       "hardblock": false,
       "owner": "Quora",
-      "rules": "quora\\.com\\/qevents\\.js"
+      "rules": [
+        "quora\\.com\\/widgets\\/content",
+        "quora\\.com\\/qevents\\.js"
+      ]
     },
     "r-ad.ne.jp": {
       "hardblock": true,
       "owner": "",
-      "rules": "r-ad\\.ne\\.jp"
+      "rules": [
+        "r-ad\\.ne\\.jp"
+      ]
+    },
+    "rakuten.com": {
+      "hardblock": false,
+      "owner": "Rakuten",
+      "rules": [
+        "rakuten\\.com\\/123822\\.ct\\.js",
+        "rakuten\\.com\\/",
+        "rakuten\\.com\\/111633\\.ct\\.js"
+      ]
+    },
+    "rambler.ru": {
+      "hardblock": true,
+      "owner": "Rambler Internet Holding",
+      "rules": [
+        "rambler\\.ru"
+      ]
+    },
+    "ravenjs.com": {
+      "hardblock": true,
+      "owner": "Functional Software",
+      "rules": [
+        "ravenjs\\.com"
+      ]
+    },
+    "readspeaker.com": {
+      "hardblock": false,
+      "owner": "ReadSpeaker Holding",
+      "rules": [
+        "readspeaker\\.com\\/script"
+      ]
     },
     "realsrv.com": {
       "hardblock": true,
       "owner": "ExoClick",
-      "rules": "realsrv\\.com"
+      "rules": [
+        "realsrv\\.com"
+      ]
     },
     "realvu.net": {
       "hardblock": true,
       "owner": "RealVu",
-      "rules": "realvu\\.net"
+      "rules": [
+        "realvu\\.net"
+      ]
     },
     "reddit.com": {
       "hardblock": false,
       "owner": "Reddit",
-      "rules": "reddit\\.com\\/api\\/info\\.json|reddit\\.com\\/button_info\\.json|reddit\\.com\\/static|reddit\\.com\\/r"
+      "rules": [
+        "reddit\\.com\\/api\\/info\\.json",
+        "reddit\\.com\\/button_info\\.json",
+        "reddit\\.com\\/static",
+        "reddit\\.com\\/r"
+      ]
     },
     "redditstatic.com": {
       "hardblock": true,
       "owner": "Reddit",
-      "rules": "redditstatic\\.com"
+      "rules": [
+        "redditstatic\\.com"
+      ]
     },
     "resetdigital.co": {
       "hardblock": false,
       "owner": "Reset Digital",
-      "rules": "resetdigital\\.co"
+      "rules": [
+        "resetdigital\\.co"
+      ]
+    },
+    "reson8.com": {
+      "hardblock": true,
+      "owner": "Resonate Networks",
+      "rules": [
+        "reson8\\.com"
+      ]
+    },
+    "revcontent.com": {
+      "hardblock": true,
+      "owner": "RevContent",
+      "rules": [
+        "revcontent\\.com"
+      ]
+    },
+    "revjet.com": {
+      "hardblock": true,
+      "owner": "RevJet",
+      "rules": [
+        "revjet\\.com"
+      ]
     },
     "rezync.com": {
       "hardblock": true,
       "owner": "Zeta Global",
-      "rules": "rezync\\.com"
+      "rules": [
+        "rezync\\.com"
+      ]
     },
     "rfihub.com": {
       "hardblock": true,
       "owner": "Zeta Global",
-      "rules": "rfihub\\.com"
+      "rules": [
+        "rfihub\\.com"
+      ]
     },
     "richaudience.com": {
       "hardblock": false,
       "owner": "Rich Audience",
-      "rules": "richaudience\\.com"
+      "rules": [
+        "richaudience\\.com"
+      ]
     },
     "rkdms.com": {
       "hardblock": true,
       "owner": "Merkle",
-      "rules": "rkdms\\.com"
+      "rules": [
+        "rkdms\\.com"
+      ]
     },
     "rlcdn.com": {
       "hardblock": true,
       "owner": "LiveRamp",
-      "rules": "rlcdn\\.com"
+      "rules": [
+        "rlcdn\\.com"
+      ]
+    },
+    "rncdn7.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "rncdn7\\.com"
+      ]
+    },
+    "roymorgan.com": {
+      "hardblock": false,
+      "owner": "Roy Morgan Research",
+      "rules": [
+        "roymorgan\\.com\\/stats_v2\\/Tress\\.php"
+      ]
+    },
+    "rqtrk.eu": {
+      "hardblock": true,
+      "owner": "Roq.ad",
+      "rules": [
+        "rqtrk\\.eu"
+      ]
     },
     "rubiconproject.com": {
       "hardblock": true,
       "owner": "The Rubicon Project",
-      "rules": "rubiconproject\\.com"
+      "rules": [
+        "rubiconproject\\.com"
+      ]
     },
     "rundsp.com": {
       "hardblock": true,
       "owner": "RUN",
-      "rules": "rundsp\\.com"
+      "rules": [
+        "rundsp\\.com"
+      ]
     },
     "s-onetag.com": {
       "hardblock": true,
       "owner": "Sovrn Holdings",
-      "rules": "s-onetag\\.com"
+      "rules": [
+        "s-onetag\\.com"
+      ]
     },
     "s3xified.com": {
       "hardblock": true,
       "owner": "AdMedia",
-      "rules": "s3xified\\.com"
+      "rules": [
+        "s3xified\\.com"
+      ]
     },
     "sail-horizon.com": {
       "hardblock": false,
       "owner": "Sailthru",
-      "rules": "sail-horizon\\.com\\/horizon\\/v1\\.js|sail-horizon\\.com\\/spm\\/spm\\.v1\\.min\\.js"
+      "rules": [
+        "sail-horizon\\.com\\/spm\\/spm\\.v1\\.min\\.js",
+        "sail-horizon\\.com\\/horizon\\/v1\\.js"
+      ]
+    },
+    "salesforceliveagent.com": {
+      "hardblock": false,
+      "owner": "Salesforce.com",
+      "rules": [
+        "salesforceliveagent\\.com\\/content\\/test\\/webdriver\\/channelMenuLogging\\.js",
+        "salesforceliveagent\\.com\\/content\\/images\\/x\\.png",
+        "salesforceliveagent\\.com\\/content\\/g\\/deployment\\.js",
+        "salesforceliveagent\\.com\\/chat\\/rest\\/Visitor\\/Settings\\.jsonp",
+        "salesforceliveagent\\.com\\/chat\\/rest\\/System\\/MultiNoun\\.jsonp",
+        "salesforceliveagent\\.com\\/chat\\/rest\\/EmbeddedService\\/EmbeddedServiceMenu\\.jsonp",
+        "salesforceliveagent\\.com\\/chat\\/rest\\/Visitor\\/Availability\\.jsonp",
+        "salesforceliveagent\\.com\\/content\\/test\\/webdriver\\/logChannelMenu\\.html",
+        "salesforceliveagent\\.com\\/chat\\/rest\\/EmbeddedService\\/EmbeddedServiceConfig\\.jsonp",
+        "salesforceliveagent\\.com\\/content\\/g\\/js"
+      ]
+    },
+    "samba.tv": {
+      "hardblock": false,
+      "owner": "Free Stream Media",
+      "rules": [
+        "samba\\.tv\\/cookie_sync"
+      ]
+    },
+    "samplicio.us": {
+      "hardblock": true,
+      "owner": "Lucid Holdings",
+      "rules": [
+        "samplicio\\.us"
+      ]
     },
     "sc-static.net": {
       "hardblock": false,
       "owner": "Snap",
-      "rules": "sc-static\\.net\\/scevent-gtm\\.min\\.js|sc-static\\.net\\/scevent\\.min\\.js"
+      "rules": [
+        "sc-static\\.net\\/scevent-gtm\\.min\\.js",
+        "sc-static\\.net\\/scevent\\.min\\.js"
+      ]
+    },
+    "scarabresearch.com": {
+      "hardblock": true,
+      "owner": "Emarsys eMarketing Systems",
+      "rules": [
+        "scarabresearch\\.com"
+      ]
+    },
+    "schibsted.com": {
+      "hardblock": false,
+      "owner": "Schibsted Products and",
+      "rules": [
+        "schibsted\\.com\\/api\\/v1\\/sync",
+        "schibsted\\.com\\/api\\/v1\\/identify",
+        "schibsted\\.com\\/pulse-modern\\.min\\.js",
+        "schibsted\\.com\\/pulse\\.min\\.js",
+        "schibsted\\.com\\/plugins\\/local-history\\/plugin\\.js"
+      ]
+    },
+    "schibsted.io": {
+      "hardblock": false,
+      "owner": "Schibsted Products and",
+      "rules": [
+        "schibsted\\.io\\/prod\\/latest\\/gdpr-bundle\\.js",
+        "schibsted\\.io\\/prod\\/0\\.3\\.1\\/gdpr-bundle\\.js",
+        "schibsted\\.io\\/search\\/locationKeyWordsByIP"
+      ]
     },
     "scorecardresearch.com": {
       "hardblock": true,
       "owner": "comScore",
-      "rules": "scorecardresearch\\.com"
+      "rules": [
+        "scorecardresearch\\.com"
+      ]
+    },
+    "sddan.com": {
+      "hardblock": false,
+      "owner": "Sirdata",
+      "rules": [
+        "sddan\\.com\\/SC\\.d",
+        "sddan\\.com\\/GS\\.d",
+        "sddan\\.com\\/MAP\\.d",
+        "sddan\\.com\\/LAL\\.d"
+      ]
     },
     "securedvisit.com": {
       "hardblock": true,
       "owner": "4Cite Marketing",
-      "rules": "securedvisit\\.com"
+      "rules": [
+        "securedvisit\\.com"
+      ]
     },
     "segment.com": {
       "hardblock": true,
       "owner": "Segment.io",
-      "rules": "segment\\.com"
+      "rules": [
+        "segment\\.com"
+      ]
     },
     "segment.io": {
       "hardblock": true,
       "owner": "Segment.io",
-      "rules": "segment\\.io"
+      "rules": [
+        "segment\\.io"
+      ]
     },
     "semasio.net": {
       "hardblock": true,
       "owner": "Semasio",
-      "rules": "semasio\\.net"
+      "rules": [
+        "semasio\\.net"
+      ]
+    },
+    "sendinblue.com": {
+      "hardblock": false,
+      "owner": "Dual Technologies Services",
+      "rules": [
+        "sendinblue\\.com\\/public\\/theme\\/version4\\/assets\\/js\\/dependencies\\/jquery-1\\.7\\.2\\.min\\.js",
+        "sendinblue\\.com\\/static\\/js\\/vendor\\.17e2b927\\.chunk\\.js",
+        "sendinblue\\.com\\/public\\/theme\\/version4\\/assets\\/js\\/src\\/subscribe-validate\\.js",
+        "sendinblue\\.com\\/static\\/js\\/main\\.43e2b301\\.js",
+        "sendinblue\\.com\\/public\\/theme\\/version4\\/assets\\/js\\/src\\/subscribe-url\\.js"
+      ]
     },
     "servenobid.com": {
       "hardblock": false,
       "owner": "Prebid.org",
-      "rules": "servenobid\\.com"
+      "rules": [
+        "servenobid\\.com"
+      ]
     },
     "serverbid.com": {
       "hardblock": false,
       "owner": "Consumable",
-      "rules": "serverbid\\.com"
+      "rules": [
+        "serverbid\\.com"
+      ]
+    },
+    "sfr.fr": {
+      "hardblock": false,
+      "owner": "SOCIETE FRANCAISE DU RADIOTELEPHONE - SFR",
+      "rules": [
+        "sfr\\.fr\\/b\\/ss\\/sfrunvglobprod,sfrrmcsport\\/1\\/JS-2\\.12\\.0\\/s6631896384813",
+        "sfr\\.fr\\/b\\/ss\\/sfrunvglobprod,sfrunvmobprod\\/1\\/JS-2\\.12\\.0\\/s68679854497661",
+        "sfr\\.fr\\/rpset\\/sfr-fr\\/44742096"
+      ]
     },
     "sharedid.org": {
       "hardblock": false,
       "owner": "The Rubicon Project",
-      "rules": "sharedid\\.org\\/id"
+      "rules": [
+        "sharedid\\.org\\/usync",
+        "sharedid\\.org\\/id"
+      ]
     },
     "sharethis.com": {
       "hardblock": false,
       "owner": "ShareThis",
-      "rules": "sharethis\\.com"
+      "rules": [
+        "sharethis\\.com"
+      ]
     },
     "sharethrough.com": {
       "hardblock": true,
       "owner": "Sharethrough",
-      "rules": "sharethrough\\.com"
+      "rules": [
+        "sharethrough\\.com"
+      ]
     },
     "shop.app": {
       "hardblock": false,
       "owner": "Shopify",
-      "rules": "shop\\.app\\/pay\\/session"
+      "rules": [
+        "shop\\.app\\/pay\\/session"
+      ]
+    },
+    "sibautomation.com": {
+      "hardblock": false,
+      "owner": "Dual Technologies Services",
+      "rules": [
+        "sibautomation\\.com\\/cm\\.html",
+        "sibautomation\\.com\\/sa\\.js"
+      ]
     },
     "simpli.fi": {
       "hardblock": true,
       "owner": "Simplifi Holdings",
-      "rules": "simpli\\.fi"
+      "rules": [
+        "simpli\\.fi"
+      ]
+    },
+    "sirdata.io": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "sirdata\\.io"
+      ]
     },
     "siteimproveanalytics.com": {
       "hardblock": true,
       "owner": "Siteimprove",
-      "rules": "siteimproveanalytics\\.com"
+      "rules": [
+        "siteimproveanalytics\\.com"
+      ]
     },
     "siteimproveanalytics.io": {
       "hardblock": true,
       "owner": "Siteimprove",
-      "rules": "siteimproveanalytics\\.io"
+      "rules": [
+        "siteimproveanalytics\\.io"
+      ]
     },
     "sitescout.com": {
       "hardblock": true,
       "owner": "Centro",
-      "rules": "sitescout\\.com"
+      "rules": [
+        "sitescout\\.com"
+      ]
+    },
+    "sleeknote.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "sleeknote\\.com"
+      ]
     },
     "smaato.net": {
       "hardblock": true,
       "owner": "Smaato",
-      "rules": "smaato\\.net"
+      "rules": [
+        "smaato\\.net"
+      ]
     },
     "smadex.com": {
       "hardblock": false,
       "owner": "Entravision",
-      "rules": "smadex\\.com"
+      "rules": [
+        "smadex\\.com"
+      ]
     },
     "smartadserver.com": {
       "hardblock": true,
       "owner": "Smartadserver",
-      "rules": "smartadserver\\.com"
+      "rules": [
+        "smartadserver\\.com"
+      ]
+    },
+    "smilewanted.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "smilewanted\\.com"
+      ]
     },
     "snapchat.com": {
       "hardblock": false,
       "owner": "Snap",
-      "rules": "snapchat\\.com\\/shopify\\/shopify-scevent-init\\.js|snapchat\\.com\\/p|snapchat\\.com\\/cm"
+      "rules": [
+        "snapchat\\.com\\/shopify\\/shopify-scevent-init\\.js",
+        "snapchat\\.com\\/p",
+        "snapchat\\.com\\/cm"
+      ]
     },
     "socdm.com": {
       "hardblock": true,
       "owner": "Supership",
-      "rules": "socdm\\.com"
+      "rules": [
+        "socdm\\.com"
+      ]
     },
     "sonobi.com": {
       "hardblock": true,
       "owner": "Sonobi",
-      "rules": "sonobi\\.com"
+      "rules": [
+        "sonobi\\.com"
+      ]
     },
     "sp-prod.net": {
       "hardblock": false,
       "owner": "Sourcepoint",
-      "rules": "sp-prod\\.net"
+      "rules": [
+        "sp-prod\\.net"
+      ]
+    },
+    "speedcurve.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "speedcurve\\.com"
+      ]
     },
     "sportradarserving.com": {
       "hardblock": false,
       "owner": "Sportradar",
-      "rules": "sportradarserving\\.com\\/pixel|sportradarserving\\.com\\/sync|sportradarserving\\.com\\/ul_cb"
+      "rules": [
+        "sportradarserving\\.com\\/sync",
+        "sportradarserving\\.com\\/pixel",
+        "sportradarserving\\.com\\/ul_cb"
+      ]
     },
     "spotxchange.com": {
       "hardblock": true,
       "owner": "SpotX",
-      "rules": "spotxchange\\.com"
+      "rules": [
+        "spotxchange\\.com"
+      ]
+    },
+    "springserve.com": {
+      "hardblock": true,
+      "owner": "SpringServe",
+      "rules": [
+        "springserve\\.com"
+      ]
     },
     "stackadapt.com": {
       "hardblock": true,
       "owner": "Collective Roll",
-      "rules": "stackadapt\\.com"
+      "rules": [
+        "stackadapt\\.com"
+      ]
+    },
+    "statcounter.com": {
+      "hardblock": true,
+      "owner": "StatCounter",
+      "rules": [
+        "statcounter\\.com"
+      ]
+    },
+    "static-od.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "static-od\\.com"
+      ]
     },
     "stickyadstv.com": {
       "hardblock": true,
       "owner": "FreeWheel",
-      "rules": "stickyadstv\\.com"
+      "rules": [
+        "stickyadstv\\.com"
+      ]
+    },
+    "storygize.net": {
+      "hardblock": true,
+      "owner": "Storygize",
+      "rules": [
+        "storygize\\.net"
+      ]
+    },
+    "stroeerdigitalgroup.de": {
+      "hardblock": false,
+      "owner": "Str\u00f6er Group",
+      "rules": [
+        "stroeerdigitalgroup\\.de"
+      ]
+    },
+    "strpst.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "strpst\\.com"
+      ]
+    },
+    "studiostack.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "studiostack\\.com"
+      ]
+    },
+    "sundaysky.com": {
+      "hardblock": false,
+      "owner": "SundaySky",
+      "rules": [
+        "sundaysky\\.com\\/t\\/v1\\/j",
+        "sundaysky\\.com\\/t\\/v1\\/img",
+        "sundaysky\\.com\\/sync\\/dmp",
+        "sundaysky\\.com\\/sync\\/tremor-adx\\/"
+      ]
     },
     "survata.com": {
       "hardblock": true,
       "owner": "Survata",
-      "rules": "survata\\.com"
+      "rules": [
+        "survata\\.com"
+      ]
     },
     "taboola.com": {
       "hardblock": true,
       "owner": "Taboola",
-      "rules": "taboola\\.com"
+      "rules": [
+        "taboola\\.com"
+      ]
     },
     "tagcommander.com": {
       "hardblock": true,
       "owner": "Fjord",
-      "rules": "tagcommander\\.com"
+      "rules": [
+        "tagcommander\\.com"
+      ]
     },
     "tapad.com": {
       "hardblock": true,
       "owner": "Tapad",
-      "rules": "tapad\\.com"
+      "rules": [
+        "tapad\\.com"
+      ]
+    },
+    "taptapnetworks.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "taptapnetworks\\.com"
+      ]
     },
     "teads.tv": {
       "hardblock": true,
       "owner": "Teads",
-      "rules": "teads\\.tv"
+      "rules": [
+        "teads\\.tv"
+      ]
+    },
+    "tealiumiq.com": {
+      "hardblock": true,
+      "owner": "Tealium",
+      "rules": [
+        "tealiumiq\\.com"
+      ]
     },
     "technoratimedia.com": {
       "hardblock": true,
       "owner": "Synacor",
-      "rules": "technoratimedia\\.com"
+      "rules": [
+        "technoratimedia\\.com"
+      ]
+    },
+    "themoneytizer.com": {
+      "hardblock": false,
+      "owner": "The Moneytizer",
+      "rules": [
+        "themoneytizer\\.com\\/moneybile\\.js",
+        "themoneytizer\\.com\\/moneybid4_40\\/build_rb\\/dist\\/prebid\\.js",
+        "themoneytizer\\.com\\/s\\/requestform\\.js",
+        "themoneytizer\\.com\\/moneybid4_40\\/build_rb_noconsent\\/dist\\/prebid\\.js"
+      ]
     },
     "thrtle.com": {
       "hardblock": true,
       "owner": "Throtle",
-      "rules": "thrtle\\.com"
+      "rules": [
+        "thrtle\\.com"
+      ]
     },
     "tidaltv.com": {
       "hardblock": true,
       "owner": "Amobee",
-      "rules": "tidaltv\\.com"
+      "rules": [
+        "tidaltv\\.com"
+      ]
     },
     "tiktok.com": {
       "hardblock": false,
       "owner": "ByteDance",
-      "rules": "tiktok\\.com\\/node\\/common\\/shape-init|tiktok\\.com\\/ttwid\\/check\\/|tiktok\\.com\\/embed\\.js|tiktok\\.com\\/acrawler\\/webmssdk\\.js|tiktok\\.com\\/i18n\\/pixel"
+      "rules": [
+        "tiktok\\.com\\/embed\\.js",
+        "tiktok\\.com\\/node\\/common\\/shape-init",
+        "tiktok\\.com\\/acrawler\\/webmssdk\\.js",
+        "tiktok\\.com\\/ttwid\\/check\\/",
+        "tiktok\\.com\\/i18n\\/pixel"
+      ]
     },
     "tiqcdn.com": {
       "hardblock": true,
       "owner": "Tealium",
-      "rules": "tiqcdn\\.com"
+      "rules": [
+        "tiqcdn\\.com"
+      ]
+    },
+    "trackcmp.net": {
+      "hardblock": true,
+      "owner": "ActiveCampaign",
+      "rules": [
+        "trackcmp\\.net"
+      ]
+    },
+    "trackedlink.net": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "trackedlink\\.net"
+      ]
+    },
+    "trackedweb.net": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "trackedweb\\.net"
+      ]
+    },
+    "trackonomics.net": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "trackonomics\\.net"
+      ]
+    },
+    "tradetracker.net": {
+      "hardblock": false,
+      "owner": "TradeTracker",
+      "rules": [
+        "tradetracker\\.net\\/",
+        "tradetracker\\.net\\/tracker\\/merchant",
+        "tradetracker\\.net\\/tag"
+      ]
+    },
+    "treasuredata.com": {
+      "hardblock": true,
+      "owner": "Treasure Data",
+      "rules": [
+        "treasuredata\\.com"
+      ]
     },
     "tremorhub.com": {
       "hardblock": true,
       "owner": "Telaria",
-      "rules": "tremorhub\\.com"
+      "rules": [
+        "tremorhub\\.com"
+      ]
+    },
+    "trengo.eu": {
+      "hardblock": false,
+      "owner": "Trengo",
+      "rules": [
+        "trengo\\.eu\\/embed\\.js",
+        "trengo\\.eu\\/widget\\.js"
+      ]
     },
     "tribalfusion.com": {
       "hardblock": true,
       "owner": "Exponential Interactive",
-      "rules": "tribalfusion\\.com"
+      "rules": [
+        "tribalfusion\\.com"
+      ]
+    },
+    "tru.am": {
+      "hardblock": true,
+      "owner": "trueAnthem",
+      "rules": [
+        "tru\\.am"
+      ]
     },
     "trueleadid.com": {
       "hardblock": true,
       "owner": "Lead Intelligence",
-      "rules": "trueleadid\\.com"
+      "rules": [
+        "trueleadid\\.com"
+      ]
+    },
+    "truoptik.com": {
+      "hardblock": true,
+      "owner": "21 Productions",
+      "rules": [
+        "truoptik\\.com"
+      ]
     },
     "trustarc.com": {
       "hardblock": false,
       "owner": "TrustArc",
-      "rules": "trustarc\\.com\\/get|trustarc\\.com\\/cookie_inneriframe\\.html|trustarc\\.com\\/ca|trustarc\\.com\\/notice|trustarc\\.com\\/asset|trustarc\\.com\\/v2\\/notice|trustarc\\.com\\/defaultpreferencemanager"
+      "rules": [
+        "trustarc\\.com\\/ca",
+        "trustarc\\.com\\/cookie_inneriframe\\.html",
+        "trustarc\\.com\\/get",
+        "trustarc\\.com\\/notice",
+        "trustarc\\.com\\/v2\\/asset\\/crossdomain\\.min\\.html&domain=m2n52x",
+        "trustarc\\.com\\/asset",
+        "trustarc\\.com\\/v2\\/notice",
+        "trustarc\\.com\\/defaultpreferencemanager"
+      ]
     },
     "trustcommander.net": {
       "hardblock": true,
       "owner": "",
-      "rules": "trustcommander\\.net"
+      "rules": [
+        "trustcommander\\.net"
+      ]
+    },
+    "truste-svc.net": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "truste-svc\\.net"
+      ]
+    },
+    "truste.com": {
+      "hardblock": false,
+      "owner": "TrustArc",
+      "rules": [
+        "truste\\.com\\/ca",
+        "truste\\.com\\/notice"
+      ]
     },
     "trustedshops.com": {
       "hardblock": false,
       "owner": "Trusted Shops",
-      "rules": "trustedshops\\.com\\/assets\\/trustbadge\\.js|trustedshops\\.com\\/reviews\\/tsSticker\\/tsProductStickerSummary\\.js|trustedshops\\.com\\/reviews\\/tsSticker\\/tsSticker\\.js"
+      "rules": [
+        "trustedshops\\.com\\/assets\\/trustbadge\\.js",
+        "trustedshops\\.com\\/reviews\\/tsSticker\\/tsProductStickerSummary\\.js",
+        "trustedshops\\.com\\/reviews\\/tsSticker\\/tsSticker\\.js"
+      ]
     },
     "trustpilot.com": {
       "hardblock": false,
       "owner": "Trustpilot",
-      "rules": "trustpilot\\.com\\/bootstrap\\/v5\\/tp\\.widget\\.bootstrap\\.min\\.js|trustpilot\\.com\\/trustboxes|trustpilot\\.com\\/v2\\.1\\/js"
+      "rules": [
+        "trustpilot\\.com\\/embed",
+        "trustpilot\\.com\\/tp\\.min\\.js",
+        "trustpilot\\.com\\/bootstrap\\/v5\\/tp\\.widget\\.bootstrap\\.min\\.js",
+        "trustpilot\\.com\\/trustboxes",
+        "trustpilot\\.com\\/v2\\.1\\/js"
+      ]
     },
     "trustx.org": {
       "hardblock": true,
       "owner": "DCN",
-      "rules": "trustx\\.org"
+      "rules": [
+        "trustx\\.org"
+      ]
     },
     "tsyndicate.com": {
       "hardblock": true,
       "owner": "Traffic Stars",
-      "rules": "tsyndicate\\.com"
+      "rules": [
+        "tsyndicate\\.com"
+      ]
+    },
+    "tubemogul.com": {
+      "hardblock": true,
+      "owner": "Adobe",
+      "rules": [
+        "tubemogul\\.com"
+      ]
     },
     "turn.com": {
       "hardblock": true,
       "owner": "Amobee",
-      "rules": "turn\\.com"
+      "rules": [
+        "turn\\.com"
+      ]
+    },
+    "tvsquared.com": {
+      "hardblock": true,
+      "owner": "TVSquared",
+      "rules": [
+        "tvsquared\\.com"
+      ]
     },
     "twitter.com": {
       "hardblock": false,
       "owner": "Twitter",
-      "rules": "twitter\\.com\\/favicon\\.ico|twitter\\.com\\/i\\/adsct|twitter\\.com\\/timeline\\/profile|twitter\\.com\\/impressions\\.js|twitter\\.com\\/intent\\/tweet|twitter\\.com\\/statuses\\/user_timeline\\/cafepedagogique\\.json|twitter\\.com\\/i\\/jot|twitter\\.com\\/widgets|twitter\\.com\\/embed|twitter\\.com\\/js|twitter\\.com\\/1"
+      "rules": [
+        "twitter\\.com\\/intent\\/tweet",
+        "twitter\\.com\\/statuses\\/user_timeline\\/cafepedagogique\\.json",
+        "twitter\\.com\\/i\\/adsct",
+        "twitter\\.com\\/i\\/jot",
+        "twitter\\.com\\/favicon\\.ico",
+        "twitter\\.com\\/impressions\\.js",
+        "twitter\\.com\\/timeline\\/profile",
+        "twitter\\.com\\/widgets",
+        "twitter\\.com\\/embed",
+        "twitter\\.com\\/js",
+        "twitter\\.com\\/1"
+      ]
     },
     "tynt.com": {
       "hardblock": false,
       "owner": "33Across",
-      "rules": "tynt\\.com"
+      "rules": [
+        "tynt\\.com"
+      ]
     },
     "undertone.com": {
       "hardblock": true,
       "owner": "Undertone Networks",
-      "rules": "undertone\\.com"
+      "rules": [
+        "undertone\\.com"
+      ]
     },
     "unrulymedia.com": {
       "hardblock": false,
       "owner": "Unruly Group",
-      "rules": "unrulymedia\\.com"
+      "rules": [
+        "unrulymedia\\.com"
+      ]
+    },
+    "usabilla.com": {
+      "hardblock": true,
+      "owner": "Usabilla",
+      "rules": [
+        "usabilla\\.com"
+      ]
     },
     "usercentrics.eu": {
       "hardblock": true,
       "owner": "",
-      "rules": "usercentrics\\.eu"
+      "rules": [
+        "usercentrics\\.eu"
+      ]
     },
     "userreport.com": {
       "hardblock": true,
       "owner": "AudienceProject",
-      "rules": "userreport\\.com"
+      "rules": [
+        "userreport\\.com"
+      ]
+    },
+    "vgwort.de": {
+      "hardblock": false,
+      "owner": "Verwertungsgesellschaft WORT",
+      "rules": [
+        "vgwort\\.de\\/blank\\.gif",
+        "vgwort\\.de\\/na\\/347c31e9860242adbb51c534a9a8b966"
+      ]
+    },
+    "viafoura.co": {
+      "hardblock": false,
+      "owner": "Viafoura",
+      "rules": [
+        "viafoura\\.co\\/v3\\/www\\.cbc\\.ca\\/ingest",
+        "viafoura\\.co\\/v2\\/www\\.cbc\\.ca\\/bootstrap\\/v2"
+      ]
+    },
+    "viafoura.net": {
+      "hardblock": false,
+      "owner": "Viafoura",
+      "rules": [
+        "viafoura\\.net\\/vf-v2\\.js",
+        "viafoura\\.net\\/chunks\\/tray-trigger\\.d1fc88442dff8936658f\\.js",
+        "viafoura\\.net\\/chunks\\/vf-css\\.61dffeb0e9108adedd67\\.js"
+      ]
+    },
+    "videohub.tv": {
+      "hardblock": true,
+      "owner": "Tremor Video DSP",
+      "rules": [
+        "videohub\\.tv"
+      ]
     },
     "videoplayerhub.com": {
       "hardblock": false,
       "owner": "Blockthrough",
-      "rules": "videoplayerhub\\.com"
+      "rules": [
+        "videoplayerhub\\.com"
+      ]
     },
     "viglink.com": {
       "hardblock": true,
       "owner": "Sovrn Holdings",
-      "rules": "viglink\\.com"
+      "rules": [
+        "viglink\\.com"
+      ]
     },
     "visualwebsiteoptimizer.com": {
       "hardblock": true,
       "owner": "Wingify",
-      "rules": "visualwebsiteoptimizer\\.com"
+      "rules": [
+        "visualwebsiteoptimizer\\.com"
+      ]
+    },
+    "vk.com": {
+      "hardblock": false,
+      "owner": "Mail.Ru",
+      "rules": [
+        "vk\\.com\\/dist\\/api\\/widgets\\/comments\\.js",
+        "vk\\.com\\/js\\/al\\/lite\\.js",
+        "vk\\.com\\/dist\\/common\\.d825032723e05b2af95d\\.js",
+        "vk\\.com\\/widget_subscribe\\.php",
+        "vk\\.com\\/js\\/loader_nav21548527012_3\\.js",
+        "vk\\.com\\/js\\/api\\/openapi\\.js",
+        "vk\\.com\\/share\\.php",
+        "vk\\.com\\/js\\/api\\/share\\.js",
+        "vk\\.com\\/widget_like\\.php",
+        "vk\\.com\\/js\\/api\\/xdm\\.js",
+        "vk\\.com\\/",
+        "vk\\.com\\/js\\/lang3_0\\.js",
+        "vk\\.com\\/method\\/likes\\.getList",
+        "vk\\.com\\/al_im\\.php",
+        "vk\\.com\\/dist\\/audioplayer\\.689dbee033d847462f36\\.js",
+        "vk\\.com\\/widget_comments\\.php",
+        "vk\\.com\\/login\\.php",
+        "vk\\.com\\/dist\\/lottie\\.c879c49410c1c4c5065f\\.js",
+        "vk\\.com\\/js\\/loader_nav8529166_3\\.js",
+        "vk\\.com\\/widget_community\\.php",
+        "vk\\.com\\/rtrg",
+        "vk\\.com\\/q_frame\\.php",
+        "vk\\.com\\/dist\\/web\\/abc_light\\.0d46a4681f6891873465\\.js",
+        "vk\\.com\\/dist\\/api\\/widgets\\/community\\.js",
+        "vk\\.com\\/widget_community_messages\\.php"
+      ]
+    },
+    "volvelle.tech": {
+      "hardblock": true,
+      "owner": "Optomaton UG (haftungsbeschr\u00e4nkt)",
+      "rules": [
+        "volvelle\\.tech"
+      ]
     },
     "w55c.net": {
       "hardblock": true,
       "owner": "DataXu",
-      "rules": "w55c\\.net"
+      "rules": [
+        "w55c\\.net"
+      ]
     },
     "walmart.com": {
       "hardblock": true,
       "owner": "Walmart",
-      "rules": "walmart\\.com"
+      "rules": [
+        "walmart\\.com"
+      ]
+    },
+    "webclicks24.com": {
+      "hardblock": true,
+      "owner": "webclicks24.com",
+      "rules": [
+        "webclicks24\\.com"
+      ]
+    },
+    "webcontentassessor.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "webcontentassessor\\.com"
+      ]
     },
     "weborama.fr": {
       "hardblock": true,
       "owner": "Weborama",
-      "rules": "weborama\\.fr"
+      "rules": [
+        "weborama\\.fr"
+      ]
+    },
+    "webshopapp.com": {
+      "hardblock": false,
+      "owner": "Lightspeed Netherlands",
+      "rules": [
+        "webshopapp\\.com\\/shops\\/255934\\/themes\\/174593\\/assets\\/semantic\\.js",
+        "webshopapp\\.com\\/shops\\/255934\\/themes\\/174593\\/assets\\/jquery-countdown-min\\.js",
+        "webshopapp\\.com\\/assets\\/jquery-ui-1-10-1\\.js",
+        "webshopapp\\.com\\/shops\\/255934\\/themes\\/174593\\/assets\\/js-cookie\\.js",
+        "webshopapp\\.com\\/assets\\/jquery-1-9-1\\.js",
+        "webshopapp\\.com\\/shops\\/277641\\/themes\\/156284\\/assets\\/push-loader\\.js",
+        "webshopapp\\.com\\/assets\\/jquery-migrate-1-1-1\\.js"
+      ]
+    },
+    "webvisor.org": {
+      "hardblock": true,
+      "owner": "Yandex",
+      "rules": [
+        "webvisor\\.org"
+      ]
+    },
+    "wpadmngr.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "wpadmngr\\.com"
+      ]
+    },
+    "wpushsdk.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "wpushsdk\\.com"
+      ]
+    },
+    "wt-eu02.net": {
+      "hardblock": false,
+      "owner": "Webtrekk",
+      "rules": [
+        "wt-eu02\\.net\\/458677892662477\\/wt",
+        "wt-eu02\\.net\\/504684408060410\\/wt",
+        "wt-eu02\\.net\\/414349859880059\\/wt",
+        "wt-eu02\\.net\\/292330999892453\\/wt",
+        "wt-eu02\\.net\\/215973748390194\\/wt",
+        "wt-eu02\\.net\\/422850192622837,470469396174123\\/wt",
+        "wt-eu02\\.net\\/988195797407130\\/wt",
+        "wt-eu02\\.net\\/848638825860889\\/wt",
+        "wt-eu02\\.net\\/968797372740766\\/wt",
+        "wt-eu02\\.net\\/484344353165262\\/wt",
+        "wt-eu02\\.net\\/562387013858705\\/wt",
+        "wt-eu02\\.net\\/292330999892453\\/cc",
+        "wt-eu02\\.net\\/769396664005295\\/wt",
+        "wt-eu02\\.net\\/602039762736393\\/wt",
+        "wt-eu02\\.net\\/284707377370428\\/wt"
+      ]
+    },
+    "wysistat.com": {
+      "hardblock": false,
+      "owner": "ID.fr",
+      "rules": [
+        "wysistat\\.com\\/images\\/izeos_groupe\\/compteur\\.php",
+        "wysistat\\.com\\/images\\/ouestfrance\\/compteur\\.php",
+        "wysistat\\.com\\/images\\/lefigaro\\/compteur\\.php",
+        "wysistat\\.com\\/statistique\\.js",
+        "wysistat\\.com\\/images\\/lacroix\\/compteur\\.php",
+        "wysistat\\.com\\/images\\/lcm\\/compteur\\.php"
+      ]
+    },
+    "xg4ken.com": {
+      "hardblock": true,
+      "owner": "Kenshoo TLD",
+      "rules": [
+        "xg4ken\\.com"
+      ]
     },
     "xiti.com": {
       "hardblock": true,
       "owner": "AT Internet",
-      "rules": "xiti\\.com"
+      "rules": [
+        "xiti\\.com"
+      ]
     },
     "xxxjmp.com": {
       "hardblock": true,
       "owner": "",
-      "rules": "xxxjmp\\.com"
+      "rules": [
+        "xxxjmp\\.com"
+      ]
     },
     "yadro.ru": {
       "hardblock": true,
       "owner": "ECO PC - Complex Solutions",
-      "rules": "yadro\\.ru"
+      "rules": [
+        "yadro\\.ru"
+      ]
+    },
+    "yahoo.co.jp": {
+      "hardblock": true,
+      "owner": "Yahoo Japan",
+      "rules": [
+        "yahoo\\.co\\.jp"
+      ]
     },
     "yahoo.com": {
       "hardblock": false,
       "owner": "Verizon Media",
-      "rules": "yahoo\\.com\\/bid\\/prebid|yahoo\\.com\\/sp-frame\\.html|yahoo\\.com\\/p|yahoo\\.com\\/cms\\/v1|yahoo\\.com\\/mbcsc|yahoo\\.com\\/vzn|yahoo\\.com\\/gossip|yahoo\\.com\\/yv|yahoo\\.com\\/oath\\/js\\/1\\/oath-player\\.js|yahoo\\.com\\/beacon\\/csp|yahoo\\.com\\/log|yahoo\\.com\\/vjs\\/native-display|yahoo\\.com\\/cms|yahoo\\.com\\/v1\\/recommends|yahoo\\.com\\/bidRequest|yahoo\\.com\\/sy\\/os\\/fontserver\\/YahooSans\\/ExtraBold\\.woff2|yahoo\\.com\\/sp\\.pl|yahoo\\.com\\/v2\\/public\\/yql|yahoo\\.com\\/sp\\/v0\\/pixels|yahoo\\.com\\/opus\\/tag\\/opus-frame\\.html|yahoo\\.com\\/spp\\.pl|yahoo\\.com\\/tdv2_mtls_fp\\/remote|yahoo\\.com\\/v2\\/ads\\/js|yahoo\\.com\\/tag\\/opus-frame\\.html|yahoo\\.com\\/caas\\/content\\/article\\/|yahoo\\.com\\/ym|yahoo\\.com\\/|yahoo\\.com\\/js\\/admax\\/admax_api_https\\.js|yahoo\\.com\\/sy\\/os\\/fontserver\\/YahooSans\\/Regular\\.woff2|yahoo\\.com\\/v2\\/cexposer\\/SIG=11lum9jej\\/*https%3A\\/\\/www\\.tumblr\\.com\\/yahoo_cookie_receiver\\.html|yahoo\\.com\\/b|yahoo\\.com\\/bid\\/sra\\/zeus|yahoo\\.com\\/sy\\/os\\/fontserver\\/YahooSans\\/Semibold\\.woff2|yahoo\\.com\\/fac-sync|yahoo\\.com\\/sync|yahoo\\.com\\/ups|yahoo\\.com\\/a"
+      "rules": [
+        "yahoo\\.com\\/sp\\.pl",
+        "yahoo\\.com\\/gossip",
+        "yahoo\\.com\\/caas\\/content\\/article\\/",
+        "yahoo\\.com\\/yv",
+        "yahoo\\.com\\/v2\\/ads\\/js",
+        "yahoo\\.com\\/cms\\/v1",
+        "yahoo\\.com\\/vjs\\/native-display",
+        "yahoo\\.com\\/sy\\/os\\/fontserver\\/YahooSans\\/Regular\\.woff2",
+        "yahoo\\.com\\/sp\\/v0\\/pixels",
+        "yahoo\\.com\\/bid\\/prebid",
+        "yahoo\\.com\\/spp\\.pl",
+        "yahoo\\.com\\/v2\\/cexposer\\/SIG=11lum9jej\\/*https%3A\\/\\/www\\.tumblr\\.com\\/yahoo_cookie_receiver\\.html",
+        "yahoo\\.com\\/",
+        "yahoo\\.com\\/sp-frame\\.html",
+        "yahoo\\.com\\/fac-sync",
+        "yahoo\\.com\\/v1\\/recommends",
+        "yahoo\\.com\\/oath\\/js\\/1\\/oath-player\\.js",
+        "yahoo\\.com\\/beacon\\/csp",
+        "yahoo\\.com\\/log",
+        "yahoo\\.com\\/sy\\/os\\/fontserver\\/YahooSans\\/ExtraBold\\.woff2",
+        "yahoo\\.com\\/vzn",
+        "yahoo\\.com\\/tag\\/opus-frame\\.html",
+        "yahoo\\.com\\/js\\/admax\\/admax_api_https\\.js",
+        "yahoo\\.com\\/opus\\/tag\\/opus-frame\\.html",
+        "yahoo\\.com\\/bidRequest",
+        "yahoo\\.com\\/p",
+        "yahoo\\.com\\/sy\\/os\\/fontserver\\/YahooSans\\/Semibold\\.woff2",
+        "yahoo\\.com\\/v2\\/public\\/yql",
+        "yahoo\\.com\\/ym",
+        "yahoo\\.com\\/b",
+        "yahoo\\.com\\/bid\\/sra\\/zeus",
+        "yahoo\\.com\\/tdv2_mtls_fp\\/remote",
+        "yahoo\\.com\\/mbcsc",
+        "yahoo\\.com\\/cms",
+        "yahoo\\.com\\/sync",
+        "yahoo\\.com\\/ups",
+        "yahoo\\.com\\/a"
+      ]
     },
     "yandex.com": {
       "hardblock": false,
       "owner": "Yandex",
-      "rules": "yandex\\.com\\/watch|yandex\\.com\\/sync_cookie"
+      "rules": [
+        "yandex\\.com\\/watch",
+        "yandex\\.com\\/sync_cookie"
+      ]
     },
     "yieldlab.net": {
       "hardblock": true,
       "owner": "Virtual Minds",
-      "rules": "yieldlab\\.net"
+      "rules": [
+        "yieldlab\\.net"
+      ]
+    },
+    "yieldlove-ad-serving.net": {
+      "hardblock": true,
+      "owner": "Yieldlove",
+      "rules": [
+        "yieldlove-ad-serving\\.net"
+      ]
     },
     "yieldlove.com": {
       "hardblock": true,
       "owner": "Yieldlove",
-      "rules": "yieldlove\\.com"
+      "rules": [
+        "yieldlove\\.com"
+      ]
     },
     "yieldmo.com": {
       "hardblock": true,
       "owner": "YieldMo",
-      "rules": "yieldmo\\.com"
+      "rules": [
+        "yieldmo\\.com"
+      ]
+    },
+    "yieldscale.com": {
+      "hardblock": true,
+      "owner": "",
+      "rules": [
+        "yieldscale\\.com"
+      ]
+    },
+    "yimg.jp": {
+      "hardblock": true,
+      "owner": "Yahoo Japan",
+      "rules": [
+        "yimg\\.jp"
+      ]
+    },
+    "yotpo.com": {
+      "hardblock": false,
+      "owner": "Yotpo",
+      "rules": [
+        "yotpo\\.com"
+      ]
     },
     "zemanta.com": {
       "hardblock": true,
       "owner": "Outbrain",
-      "rules": "zemanta\\.com"
+      "rules": [
+        "zemanta\\.com"
+      ]
     },
     "zeotap.com": {
       "hardblock": false,
       "owner": "Zeotap",
-      "rules": "zeotap\\.com"
+      "rules": [
+        "zeotap\\.com"
+      ]
     },
     "zopim.com": {
       "hardblock": false,
       "owner": "Zendesk",
-      "rules": "zopim\\.com\\/client\\/widget\\/account\\/status|zopim\\.com\\/w"
+      "rules": [
+        "zopim\\.com\\/w",
+        "zopim\\.com\\/web-sdk\\/1\\.8\\.1\\/web-sdk\\.js",
+        "zopim\\.com\\/client\\/widget\\/account\\/status",
+        "zopim\\.com\\/web-sdk\\/latest\\/web-sdk\\.js"
+      ]
+    },
+    "zprk.io": {
+      "hardblock": false,
+      "owner": "Near",
+      "rules": [
+        "zprk\\.io"
+      ]
     }
   }
 }

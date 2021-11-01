@@ -1,13 +1,6 @@
 import json
-import argparse
-
-
-parser = argparse.ArgumentParser()
-parser.add_argument('-m', '--minified', action='store_true')
 
 def main():
-    args = parser.parse_args()
-
     exceptions = {}
     block_list = {}
     with open("exceptions.json") as file:
@@ -37,28 +30,39 @@ def main():
     compiled = {}
     compiled["domainRegex"] = domain_regex
 
+    m_compiled = {}
+    m_compiled["domainRegex"] = domain_regex
+
     compiled_domains = {}
+    m_compiled_domains = {}
+
     for domain, value in block_list.items():
         compiled_domains[domain] = {}
         compiled_domains[domain]['hardblock'] = value['hardblock']
 
+        m_compiled_domains[domain] = {}
+        m_compiled_domains[domain]['hardblock'] = value['hardblock']
+
         compiled_domains[domain]["owner"] = ""
+        m_compiled_domains[domain]["owner"] = ""
         if value["owner"]:
             compiled_domains[domain]["owner"] = value["owner"]["displayName"]
+            m_compiled_domains[domain]["owner"] = value["owner"]["displayName"]
 
-        compiled_domains[domain]["rules"] = "|".join(value["rules"])
+        compiled_domains[domain]["rules"] = value["rules"]
+        m_compiled_domains[domain]["rules"] = "|".join(value["rules"])
 
     compiled["domains"] = compiled_domains
+    m_compiled["domains"] = m_compiled_domains
 
     with open('block.compiled.json', 'w') as f:
         result_json = json.dumps(compiled, indent=2, sort_keys=True)
         f.write(result_json)
 
-    if args.minified:
-        print("producing minified json...")
-        with open('block.compiled.minified.json', "w") as f:
-            result_json = json.dumps(compiled, sort_keys=True, separators=(',', ':'))
-            f.write(result_json)
+    print("producing minified json...")
+    with open('block.compiled.minified.json', "w") as f:
+        result_json = json.dumps(m_compiled, sort_keys=True, separators=(',', ':'))
+        f.write(result_json)
 
     print("done.")
 
